@@ -3,10 +3,10 @@ INSTALL
 -------
 
 
-  - install flask::
+  - install flask and PIL::
     virtualenv env
     source env/bin/activate
-    pip install Flask
+    pip install Flask pil
   - test your installation::
     python app/test.py
 
