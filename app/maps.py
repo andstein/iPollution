@@ -44,7 +44,7 @@ class gradient(object):
                 best= i
 
         if self.interpolate:
-            raise Exception('not implemented yet') #TODO
+            raise Exception('not implemented yet') #TODO ?
             if hue < self.tuples[i][1]:
                 if i>0:
                     return self.between(hue,self.tuples[i-1],self.tuples[i])
@@ -58,6 +58,8 @@ class gradient(object):
         return vh1[0] + (vh2[0]-vh1[0]) * (h-vh1[1])/(vh2[1]-vh1[1])
 
 
+class MapException(Exception):
+    pass
 
 class mapImage(object):
 
@@ -79,6 +81,9 @@ class mapImage(object):
     def pixel(self,e,n):
         ''' returns pixel value (0..1,0..1,0..1) at specified coordinates '''
         x,y = coord2xy(e,n)
+        if x>=self.img.size[0] or x<0 or y>=self.img.size[1] or y<0:
+            raise MapException('indexes {e}/{n} (mapping to {x},{y}) out of bounds'.format(
+                e=e,n=n,x=x,y=y))
         r,g,b= self.pixels[int(x),int(y)] #TODO bound checks, interpolate
         return (r/256.,g/256.,b/256.)
 
@@ -94,7 +99,7 @@ class mapImage(object):
 
     def value(self,e,n):
         if not self.valid(e,n):
-            raise Exception('cannot calculate value for invalid pixel')
+            raise MapException('cannot calculate value for invalid pixel')
         return self.gradient.get(self.hue(e,n))
         # there's no blue in the maps, so we map around
 
@@ -108,9 +113,4 @@ class mapImage(object):
         del draw
         img.save(fname)
 
-
-images= []
-for fname in os.listdir(config.images_dir):
-    if fname_re.match(fname):
-        images.append( mapImage(os.path.join(config.images_dir,fname)) )
 

@@ -40,3 +40,9 @@ class locateCH(object):
 
         return ret
 
+
+    def by_plz(self,plz):
+        for x in self.data:
+            if x['plz'] == plz:
+                return x
+        return None

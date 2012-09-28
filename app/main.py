@@ -1,5 +1,6 @@
 import os.path
 import json
+import time
 
 from flask import Flask,request,jsonify,Response,render_template
 from jinja2 import Template,FileSystemLoader,Environment
@@ -7,7 +8,18 @@ from jinja2 import Template,FileSystemLoader,Environment
 import config,plz,maps
 
 app = Flask(__name__)
+
+t0= time.time()
 locator= plz.locateCH(config.plz_csv_file)
+print 'loaded PLZ database in {ms} ms'.format( ms = int(1000 * (time.time()-t0)) )
+
+t0= time.time()
+images= []
+for fname in os.listdir(config.images_dir):
+    if maps.fname_re.match(fname):
+        images.append( maps.mapImage(os.path.join(config.images_dir,fname)) )
+print 'loaded {n} images in {ms} ms'.format( n = len(images), ms = int(1000 * (time.time()-t0)) )
+
 
 def my_jsonify(data):
     content = json.dumps(data)
@@ -34,17 +46,53 @@ def search():
     return my_jsonify(names)
 
 
+def coordinates_from_params():
+
+    if 'location' in request.args:
+
+        location= request.args.get('location')
+        xs = locator.find(location)
+        if len(xs) == 0:
+            raise KeyError('location {0} not found in database'.format(location))
+
+        return xs[0]['coord']
+
+    elif 'plz' in request.args:
+
+        plz= request.args.get('plz')
+        x = locator.by_plz(plz)
+        if x == None:
+            raise KeyError('plz {0} not found in database'.format(plz))
+        return x['coord']
+
+    elif 'coord' in request.args:
+
+        return map(int,request.args.get('coord').split(','))
+
+    else:
+
+        raise KeyError('must specify location/plz/coord')
+
+
 @app.route('/values')
 def get_values():
-    locations = locator.find(request.args.get('location',''))
-    if len(locations) == 0:
-        return ''
 
-    e,n = locations[0]['coord']
+    e,n = None,None
+    try:
+        e,n= coordinates_from_params()
+    except KeyError,e:
+        return my_jsonify('error : ' + str(e))
 
     data = {}
-    for img in maps.images:
-        data.setdefault(img.substance,{})[img.year] = img.value(e,n)
+    for img in images:
+        try:
+            data.setdefault(img.substance,{})[img.year] = img.value(e,n)
+        except maps.MapException,x:
+            data.setdefault('errors',[]).append('could not calculate {substance} in year {year} : {msg}'.format(
+                substance = img.substance,
+                year = img.year,
+                msg = str(x)
+                ))
 
     return my_jsonify(data)
 
