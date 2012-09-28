@@ -1,21 +1,16 @@
 $(function() {
     $( "#location" ).autocomplete({
-        source: function( request, response ) {
+        source:
+            function( request, response ) {
             $.ajax({
-                url: "http://ws.geonames.org/searchJSON",
+                url: "http://192.168.51.57:5000/search",
                 dataType: "jsonp",
                 data: {
-                    featureClass: "P",
-                    style: "full",
                     maxRows: 12,
-                    name_startsWith: request.term
+                    term: request.term
                 },
                 success: function( data ) {
-                    response( $.map( data.geonames, function( item ) {
-                        return {
-                            value: item.name
-                        }
-                    }));
+                    response( data);
                 }
             });
         },
