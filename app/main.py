@@ -4,7 +4,7 @@ import json
 from flask import Flask,request,jsonify,Response
 from jinja2 import Template,FileSystemLoader,Environment
 
-import config,plz
+import config,plz,maps
 
 app = Flask(__name__)
 jenv= Environment(loader=FileSystemLoader(config.template_dir))
@@ -35,11 +35,22 @@ def search():
 
 @app.route('/values')
 def get_values():
-    location = request.args('location')
+    locations = locator.find(request.args.get('location',''))
+    if len(locations) == 0:
+        return ''
+
+    e,n = locations[0]['coord']
+
+    data = {}
+    for img in maps.images:
+        data.setdefault(img.substance,{})[img.year] = img.value(e,n)
+
+    return my_jsonify(data)
 
 if __name__ == '__main__':
     print 'open the following URL in your web browser:'
     app.debug= True
     app.run()
+#    app.run(port=8888)
 #    app.run(host='0.0.0.0')
 

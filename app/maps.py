@@ -70,6 +70,7 @@ class mapImage(object):
         if not m:
             raise Exception('not valid file name for mapImage : ' + basename)
         self.timestamp = m.group('timestamp')
+        self.year = int(self.timestamp[:4])
         self.substance = m.group('substance')
         self.gradient = gradient(mappings[self.substance])
         self.img = Image.open(fname)
