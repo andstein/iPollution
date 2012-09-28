@@ -1,6 +1,6 @@
 function retrieveData() {
     $.ajax({
-        url:"http://192.168.51.57:5000/values",
+        url:values_url,
         dataType:"jsonp",
         data:{
             location:$("#location").val()

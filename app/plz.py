@@ -1,4 +1,4 @@
-
+# -*- coding: utf-8 -*-
 
 class locateCH(object):
 
@@ -11,13 +11,14 @@ class locateCH(object):
 
             for line in f.readlines()[1:]:
 
-                ort,plz,x,gemeinde,canton,e,n = line.rstrip().split(';')
+                ort,plz,x,gemeinde,canton,e,n = line.decode('utf-8').rstrip().split(';')
                 self.data.append({
                         'ort' : ort,
                         'ort_f' : self.fuzzify(ort),
                         'plz' : plz,
                         'coord' : (int(e),int(n)),
                     })
+
 
     def fuzzify(self,x):
         return x.lower() #TODO implement
@@ -28,6 +29,10 @@ class locateCH(object):
 
         ret= []
         orte = []
+
+        print prefix + ' -- ' + ''.join(["%02x-"%ord(x) for x in prefix])
+        print '==='+str(type(prefix))
+        print '---'+str(prefix==u'zürich')
 
         for x in self.data:
 
