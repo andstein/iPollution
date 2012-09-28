@@ -1,8 +1,9 @@
 import os.path
 import json
 import time
+import StringIO
 
-from flask import Flask,request,jsonify,Response,render_template
+from flask import Flask,request,jsonify,Response,render_template,redirect,url_for
 from jinja2 import Template,FileSystemLoader,Environment
 
 import config,plz,maps
@@ -95,6 +96,32 @@ def get_values():
                 ))
 
     return my_jsonify(data)
+
+
+@app.route('/dump')
+def dump_image():
+
+    e,n = None,None
+    try:
+        e,n= coordinates_from_params()
+    except KeyError,e:
+        return redirect(url_for('static',filename='img/invalid.png'))
+
+    for img in images:
+        if img.substance == request.args.get('substance') and \
+            str(img.year) == request.args.get('year'):
+
+            fileobj = StringIO.StringIO()
+            img.dump(e,n,fileobj)
+            content = fileobj.getvalue()
+            fileobj.close()
+
+            return Response( response=content, mimetype='image/png' )
+
+        print img.substance + '--' + img.year
+
+    return redirect(url_for('static',filename='img/not_found.png'))
+
 
 if __name__ == '__main__':
     print 'open the following URL in your web browser:'

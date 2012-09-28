@@ -104,13 +104,15 @@ class mapImage(object):
         # there's no blue in the maps, so we map around
 
 
-    def dump(self,e,n,fname):
-        ''' for debugging purposes; draws rectangle at coordinates '''
+    def dump(self,e,n,fileobj):
+        ''' mark coordinates; fileobj can be filename.png or StringIO '''
         img = Image.open(self.fname)
         draw = ImageDraw.Draw(img)
         x,y= coord2xy(e,n)
-        draw.rectangle( [x-5,y-5,x+5,y+5] ,outline='#FF0000' )
+        draw.line( [x,0,x,self.img.size[1]] ,fill='#FF0000' )
+        draw.line( [0,y,self.img.size[0],y] ,fill='#FF0000' )
+#        draw.rectangle( [x-5,y-5,x+5,y+5] ,outline='#FF0000' )
         del draw
-        img.save(fname)
+        img.save(fileobj,format='PNG')
 
 
