@@ -1,10 +1,4 @@
 $(function() {
-    function log( message ) {
-        $( "#location").text(message);
-        $( "<div/>" ).text( message ).prependTo( "#log" );
-        $( "#log" ).scrollTop( 0 );
-    }
-
     $( "#location" ).autocomplete({
         source: function( request, response ) {
             $.ajax({
