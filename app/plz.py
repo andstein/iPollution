@@ -30,10 +30,6 @@ class locateCH(object):
         ret= []
         orte = []
 
-        print prefix + ' -- ' + ''.join(["%02x-"%ord(x) for x in prefix])
-        print '==='+str(type(prefix))
-        print '---'+str(prefix==u'zürich')
-
         for x in self.data:
 
             if x['ort_f'][:len(prefix_f)] == prefix_f and x['ort'] not in orte:

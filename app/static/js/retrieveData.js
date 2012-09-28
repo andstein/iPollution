@@ -22,9 +22,58 @@ function retrieveData() {
                 pm10.push(pm10Val);
             }
 
+            // calculate totals; interpolate simply by repeating
+            var totals={};
+            var guesseds={};
+            for(var substance in {o3:'o3',no2:'no2',pm10:'pm10'}) 
+            {
+                var total=0,guessed=0,dept=0,last=-1;
+                for(var y=year_start; y<=year_stop; y++) 
+                {
+                    if (y in data[substance]) {
+                        last= data[substance][y];
+                        total+= last * (1+dept);
+                        dept=0;
+                    } else {
+                        guessed++;
+                        if (last<0)
+                            dept++;
+                        else
+                            total+= last;
+                    }
+                }
+                totals[substance] = total;
+                guesseds[substance] = guessed;
+            }
+
+            renderTotals( totals,guesseds );
             renderChart(o3, no2, pm10);
         }
     });
+}
+
+function renderTotals( totals, guesseds ) {
+    console.log('--totals');
+    $.each(totals,function(k,v) {
+        console.log('k='+k+'; v='+v);
+    });
+    console.log('--guesseds');
+    $.each(guesseds,function(k,v) {
+        console.log('k='+k+'; v='+v);
+    });
+    $('#row_head').append($('<th></th>').append(
+                $('#location').val()
+                ));
+    // an average persons breathes 12m3 / day ...
+    $('#row_pm10').append($('<td></td>').append(
+                (totals['pm10'] * 12 * 365 / 1e6) + ' g'
+                ));
+    $('#row_no2').append($('<td></td>').append(
+                (totals['no2'] * 12 * 365 / 1e6) / 2.62 + ' l'
+                ));
+    $('#row_o3').append($('<td></td>').append(
+                (totals['o3']) + ' h'
+                ));
 }
 
 function renderChart(o3, no2, finedust) {
