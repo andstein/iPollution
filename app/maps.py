@@ -6,7 +6,7 @@ import Image, ImageDraw
 import config
 
 
-# maps from hue to value for different substance
+# datapoints ( value , hue ) for different maps
 mappings= {
         'no2': [ [2.5, 208], [7.5, 180], [12.5, 100], [17.5, 80], [22.5, 60], [27.5, 51], [32.5, 40], [37.5, 0], [42.5, 286] ],
         'o3': [ [50, 180], [150, 80], [250, 60], [350, 40], [450, 0], [550, 286] ],
@@ -30,33 +30,32 @@ class gradient(object):
         self.interpolate = interpolate
         self.tuples = tuples
         for i in range(len(self.tuples)):
-            if self.tuples[i][0] < wrapat:
-                self.tuples[i][0] += wrapat
+            if self.tuples[i][1] < wrapat:
+                self.tuples[i][1] += wrapat
 
     def get(self,hue):
         if hue<self.wrapat:
             hue += self.wrapat
-        diff = 256
+        diff = 360
         best = None
-        for i,hv in enumerate(self.tuples):
-            if abs(hv[0]-hue) < diff:
-                diff= abs(hv[0]-hue)
+        for i,vh in enumerate(self.tuples):
+            if abs(vh[1]-hue) < diff:
+                diff= abs(vh[1]-hue)
                 best= i
-
 
         if self.interpolate:
             raise Exception('not implemented yet') #TODO
-            if hue < self.tuples[i][0]:
+            if hue < self.tuples[i][1]:
                 if i>0:
                     return self.between(hue,self.tuples[i-1],self.tuples[i])
             else:
                 if i+1<len(self.tuples):
                     return self.between(hue,self.tuples[i],self.tuples[i+1])
 
-        return self.tuples[i][1]
+        return self.tuples[best][0]
 
-    def between(self,h,hv1,hv2):
-        return hv1[1] + (hv2[1]-hv1[1]) * (h-hv1[0])/(hv2[0]-hv1[0])
+    def between(self,h,vh1,vh2):
+        return vh1[0] + (vh2[0]-vh1[0]) * (h-vh1[1])/(vh2[1]-vh1[1])
 
 
 
@@ -78,14 +77,15 @@ class mapImage(object):
 
 
     def pixel(self,e,n):
-        ''' returns pixel value at specified coordinates '''
+        ''' returns pixel value (0..1,0..1,0..1) at specified coordinates '''
         x,y = coord2xy(e,n)
-        return self.pixels[int(x),int(y)] #TODO bound checks, interpolate
+        r,g,b= self.pixels[int(x),int(y)] #TODO bound checks, interpolate
+        return (r/256.,g/256.,b/256.)
 
     def hue(self,e,n):
-        ''' returns hue value at specified coordinates '''
+        ''' returns hue (0..360) value at specified coordinates '''
         v= self.pixel(e,n)
-        return colorsys.rgb_to_hsv(*v)[2]
+        return colorsys.rgb_to_hsv(*v)[0] * 360
 
     def valid(self,e,n):
         ''' returns whether given coordinates point to valid point on map '''
