@@ -3,7 +3,7 @@ $(function() {
         source:
             function( request, response ) {
             $.ajax({
-                url: "http://192.168.51.57:5000/search",
+                url: window.location.href + "/search", // TODO make this portable
                 dataType: "jsonp",
                 data: {
                     maxRows: 12,
