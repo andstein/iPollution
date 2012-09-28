@@ -6,48 +6,54 @@ function retrieveData() {
             location:$("#location").val()
         },
         success:function (data) {
-            var years = ['1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997', '1998', '1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007'];
-            var associativeO3 = data.o3;
-            var associateNo2 = data.no2;
-            var associatepm10 = data.pm10;
-            var o3 = [];
-            var no2 = [];
-            var pm10 = [];
-            for (var i = 0; i < years.length; i++) {
-                var o3val = associativeO3[years[i]] == undefined ? null : associativeO3[years[i]];
-                o3.push(o3val);
-                var no2Val = associateNo2[years[i]] == undefined ? null : associateNo2[years[i]];
-                no2.push(no2Val);
-                var pm10Val = associatepm10[years[i]] == undefined ? null : associatepm10[years[i]];
-                pm10.push(pm10Val);
-            }
 
             // calculate totals; interpolate simply by repeating
+            var realdatas={};
+            var fakedatas={};
             var totals={};
             var guesseds={};
-            for(var substance in {o3:'o3',no2:'no2',pm10:'pm10'}) 
+            var years=null;
+            $.each(['o3','no2','pm10'],function (i,substance) 
             {
                 var total=0,guessed=0,dept=0,last=-1;
+                var realdata=[],fakedata=[];
+                years=[];
                 for(var y=year_start; y<=year_stop; y++) 
                 {
                     if (y in data[substance]) {
+
                         last= data[substance][y];
                         total+= last * (1+dept);
-                        dept=0;
+                        while(dept > 0) {
+                            fakedata.push( last );
+                            dept--;
+                        }
+
+                        realdata.push(data[substance][y]);
+                        fakedata.push(null);
+
                     } else {
+
                         guessed++;
                         if (last<0)
                             dept++;
                         else
                             total+= last;
+
+                        realdata.push(null);
+                        fakedata.push(last);
+
                     }
+                    years.push(y);
                 }
                 totals[substance] = total;
                 guesseds[substance] = guessed;
-            }
+                realdatas[substance] = realdata;
+                fakedatas[substance] = fakedata;
+            });
 
             renderTotals( totals,guesseds );
-            renderChart(o3, no2, pm10);
+            renderChart( years,realdatas,fakedatas );
         }
     });
 }
@@ -76,43 +82,44 @@ function renderTotals( totals, guesseds ) {
                 ));
 }
 
-function renderChart(o3, no2, finedust) {
+function renderChart( years,realdatas,fakedatas ) {
+
     new Highcharts.Chart({
         chart:{
             renderTo:'result_container',
             zoomType:'xy'
         },
         title:{
-            text:'Durchschnittliche jährliche Belastung'
+            text:'Yearly averages'
         },
         subtitle:{
-            text:'Quelle: Bundesamt für Umwelt'
+            text:'Source: Bundesamt für Umwelt'
         },
         xAxis:[
             {
-                categories:['1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997', '1998', '1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007']
+                categories:years
             }
         ],
         yAxis:[
             { // Primary yAxis
                 title:{
-                    text:'Ozon',
+                    text:'Ozone',
                     style:{
                         color:'#4572A7'
                     }
                 },
                 labels:{
                     formatter:function () {
-                        return this.value + 'Stunden';
+                        return this.value + ' hours';
                     },
                     style:{
                         color:'#4572A7'
                     }
-                }
+                },
             },
             { // Secondary yAxis
                 title:{
-                    text:'Stickstoffdioxid',
+                    text:'Nitrogen dioxide',
                     style:{
                         color:'#89A54E'
                     }
@@ -125,11 +132,11 @@ function renderChart(o3, no2, finedust) {
                         color:'#89A54E'
                     }
                 },
-                opposite:true
+                opposite:true,
             },
             { // Ternary yAxis
                 title:{
-                    text:'Feinstaub',
+                    text:'Particulates',
                     style:{
                         color:'red'
                     }
@@ -142,7 +149,7 @@ function renderChart(o3, no2, finedust) {
                         color:'red'
                     }
                 },
-                opposite:true
+                opposite:true,
             }
         ],
         legend:{
@@ -156,26 +163,26 @@ function renderChart(o3, no2, finedust) {
         },
         series:[
             {
-                name:'Ozon',
+                name:'Ozone',
                 color:'#4572A7',
                 type:'spline',
                 yAxis:1,
-                data:o3
+                data:realdatas['o3']
 
             },
             {
-                name:'Stickstoffdioxid',
+                name:'Nitrogen dioxide',
                 color:'#89A54E',
                 type:'spline',
                 yAxis:2,
-                data:no2
+                data:realdatas['no2']
             },
             {
-                name:'Feinstaub',
+                name:'Particulates',
                 color:'red',
                 type:'spline',
                 yAxis:2,
-                data:finedust
+                data:realdatas['pm10']
             }
         ]
     });
