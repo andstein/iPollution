@@ -104,7 +104,6 @@ class mapImage(object):
         img = Image.open(self.fname)
         draw = ImageDraw.Draw(img)
         x,y= coord2xy(e,n)
-        print 'coords : x=%d y=%d'%(x,y)
         draw.rectangle( [x-5,y-5,x+5,y+5] ,outline='#FF0000' )
         del draw
         img.save(fname)
