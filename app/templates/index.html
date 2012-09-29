@@ -15,7 +15,7 @@
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='js/shadowbox/shadowbox.css') }}" />
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}" />
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}" />
-
+		
     <script type="text/javascript">
         var search_url = '{{ url_for('search') }}';
         var values_url = '{{ url_for('get_values') }}';
@@ -42,6 +42,17 @@
 					})
 				});
     </script>
+    
+    <style type="text/css">
+    	body { 
+				background: url({{ url_for('static', filename='img/airpollution.jpg') }}) no-repeat center center fixed; 
+				-webkit-background-size: cover;
+				-moz-background-size: cover;
+				-o-background-size: cover;
+				background-size: cover;
+			}
+        
+    </style>
 
 </head>
 
@@ -63,7 +74,7 @@
 <div id="results_container">
 <div id="table_container">
     <table class="table">
-        <tr id="row_head"><th>Pollutant</th></tr>
+        <tr id="row_head"><th style="color:black">Pollutant</th></tr>
         <tr id="row_pm10"><td><a href="http://en.wikipedia.org/wiki/Particulates#Health_effects" target="_new">Particulates</a></td></tr>
         <tr id="row_no2"><td><a href="http://en.wikipedia.org/wiki/Nitrogen_dioxide#Safety_and_pollution_considerations" target="_new">Nitrogen dioxide</a></td></tr>
         <tr id="row_o3"><td><a href="http://en.wikipedia.org/wiki/Ozone#Ozone_air_pollution" target="_new">Ozone</a></td></tr>

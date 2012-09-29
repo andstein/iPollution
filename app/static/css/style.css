@@ -16,8 +16,22 @@ td.total {
 #results_container {
     box-shadow: 0 10px 10px 5px #888888;
     margin-top: 40px;
+    background:white;
+    border-radius: 15px;
 }
 
 #input-form {
-		margin-top: 20px !important;
+    background: none repeat scroll 0 0 black;
+    border-radius: 15px 15px 15px 15px;
+    margin-top: 20px !important;
+    padding-bottom: 7px;
+    padding-left: 30px;
+}
+
+.table th {
+	border-top: none !important;
+}
+
+h1, form label {
+	color:white;
 }
