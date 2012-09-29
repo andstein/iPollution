@@ -89,7 +89,7 @@ function formatHours(h) {
 function renderOneChart( location,substance ) {
     new Highcharts.Chart({
         chart:{
-            renderTo:'result_container',
+            renderTo:'charts_container',
             zoomType:'xy'
         },
         title:{

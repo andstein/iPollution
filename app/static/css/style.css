@@ -6,3 +6,18 @@ body {
 td.total {
     cursor:pointer;
 }
+
+.input {
+    margin: auto;
+    width: 40%;
+}
+
+
+#results_container {
+    box-shadow: 0 10px 10px 5px #888888;
+    margin-top: 40px;
+}
+
+#input-form {
+		margin-top: 20px !important;
+}
