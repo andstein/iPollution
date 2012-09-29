@@ -72,8 +72,6 @@ function retrieveData() {
                         formatHours(totals['o3'])
                         ).click(function(){ renderOneChart(location,'o3') }));
 
-//            renderOneChart( 'Ozone','hours',years,realdatas['o3'],fakedatas['o3'] );
-//            renderChart( years,realdatas,fakedatas );
         }
     });
 }
@@ -100,6 +98,17 @@ function renderOneChart( location,substance ) {
         },
         subtitle:{
             text:'Source: Bundesamt für Umwelt'
+        },
+        plotOptions: {
+            series: {
+                point: {
+                    events: {
+                        click: function() {
+                            window.open(dump_url + '?location=' + location + '&substance=' + substance + '&year=' + year_labels_complete[this.x]);
+                        }
+                    }
+                }
+            }
         },
         xAxis:[
             {
@@ -161,113 +170,6 @@ function renderOneChart( location,substance ) {
                 type:'spline',
                 yAxis:1,
                 data:all_data[location]['fake'][substance],
-            }
-        ]
-    });
-
-}
-
-function renderChart( years,realdatas,fakedatas ) {
-
-    new Highcharts.Chart({
-        chart:{
-            renderTo:'result_container',
-            zoomType:'xy'
-        },
-        title:{
-            text:'Yearly averages'
-        },
-        subtitle:{
-            text:'Source: Bundesamt für Umwelt'
-        },
-        xAxis:[
-            {
-                categories:years
-            }
-        ],
-        yAxis:[
-            { // Primary yAxis
-                title:{
-                    text:'Ozone',
-                    style:{
-                        color:'#4572A7'
-                    }
-                },
-                labels:{
-                    formatter:function () {
-                        return this.value + ' hours';
-                    },
-                    style:{
-                        color:'#4572A7'
-                    }
-                },
-            },
-            { // Secondary yAxis
-                title:{
-                    text:'Nitrogen dioxide',
-                    style:{
-                        color:'#89A54E'
-                    }
-                },
-                labels:{
-                    formatter:function () {
-                        return this.value + 'μg/m3';
-                    },
-                    style:{
-                        color:'#89A54E'
-                    }
-                },
-                opposite:true,
-            },
-            { // Ternary yAxis
-                title:{
-                    text:'Particulates',
-                    style:{
-                        color:'red'
-                    }
-                },
-                labels:{
-                    formatter:function () {
-                        return this.value + 'μg/m3';
-                    },
-                    style:{
-                        color:'red'
-                    }
-                },
-                opposite:true,
-            }
-        ],
-        legend:{
-            layout:'vertical',
-            align:'left',
-            x:120,
-            verticalAlign:'top',
-            y:100,
-            floating:true,
-            backgroundColor:'#FFFFFF'
-        },
-        series:[
-            {
-                name:'Ozone',
-                color:'#4572A7',
-                type:'spline',
-                yAxis:1,
-                data:realdatas['o3']
-
-            },
-            {
-                name:'Nitrogen dioxide',
-                color:'#89A54E',
-                type:'spline',
-                yAxis:2,
-                data:realdatas['no2']
-            },
-            {
-                name:'Particulates',
-                color:'red',
-                type:'spline',
-                yAxis:2,
-                data:realdatas['pm10']
             }
         ]
     });
