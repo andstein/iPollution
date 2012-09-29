@@ -1,4 +1,5 @@
-<html><head>
+<!DOCTYPE html>
+<html lang="en"><head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
     <title>iPollution</title>
     
@@ -7,49 +8,102 @@
     <script src="{{ url_for('static', filename='js/autocomplete.js') }}" type="text/javascript"></script>
     <script src="{{ url_for('static', filename='js/retrieveData.js') }}" type="text/javascript"></script>
     <script src="{{ url_for('static', filename='js/highcharts.js') }}" type="text/javascript"></script>
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/smoothness/jquery-ui-1.8.23.custom.css') }}" />
+    <script src="{{ url_for('static', filename='js/shadowbox/shadowbox.js') }}" type="text/javascript"></script>
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}" type="text/javascript"></script>
 
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/smoothness/jquery-ui-1.8.23.custom.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='js/shadowbox/shadowbox.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}" />
+		
     <script type="text/javascript">
         var search_url = '{{ url_for('search') }}';
         var values_url = '{{ url_for('get_values') }}';
+        var dump_url = '{{ url_for('dump_image') }}';
         var year_start=1990,year_stop=2012;
+        var raw_data={};
         var all_data={};
+        var locations=[];
         var all_units= {'o3':'hours', 'no2':'μg/m3', 'pm10':'μg/m3'};
         var all_names= {'o3':'Ozone', 'no2':'Nitrogen dioxide', 'pm10':'Particulates'};
         var year_labels=[];
-        for(var y=year_start; y<=year_stop; y++)
+        var year_labels_complete=[];
+        for(var y=year_start; y<=year_stop; y++) {
             year_labels.push( String(y).substr(2) );
+            year_labels_complete.push(String(y));
+        }
+        Shadowbox.init({
+   		  	players:  ['html', 'iframe'] 
+				});
+				
+				
+				$('document').ready(function(){
+					$('#input-form').submit(function(){
+						retrieveData();
+						return false;
+					})
+				});
     </script>
+    
+    <style type="text/css">
+    	body { 
+				background: url({{ url_for('static', filename='img/airpollution.jpg') }}) no-repeat center center fixed; 
+				-webkit-background-size: cover;
+				-moz-background-size: cover;
+				-o-background-size: cover;
+				background-size: cover;
+			}
+        
+    </style>
 
 </head>
 
 <body>
+<div class="container">
 
 <h1>iPollution</h1>
 
-<div class="demo">
+<a href="#hiddenDescription" class="subtitle" rel="shadowbox;width=700;height=380">Everything you inhaled since 1990</a>.
+
+
+<div id="hiddenDescription">
+	<div id="hiddenDescriptionInner">
+	<strong>iPollution</strong> lets you check the quality of the air you breathe in all of Switzerland. Just enter the place you live and the timespan you're interested in (data is available from 1990 onwards). iPollution gives you the total amount of particulates, nitrogen dioxide and ozone.<br/><br/>
+
+iPollution also lets you compare your city with any other place in Switzerland and allows you to see how pollution values have changed for a specific place over the years.  <br/><br/>
+
+The data we use are annual values published by the <a href="http://www.bafu.admin.ch/luft/luftbelastung/schadstoffkarten/index.html?lang=en">Swiss Federal Office for the Environment</a>. Since the data is not available in raw form but only as colored pollution maps, we extract the color values from those maps to create the data set for iPollution.<br/><br/>
+
+iPollution was developed by Andreas Steiner, Christian Steiner, and Nicolai Kilian during the Opendata Hackdays in Basel on September 28-29 2012. You can find out more about the project on <a href="http://make.opendata.ch/doku.php?id=project:health:ipollution">Opendata.ch</a> and you can <a href="https://github.com/andstein/iPollution">fork iPollution on Github</a>.
+</div>
+</div>
+
+
+<div class="input">
     <div class="ui-widget">
+    	<form id="input-form" action="">
         <label for="location">Please enter a location in Switzerland:</label>
         <input id="location" class="ui-autocomplete-input ui-corner-all" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-        <button id="submit" onclick="retrieveData()">Fetch data!</button>
+        <button id="submit">Fetch data!</button>
+      </form>
     </div>
 </div>
 
-
+<div id="results_container">
 <div id="table_container">
-
-
-    <table>
-        <tr id="row_head"><th></th></tr>
-        <tr id="row_pm10"><td><a href="http://en.wikipedia.org/wiki/Particulates">Particulates</a></td></tr>
-        <tr id="row_no2"><td><a href="http://en.wikipedia.org/wiki/Nitrogen_dioxide">Nitrogen dioxide</a></td></tr>
-        <tr id="row_o3"><td><a href="http://en.wikipedia.org/wiki/Ozone">Ozone</a></td></tr>
+    <table class="table">
+        <tr id="row_head"><th style="color:black">Pollutant</th></tr>
+        <tr id="row_pm10"><td><a href="http://en.wikipedia.org/wiki/Particulates#Health_effects" target="_new">Particulates</a></td></tr>
+        <tr id="row_no2"><td><a href="http://en.wikipedia.org/wiki/Nitrogen_dioxide#Safety_and_pollution_considerations" target="_new">Nitrogen dioxide</a></td></tr>
+        <tr id="row_o3"><td><a href="http://en.wikipedia.org/wiki/Ozone#Ozone_air_pollution" target="_new">Ozone</a></td></tr>
     </table>
-
 </div>
 
-<div id="result_container" style="min-width: 400px; height: 400px; margin: 0 auto"></div>
+<div id="charts_container" style="min-width: 400px; height: 400px; margin: 0 auto">
+	<div id="charts_description_inner">A graph will appear here when you click on the different values below your target location in the table.</div>
+</div>
+</div>
 
-
+</div>
 </body>
 </html>

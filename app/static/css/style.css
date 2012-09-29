@@ -1,0 +1,111 @@
+
+body {
+    font-family:Arial,Sans-Serif;
+    margin-top: 15px;
+    margin-bottom:50px
+}
+
+td.total {
+    cursor:pointer;
+}
+
+td.total:hover {
+	color: red;
+}
+
+.input {
+    margin: auto;
+    width: 40%;
+}
+
+
+#results_container {
+    box-shadow: 0 10px 10px 5px #888888;
+    margin-top: 40px;
+    background:white;
+    border-radius: 15px;
+    opacity: 0.85;
+}
+
+#input-form {
+    background: none repeat scroll 0 0 black;
+    border-radius: 15px 15px 15px 15px;
+    margin-top: 20px !important;
+    padding-bottom: 9px;
+    padding-left: 23px;
+    padding-top: 5px;
+}
+
+.table th {
+	border-top: none !important;
+}
+
+h1{
+	color:lightgray;
+	font-family:Coolsville,Sans-Serif;
+}
+
+.subtitle {
+	color: white;
+	cursor: pointer;
+}
+
+.subtitle:hover {
+	color: red;
+	text-decoration:none;
+}
+
+#hiddenDescription {
+	display:none;
+}
+
+#hiddenDescriptionInner {
+	background:white;
+	padding: 50px;
+}
+
+form label {
+	color:white;
+}
+
+#submit {
+	-moz-box-shadow:inset 0px 1px 0px -10px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px -10px #ffffff;
+	box-shadow:inset 0px 1px 0px -10px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+	background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+	background-color:#ededed;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	border-radius:15px;
+	border:2px solid #dcdcdc;
+	display:inline-block;
+	color:#4f4d4f;
+	font-family:arial;
+	font-size:17px;
+	font-weight:bold;
+	margin-left: 5px;
+  padding: 6px 10px;
+	text-decoration:none;
+}
+
+#submit:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+	background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+	background-color:#dfdfdf;
+}
+
+#submit:active {
+	position:relative;
+	top:1px;
+}
+
+
+#charts_description_inner {
+	padding-top: 20px;
+	margin: auto;
+  width: 50%;
+  font-size:20px;
+}

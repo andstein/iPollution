@@ -1,3 +1,81 @@
+
+
+function realfake(data) {
+    // calculate totals; interpolate simply by repeating
+    var realdatas={};
+    var fakedatas={};
+    $.each(['o3','no2','pm10'],function (i,substance) 
+    {
+        if (!( substance in data ))
+            data[substance]={ year_start:0 };
+
+        var dept=0,last=-1;
+        var realdata=[],fakedata=[];
+        for(var y=year_start; y<=year_stop; y++) 
+        {
+            if (y in data[substance]) {
+
+                last= data[substance][y];
+                while(dept > 0) {
+                    realdata.push(null);
+                    fakedata.push( last );
+                    dept--;
+                }
+
+                realdata.push(data[substance][y]);
+                fakedata.push(null);
+
+            } else {
+
+                if (last<0)
+                    dept++;
+                else {
+                    realdata.push(null);
+                    fakedata.push(last);
+                }
+
+
+            }
+        }
+        realdatas[substance] = realdata;
+        fakedatas[substance] = fakedata;
+    });
+
+    return { 'real':realdatas , 'fake':fakedatas };
+}
+
+function addTableColumn(location) {
+
+    var totals=[];
+    var realdata= all_data[location].real;
+    var fakedata= all_data[location].fake;
+
+    $.each(['o3','no2','pm10'],function (i,substance) {
+        total=0;
+        for(var y=year_start,i=0; y<=year_stop; y++,i++) 
+            if (realdata[substance][i])
+                total += realdata[substance][i];
+            else
+                total += fakedata[substance][i];
+
+        totals[substance]= total;
+    });
+
+    $('#row_head').append($('<th></th>').append(
+                location
+                ).addClass('total'));
+    // an average persons breathes 12m3 / day ...
+    $('#row_pm10').append($('<td></td>').append(
+                formatFloat(totals['pm10'] * 12 * 365 / 1e6) + ' g'
+                ).addClass('total').click(function(){ renderOneChart(location,'pm10') }));
+    $('#row_no2').append($('<td></td>').append(
+                formatFloat(totals['no2'] * 12 * 365 / 1e6 / 2.62) + ' l'
+                ).addClass('total').click(function(){ renderOneChart(location,'no2') }));
+    $('#row_o3').append($('<td></td>').append(
+                formatHours(Math.round(totals['o3']))
+                ).addClass('total').click(function(){ renderOneChart(location,'o3') }));
+}
+
 function retrieveData() {
     var location = $('#location').val()
     $.ajax({
@@ -8,72 +86,16 @@ function retrieveData() {
         },
         success:function (data) {
 
-            // calculate totals; interpolate simply by repeating
-            var realdatas={};
-            var fakedatas={};
-            var totals={};
-            var guesseds={};
-            $.each(['o3','no2','pm10'],function (i,substance) 
-            {
-                if (!( substance in data ))
-                    data[substance]={ year_start:0 };
+            if (typeof(data) === 'string') {
+                alert("could not fetch data : " + data);
+                return;
+            }
 
-                var total=0,guessed=0,dept=0,last=-1;
-                var realdata=[],fakedata=[];
-                for(var y=year_start; y<=year_stop; y++) 
-                {
-                    if (y in data[substance]) {
+            locations.push( location );
+            raw_data[location]= data;
+            all_data[location]= realfake(data);
+            addTableColumn(location);
 
-                        last= data[substance][y];
-                        total+= last * (1+dept);
-                        while(dept > 0) {
-                            realdata.push(null);
-                            fakedata.push( last );
-                            dept--;
-                        }
-
-                        realdata.push(data[substance][y]);
-                        fakedata.push(null);
-
-                    } else {
-
-                        guessed++;
-                        if (last<0)
-                            dept++;
-                        else {
-                            total+= last;
-                            realdata.push(null);
-                            fakedata.push(last);
-                        }
-
-
-                    }
-                }
-                totals[substance] = total;
-                guesseds[substance] = guessed;
-                realdatas[substance] = realdata;
-                fakedatas[substance] = fakedata;
-            });
-
-            all_data[location]= { 'real':realdatas, 'fake':fakedatas };
-
-            $('#row_head').append($('<th></th>').append(
-                        $('#location').val()
-                        ));
-            // an average persons breathes 12m3 / day ...
-            $('#row_pm10').append($('<td></td>').append(
-                        formatFloat(totals['pm10'] * 12 * 365 / 1e6) + ' g'
-//                        ));
-                        ).click(function(){ renderOneChart(location,'pm10') }));
-            $('#row_no2').append($('<td></td>').append(
-                        formatFloat(totals['no2'] * 12 * 365 / 1e6 / 2.62) + ' l'
-                        ).click(function(){ renderOneChart(location,'no2') }));
-            $('#row_o3').append($('<td></td>').append(
-                        formatHours(totals['o3'])
-                        ).click(function(){ renderOneChart(location,'o3') }));
-
-//            renderOneChart( 'Ozone','hours',years,realdatas['o3'],fakedatas['o3'] );
-//            renderChart( years,realdatas,fakedatas );
         }
     });
 }
@@ -92,7 +114,7 @@ function formatHours(h) {
 function renderOneChart( location,substance ) {
     new Highcharts.Chart({
         chart:{
-            renderTo:'result_container',
+            renderTo:'charts_container',
             zoomType:'xy'
         },
         title:{
@@ -100,6 +122,22 @@ function renderOneChart( location,substance ) {
         },
         subtitle:{
             text:'Source: Bundesamt für Umwelt'
+        },
+        plotOptions: {
+            series: {
+                point: {
+                    events: {
+                        click: function() {
+                            Shadowbox.open({
+                                content: dump_url + '?location=' + location + '&substance=' + substance + '&year=' + year_labels_complete[this.x],
+                            height: 326,
+                            width: 515,
+                            player: 'iframe'
+                            });
+                        }
+                    }
+                }
+            }
         },
         xAxis:[
             {
@@ -161,113 +199,6 @@ function renderOneChart( location,substance ) {
                 type:'spline',
                 yAxis:1,
                 data:all_data[location]['fake'][substance],
-            }
-        ]
-    });
-
-}
-
-function renderChart( years,realdatas,fakedatas ) {
-
-    new Highcharts.Chart({
-        chart:{
-            renderTo:'result_container',
-            zoomType:'xy'
-        },
-        title:{
-            text:'Yearly averages'
-        },
-        subtitle:{
-            text:'Source: Bundesamt für Umwelt'
-        },
-        xAxis:[
-            {
-                categories:years
-            }
-        ],
-        yAxis:[
-            { // Primary yAxis
-                title:{
-                    text:'Ozone',
-                    style:{
-                        color:'#4572A7'
-                    }
-                },
-                labels:{
-                    formatter:function () {
-                        return this.value + ' hours';
-                    },
-                    style:{
-                        color:'#4572A7'
-                    }
-                },
-            },
-            { // Secondary yAxis
-                title:{
-                    text:'Nitrogen dioxide',
-                    style:{
-                        color:'#89A54E'
-                    }
-                },
-                labels:{
-                    formatter:function () {
-                        return this.value + 'μg/m3';
-                    },
-                    style:{
-                        color:'#89A54E'
-                    }
-                },
-                opposite:true,
-            },
-            { // Ternary yAxis
-                title:{
-                    text:'Particulates',
-                    style:{
-                        color:'red'
-                    }
-                },
-                labels:{
-                    formatter:function () {
-                        return this.value + 'μg/m3';
-                    },
-                    style:{
-                        color:'red'
-                    }
-                },
-                opposite:true,
-            }
-        ],
-        legend:{
-            layout:'vertical',
-            align:'left',
-            x:120,
-            verticalAlign:'top',
-            y:100,
-            floating:true,
-            backgroundColor:'#FFFFFF'
-        },
-        series:[
-            {
-                name:'Ozone',
-                color:'#4572A7',
-                type:'spline',
-                yAxis:1,
-                data:realdatas['o3']
-
-            },
-            {
-                name:'Nitrogen dioxide',
-                color:'#89A54E',
-                type:'spline',
-                yAxis:2,
-                data:realdatas['no2']
-            },
-            {
-                name:'Particulates',
-                color:'red',
-                type:'spline',
-                yAxis:2,
-                data:realdatas['pm10']
             }
         ]
     });

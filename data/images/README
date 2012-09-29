@@ -1,0 +1,10 @@
+
+naming convention for images in this directory:
+
+year_substance_source.png
+
+    - year : when average image was calculated
+    - substance : short name identifying substance (e.g. 'o3' for ozone)
+    - source : what database provided image; this will define how colors
+      are interpreted and how coordinates are mapped
+

@@ -1,4 +1,4 @@
-import os.path
+import os,os.path
 import json
 import time
 import StringIO
@@ -21,6 +21,10 @@ for fname in os.listdir(config.images_dir):
         images.append( maps.mapImage(os.path.join(config.images_dir,fname)) )
 print 'loaded {n} images in {ms} ms'.format( n = len(images), ms = int(1000 * (time.time()-t0)) )
 
+canton_data={}
+with open(config.canton_json_file,'r') as f:
+    canton_data = json.load(f)
+
 
 def my_jsonify(data):
     content = json.dumps(data)
@@ -42,8 +46,12 @@ def hello_world():
 @app.route('/search')
 def search():
 #    return jsonify(data=locator.find(request.args.get('term','')))
-    data  = locator.find(request.args.get('term',''))
+    term  = request.args.get('term','')
+    data  = locator.find(term)
     names = map(lambda x:x['ort'],data)
+    for canton in canton_data.keys():
+        if canton.lower()[:len(term)] == term.lower():
+            names.append(canton)
     return my_jsonify(names)
 
 
@@ -77,6 +85,9 @@ def coordinates_from_params():
 
 @app.route('/values')
 def get_values():
+
+    if request.args.get('location') in canton_data:
+        return my_jsonify(canton_data[request.args.get('location')])
 
     e,n = None,None
     try:
@@ -126,7 +137,7 @@ def dump_image():
 if __name__ == '__main__':
     print 'open the following URL in your web browser:'
     app.debug= True
-    app.run()
+    app.run( host='0.0.0.0',port=int(os.environ.get('PORT',5000)) )
 #    app.run(port=8888)
 #    app.run(host='0.0.0.0')
 
