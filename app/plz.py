@@ -6,6 +6,18 @@ class locateCH(object):
         self.fname= fname
 
         self.data= []
+        self.replacements=[
+                (u'ä',u'u'),
+                (u'ö',u'u'),
+                (u'ü',u'u'),
+                (u'é',u'u'),
+                (u'è',u'u'),
+                (u'ê',u'e'),
+                (u'ë',u'u'),
+                (u'ï',u'i'),
+                (u'î',u'i'),
+                (u'ç',u'c'),
+                ]
 
         with file(fname,'r') as f:
 
@@ -21,7 +33,10 @@ class locateCH(object):
 
 
     def fuzzify(self,x):
-        return x.lower() #TODO implement
+        x= x.lower()
+        for ft in self.replacements:
+            x=x.replace(ft[0],ft[1])
+        return x
 
     def find(self,prefix,limit=100):
         #TODO speed up

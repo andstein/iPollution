@@ -63,14 +63,13 @@ function retrieveData() {
             // an average persons breathes 12m3 / day ...
             $('#row_pm10').append($('<td></td>').append(
                         formatFloat(totals['pm10'] * 12 * 365 / 1e6) + ' g'
-//                        ));
-                        ).click(function(){ renderOneChart(location,'pm10') }));
+                        ).addClass('total').click(function(){ renderOneChart(location,'pm10') }));
             $('#row_no2').append($('<td></td>').append(
                         formatFloat(totals['no2'] * 12 * 365 / 1e6 / 2.62) + ' l'
-                        ).click(function(){ renderOneChart(location,'no2') }));
+                        ).addClass('total').click(function(){ renderOneChart(location,'no2') }));
             $('#row_o3').append($('<td></td>').append(
                         formatHours(totals['o3'])
-                        ).click(function(){ renderOneChart(location,'o3') }));
+                        ).addClass('total').click(function(){ renderOneChart(location,'o3') }));
 
         }
     });

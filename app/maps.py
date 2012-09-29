@@ -57,7 +57,7 @@ class mapImage(object):
         ''' mark coordinates; fileobj can be filename.png or StringIO '''
         img = Image.open(self.fname)
         draw = ImageDraw.Draw(img)
-        x,y= coord2xy(e,n)
+        x,y= self.coord(e,n)
         draw.line( [x,0,x,self.img.size[1]] ,fill='#FF0000' )
         draw.line( [0,y,self.img.size[0],y] ,fill='#FF0000' )
 #        draw.rectangle( [x-5,y-5,x+5,y+5] ,outline='#FF0000' )
