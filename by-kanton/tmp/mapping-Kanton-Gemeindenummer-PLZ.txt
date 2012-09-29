@@ -1,0 +1,2633 @@
+ZH	1	8914	Aeugst am Albis
+ZH	2	8909	Affoltern am Albis
+ZH	2	8910	Affoltern am Albis
+ZH	3	8906	Bonstetten
+ZH	4	8915	Hausen am Albis
+ZH	4	8925	Hausen am Albis
+BE	5PLZ4	3315	KTKZ
+ZH	5	8908	Hedingen
+ZH	6	8926	Kappel am Albis
+ZH	7	8934	Knonau
+ZH	8	8933	Maschwanden
+ZH	9	8932	Mettmenstetten
+ZH	10	8912	Obfelden
+ZH	11	8913	Ottenbach
+ZH	12	8911	Rifferswil
+ZH	13	8143	Stallikon
+ZH	14	8907	Wettswil am Albis
+ZH	21	8452	Adlikon
+ZH	22	8463	Benken (ZH)
+ZH	23	8415	Berg am Irchel
+ZH	24	8414	Buch am Irchel
+ZH	25	8447	Dachsen
+ZH	26	8458	Dorf
+ZH	27	8245	Feuerthalen
+ZH	28	8416	Flaach
+ZH	29	8247	Flurlingen
+ZH	30	8450	Andelfingen
+ZH	31	8444	Henggart
+ZH	32	8457	Humlikon
+ZH	33	8451	Kleinandelfingen
+ZH	33	8453	Kleinandelfingen
+ZH	33	8461	Kleinandelfingen
+ZH	34	8248	Laufen-Uhwiesen
+ZH	35	8460	Marthalen
+ZH	35	8464	Marthalen
+ZH	36	8477	Oberstammheim
+ZH	37	8475	Ossingen
+ZH	38	8462	Rheinau
+ZH	39	8478	Thalheim an der Thur
+ZH	40	8465	Trüllikon
+ZH	40	8466	Trüllikon
+ZH	42	8476	Unterstammheim
+ZH	43	8459	Volken
+ZH	44	8468	Waltalingen
+ZH	51	8184	Bachenbülach
+ZH	52	8303	Bassersdorf
+ZH	53	8180	Bülach
+ZH	54	8305	Dietlikon
+ZH	55	8193	Eglisau
+ZH	56	8424	Embrach
+ZH	57	8428	Freienstein-Teufen
+ZH	58	8192	Glattfelden
+ZH	59	8182	Hochfelden
+ZH	60	8181	Höri
+ZH	61	8194	Hüntwangen
+ZH	62	8302	Kloten
+ZH	64	8309	Nürensdorf
+ZH	65	8425	Oberembrach
+ZH	66	8152	Opfikon
+ZH	67	8197	Rafz
+ZH	70	8195	Wasterkingen
+ZH	71	8196	Wil (ZH)
+ZH	72	8185	Winkel
+ZH	81	8164	Bachs
+ZH	82	8113	Boppelsen
+ZH	83	8107	Buchs (ZH)
+ZH	84	8108	Dällikon
+ZH	85	8114	Dänikon
+ZH	86	8157	Dielsdorf
+ZH	87	8115	Hüttikon
+ZH	88	8173	Neerach
+ZH	89	8172	Niederglatt
+ZH	90	8155	Niederhasli
+ZH	90	8156	Niederhasli
+ZH	91	8166	Niederweningen
+ZH	92	8154	Oberglatt
+ZH	94	8112	Otelfingen
+ZH	95	8158	Regensberg
+ZH	96	8105	Regensdorf
+ZH	96	8106	Regensdorf
+ZH	97	8153	Rümlang
+ZH	100	8174	Stadel
+ZH	100	8175	Stadel
+ZH	101	8162	Steinmaur
+ZH	102	8187	Weiach
+ZH	111	8344	Bäretswil
+ZH	111	8345	Bäretswil
+ZH	112	8608	Bubikon
+ZH	112	8633	Bubikon
+ZH	113	8632	Dürnten
+ZH	113	8635	Dürnten
+ZH	114	8496	Fischenthal
+ZH	114	8497	Fischenthal
+ZH	115	8624	Gossau (ZH)
+ZH	115	8625	Gossau (ZH)
+ZH	115	8626	Gossau (ZH)
+ZH	116	8627	Grüningen
+ZH	117	8340	Hinwil
+ZH	118	8630	Rüti (ZH)
+ZH	120	8637	Wald (ZH)
+ZH	120	8639	Wald (ZH)
+ZH	121	8620	Wetzikon (ZH)
+ZH	121	8623	Wetzikon (ZH)
+ZH	131	8134	Adliswil
+ZH	132	8816	Hirzel
+ZH	133	8810	Horgen
+ZH	133	8815	Horgen
+ZH	134	8825	Hütten
+ZH	135	8802	Kilchberg (ZH)
+ZH	137	8942	Oberrieden
+ZH	138	8805	Richterswil
+ZH	138	8833	Richterswil
+ZH	139	8803	Rüschlikon
+ZH	140	8824	Schönenberg (ZH)
+ZH	141	8136	Thalwil
+ZH	141	8800	Thalwil
+ZH	142	8804	Wädenswil
+ZH	151	8703	Erlenbach (ZH)
+ZH	152	8704	Herrliberg
+ZH	153	8634	Hombrechtikon
+ZH	153	8714	Hombrechtikon
+ZH	154	8700	Küsnacht (ZH)
+ZH	155	8708	Männedorf
+ZH	156	8706	Meilen
+ZH	157	8618	Oetwil am See
+ZH	158	8713	Stäfa
+ZH	159	8707	Uetikon am See
+ZH	160	8126	Zumikon
+ZH	161	8125	Zollikon
+ZH	161	8702	Zollikon
+ZH	171	8493	Bauma
+ZH	171	8494	Bauma
+ZH	172	8320	Fehraltorf
+ZH	173	8335	Hittnau
+ZH	174	8307	Illnau-Effretikon
+ZH	175	8314	Kyburg
+ZH	176	8310	Lindau
+ZH	176	8312	Lindau
+ZH	176	8315	Lindau
+ZH	176	8317	Lindau
+ZH	177	8330	Pfäffikon
+ZH	177	8331	Pfäffikon
+ZH	178	8322	Russikon
+ZH	178	8332	Russikon
+ZH	179	8499	Sternenberg
+ZH	180	8484	Weisslingen
+ZH	182	8489	Wildberg
+ZH	191	8044	Dübendorf
+ZH	191	8600	Dübendorf
+ZH	192	8132	Egg
+ZH	192	8133	Egg
+ZH	193	8117	Fällanden
+ZH	193	8118	Fällanden
+ZH	193	8121	Fällanden
+ZH	195	8122	Maur
+ZH	195	8123	Maur
+ZH	195	8124	Maur
+ZH	196	8617	Mönchaltorf
+ZH	198	8610	Uster
+ZH	198	8615	Uster
+ZH	198	8616	Uster
+ZH	199	8604	Volketswil
+ZH	199	8605	Volketswil
+ZH	200	8306	Wangen-Brüttisellen
+ZH	200	8602	Wangen-Brüttisellen
+ZH	211	8479	Altikon
+ZH	212	8543	Bertschikon
+ZH	214	8471	Dägerlen
+ZH	215	8421	Dättlikon
+ZH	216	8474	Dinhard
+ZH	217	8353	Elgg
+ZH	218	8548	Ellikon an der Thur
+ZH	220	8523	Hagenbuch
+ZH	221	8442	Hettlingen
+ZH	222	8354	Hofstetten (ZH)
+ZH	223	8412	Neftenbach
+ZH	223	8413	Neftenbach
+ZH	224	8422	Pfungen
+ZH	225	8545	Rickenbach (ZH)
+ZH	226	8418	Schlatt (ZH)
+ZH	227	8472	Seuzach
+ZH	228	8488	Turbenthal
+ZH	228	8495	Turbenthal
+ZH	229	8542	Wiesendangen
+ZH	229	8544	Wiesendangen
+ZH	230	8400	Winterthur
+ZH	230	8404	Winterthur
+ZH	230	8482	Winterthur
+ZH	231	8487	Zell (ZH)
+BL	235	4432	GR
+ZH	241	8904	Aesch (ZH)
+ZH	242	8903	Birmensdorf (ZH)
+ZH	243	8953	Dietikon
+ZH	244	8954	Geroldswil
+ZH	245	8102	Oberengstringen
+ZH	246	8955	Oetwil an der Limmat
+ZH	247	8952	Schlieren
+ZH	248	8142	Uitikon
+ZH	249	8103	Unterengstringen
+ZH	250	8902	Urdorf
+ZH	251	8104	Weiningen (ZH)
+ZH	261	8000	Zürich
+ZH	261	8041	Zürich
+ZH	261	8051	Zürich
+ZH	261	8052	Zürich
+BE	301	3270	Aarberg
+BE	301	3270	Aarberg
+BE	302	3282	Bargen (BE)
+BE	302	3282	Bargen (BE)
+BE	303	3257	Grossaffoltern
+BE	303	3257	Grossaffoltern
+BE	303	3262	Grossaffoltern
+BE	303	3262	Grossaffoltern
+BE	305	3273	Kappelen
+BE	305	3273	Kappelen
+BE	306	3250	Lyss
+BE	306	3250	Lyss
+BE	306	3292	Lyss
+BE	306	3292	Lyss
+BE	307	3046	Meikirch
+BE	307	3046	Meikirch
+BE	309	3271	Radelfingen
+BE	309	3271	Radelfingen
+BE	310	3255	Rapperswil (BE)
+BE	310	3255	Rapperswil (BE)
+BE	311	3054	Schüpfen
+BE	311	3054	Schüpfen
+BE	312	3035	Seedorf (BE)
+BE	312	3035	Seedorf (BE)
+BE	312	3266	Seedorf (BE)
+BE	312	3266	Seedorf (BE)
+BE	312	3267	Seedorf (BE)
+BE	312	3267	Seedorf (BE)
+BE	312	3268	Seedorf (BE)
+BE	312	3268	Seedorf (BE)
+BE	324	3368	Bleienbach
+BE	351	3000	Bern
+BE	351	3000	Bern
+BE	352	3065	Bolligen
+BE	352	3065	Bolligen
+BE	353	3047	Bremgarten bei Bern
+BE	353	3047	Bremgarten bei Bern
+BE	354	3038	Kirchlindach
+BE	354	3038	Kirchlindach
+BE	355	3084	Köniz
+BE	355	3084	Köniz
+BE	355	3095	Köniz
+BE	355	3095	Köniz
+BE	355	3097	Köniz
+BE	355	3097	Köniz
+BE	355	3098	Köniz
+BE	355	3098	Köniz
+BE	355	3144	Köniz
+BE	355	3144	Köniz
+BE	355	3145	Köniz
+BE	355	3145	Köniz
+BE	355	3172	Köniz
+BE	355	3172	Köniz
+BE	355	3173	Köniz
+BE	355	3173	Köniz
+BE	356	3073	Muri bei Bern
+BE	356	3073	Muri bei Bern
+BE	356	3074	Muri bei Bern
+BE	356	3074	Muri bei Bern
+BE	357	3096	Oberbalm
+BE	357	3096	Oberbalm
+BE	359	3067	Vechigen
+BE	359	3067	Vechigen
+BE	360	3032	Wohlen bei Bern
+BE	360	3032	Wohlen bei Bern
+BE	360	3034	Wohlen bei Bern
+BE	360	3034	Wohlen bei Bern
+BE	360	3043	Wohlen bei Bern
+BE	360	3043	Wohlen bei Bern
+BE	360	3044	Wohlen bei Bern
+BE	360	3044	Wohlen bei Bern
+BE	360	3049	Wohlen bei Bern
+BE	360	3049	Wohlen bei Bern
+BE	362	3048	Ittigen
+BE	362	3048	Ittigen
+BE	362	3063	Ittigen
+BE	362	3063	Ittigen
+BE	363	3072	Ostermundigen
+BE	363	3072	Ostermundigen
+BE	371	2500	Biel/Bienne
+BE	371	2500	Biel/Bienne
+BE	372	2532	Evilard
+BE	372	2532	Evilard
+BE	372	2533	Evilard
+BE	372	2533	Evilard
+BE	381	3296	Arch
+BE	381	3296	Arch
+BE	382	3263	Büetigen
+BE	382	3263	Büetigen
+BE	385	3264	Diessbach bei Büren
+BE	385	3264	Diessbach bei Büren
+BE	386	3293	Dotzigen
+BE	386	3293	Dotzigen
+BE	387	2543	Lengnau (BE)
+BE	387	2543	Lengnau (BE)
+BE	388	3297	Leuzigen
+BE	388	3297	Leuzigen
+BE	390	2554	Meinisberg
+BE	390	2554	Meinisberg
+BE	391	3298	Oberwil bei Büren
+BE	391	3298	Oberwil bei Büren
+BE	392	2542	Pieterlen
+BE	392	2542	Pieterlen
+BE	393	3295	Rüti bei Büren
+BE	393	3295	Rüti bei Büren
+BE	401	3426	Aefligen
+BE	402	3473	Alchenstorf
+BE	403	3323	Bäriswil
+BE	405	3423	Ersigen
+BE	406	3419	Hasle bei Burgdorf
+BE	407	3412	Heimiswil
+BE	407	3413	Heimiswil
+BE	414	3326	Krauchthal
+BE	424	3474	Wynigen
+BE	431	2606	Corgémont
+BE	431	2606	Corgémont
+BE	432	2612	Cormoret
+BE	432	2612	Cormoret
+BE	433	2607	Cortébert
+BE	433	2607	Cortébert
+BE	436	2604	La Heutte
+BE	436	2604	La Heutte
+BE	437	2723	Mont-Tramelan
+BE	437	2723	Mont-Tramelan
+BE	438	2534	Orvin
+BE	438	2534	Orvin
+BE	441	2616	Renan (BE)
+BE	441	2616	Renan (BE)
+BE	442	2538	Romont (BE)
+BE	442	2538	Romont (BE)
+BE	444	2605	Sonceboz-Sombeval
+BE	444	2605	Sonceboz-Sombeval
+BE	445	2615	Sonvilier
+BE	445	2615	Sonvilier
+BE	446	2722	Tramelan
+BE	446	2722	Tramelan
+BE	447	2535	Vauffelin
+BE	447	2535	Vauffelin
+BE	447	2537	Vauffelin
+BE	447	2537	Vauffelin
+BE	448	2613	Villeret
+BE	448	2613	Villeret
+BE	491	3237	Brüttelen
+BE	491	3237	Brüttelen
+BE	494	3238	Gals
+BE	494	3238	Gals
+BE	495	3236	Gampelen
+BE	495	3236	Gampelen
+BE	496	3232	Ins
+BE	496	3232	Ins
+BE	497	2576	Lüscherz
+BE	497	2576	Lüscherz
+BE	498	3225	Müntschemier
+BE	498	3225	Müntschemier
+BE	500	3226	Treiten
+BE	500	3226	Treiten
+BE	501	3233	Tschugg
+BE	501	3233	Tschugg
+BE	502	3234	Vinelz
+BE	502	3234	Vinelz
+BE	533	3315	Bätterkinden
+BE	534	3313	Büren zum Hof
+BE	534	3313	Büren zum Hof
+BE	537	3306	Etzelkofen
+BE	537	3306	Etzelkofen
+BE	538	3312	Fraubrunnen
+BE	538	3312	Fraubrunnen
+BE	539	3308	Grafenried
+BE	539	3308	Grafenried
+BE	544	3302	Moosseedorf
+BE	544	3302	Moosseedorf
+BE	549	3314	Schalunen
+BE	549	3314	Schalunen
+BE	552	3427	Utzenstorf
+BE	554	3428	Wiler bei Utzenstorf
+BE	561	3715	Adelboden
+BE	562	3703	Aeschi bei Spiez
+BE	563	3724	Frutigen
+BE	563	3725	Frutigen
+BE	564	3716	Kandergrund
+BE	564	3717	Kandergrund
+BE	565	3718	Kandersteg
+BE	566	3704	Krattigen
+BE	567	3713	Reichenbach im Kandertal
+BE	567	3722	Reichenbach im Kandertal
+BE	567	3723	Reichenbach im Kandertal
+BE	571	3803	Beatenberg
+BE	572	3806	Bönigen
+BE	574	3856	Brienzwiler
+BE	575	3707	Därligen
+BE	576	3818	Grindelwald
+BE	577	3814	Gsteigwiler
+BE	578	3815	Gündlischwand
+BE	579	3804	Habkern
+BE	580	3858	Hofstetten bei Brienz
+BE	582	3807	Iseltwald
+BE	584	3801	Lauterbrunnen
+BE	584	3822	Lauterbrunnen
+BE	584	3824	Lauterbrunnen
+BE	584	3825	Lauterbrunnen
+BE	584	3826	Lauterbrunnen
+BE	585	3706	Leissigen
+BE	588	3853	Niederried b. Interlaken
+BE	589	3854	Oberried am Brienzersee
+BE	590	3805	Ringgenberg (BE)
+BE	590	3852	Ringgenberg (BE)
+BE	591	3813	Saxeten
+BE	594	3812	Wilderswil
+BE	602	3508	Arni (BE)
+BE	603	3507	Biglen
+BE	604	3674	Bleiken b. Oberdiessbach
+BE	605	3533	Bowil
+BE	612	3503	Konolfingen
+BE	613	3434	Landiswil
+BE	616	3110	Münsingen
+BE	616	3110	Münsingen
+BE	619	3672	Oberdiessbach
+BE	620	3531	Oberthal
+BE	623	3113	Rubigen
+BE	623	3113	Rubigen
+BE	625	3111	Tägertschi
+BE	625	3111	Tägertschi
+BE	626	3512	Walkringen
+BE	626	3513	Walkringen
+BE	627	3075	Worb
+BE	627	3075	Worb
+BE	627	3077	Worb
+BE	627	3077	Worb
+BE	627	3078	Worb
+BE	627	3078	Worb
+BE	630	3112	Allmendingen
+BE	630	3112	Allmendingen
+BE	631	3083	Trimstein
+BE	631	3083	Trimstein
+BE	632	3114	Wichtrach
+BE	632	3114	Wichtrach
+BE	666	3179	Kriechenwil
+BE	666	3179	Kriechenwil
+BE	667	3177	Laupen
+BE	667	3177	Laupen
+BE	668	3203	Mühleberg
+BE	668	3203	Mühleberg
+BE	669	1797	Münchenwiler
+BE	669	1797	Münchenwiler
+BE	670	3176	Neuenegg
+BE	670	3176	Neuenegg
+BE	681	2744	Belprahon
+BE	681	2744	Belprahon
+BE	690	2738	Court
+BE	690	2738	Court
+BE	691	2746	Crémines
+BE	691	2746	Crémines
+BE	692	2743	Eschert
+BE	692	2743	Eschert
+BE	694	2745	Grandval
+BE	694	2745	Grandval
+BE	701	2742	Perrefitte
+BE	701	2742	Perrefitte
+BE	702	2733	Pontenet
+BE	702	2733	Pontenet
+BE	704	2762	Roches (BE)
+BE	704	2762	Roches (BE)
+BE	706	2713	Saicourt
+BE	706	2713	Saicourt
+BE	710	2716	Sornetan
+BE	710	2716	Sornetan
+BE	711	2736	Sorvilier
+BE	711	2736	Sorvilier
+BE	712	2748	Souboz
+BE	712	2748	Souboz
+BE	713	2710	Tavannes
+BE	713	2710	Tavannes
+BE	721	2517	Diesse
+BE	721	2517	Diesse
+BE	723	2520	La Neuveville
+BE	723	2520	La Neuveville
+BE	724	2518	Nods
+BE	724	2518	Nods
+BE	725	2515	Prêles
+BE	725	2515	Prêles
+BE	731	2558	Aegerten
+BE	731	2558	Aegerten
+BE	732	2564	Bellmund
+BE	732	2564	Bellmund
+BE	733	2555	Brügg
+BE	733	2555	Brügg
+BE	738	2565	Jens
+BE	738	2565	Jens
+BE	739	2563	Ipsach
+BE	739	2563	Ipsach
+BE	743	2560	Nidau
+BE	743	2560	Nidau
+BE	744	2552	Orpund
+BE	744	2552	Orpund
+BE	745	2562	Port
+BE	745	2562	Port
+BE	746	2553	Safnern
+BE	746	2553	Safnern
+BE	749	2557	Studen (BE)
+BE	749	2557	Studen (BE)
+BE	755	3252	Worben
+BE	755	3252	Worben
+BE	756	2512	Twann-Tüscherz
+BE	756	2512	Twann-Tüscherz
+BE	756	2513	Twann-Tüscherz
+BE	756	2513	Twann-Tüscherz
+BE	761	3763	Därstetten
+BE	761	3764	Därstetten
+BE	762	3753	Diemtigen
+BE	762	3754	Diemtigen
+BE	762	3755	Diemtigen
+BE	762	3756	Diemtigen
+BE	762	3757	Diemtigen
+BE	763	3758	Erlenbach im Simmental
+BE	763	3762	Erlenbach im Simmental
+BE	766	3765	Oberwil im Simmental
+BE	767	3647	Reutigen
+BE	768	3646	Spiez
+BE	768	3700	Spiez
+BE	768	3702	Spiez
+BE	768	3705	Spiez
+BE	769	3752	Wimmis
+BE	781	3863	Gadmen
+BE	784	3862	Innertkirchen
+BE	785	3857	Meiringen
+BE	791	3766	Boltigen
+BE	792	3775	Lenk
+BE	793	3772	St. Stephan
+BE	793	3773	St. Stephan
+BE	794	3770	Zweisimmen
+BE	794	3771	Zweisimmen
+BE	794	3776	Zweisimmen
+BE	841	3784	Gsteig
+BE	841	3785	Gsteig
+BE	842	3782	Lauenen
+BE	843	1657	Saanen
+BE	843	1657	Saanen
+BE	843	3777	Saanen
+BE	843	3778	Saanen
+BE	843	3780	Saanen
+BE	843	3781	Saanen
+BE	843	3783	Saanen
+BE	843	3792	Saanen
+BE	851	3183	Schwarzenburg
+BE	851	3183	Schwarzenburg
+BE	852	3158	Guggisberg
+BE	852	3158	Guggisberg
+BE	852	3159	Guggisberg
+BE	852	3159	Guggisberg
+BE	853	3153	Rüschegg
+BE	853	3153	Rüschegg
+BE	853	3154	Rüschegg
+BE	853	3154	Rüschegg
+BE	854	3148	Schwarzenburg
+BE	854	3148	Schwarzenburg
+BE	854	3150	Schwarzenburg
+BE	854	3150	Schwarzenburg
+BE	854	3152	Schwarzenburg
+BE	854	3152	Schwarzenburg
+BE	854	3157	Schwarzenburg
+BE	854	3157	Schwarzenburg
+BE	861	3123	Belp
+BE	861	3123	Belp
+BE	861	3124	Belp
+BE	861	3124	Belp
+BE	866	3115	Gerzensee
+BE	866	3115	Gerzensee
+BE	867	3663	Gurzelen
+BE	870	3122	Kehrsatz
+BE	870	3122	Kehrsatz
+BE	877	3087	Niedermuhlern
+BE	877	3087	Niedermuhlern
+BE	879	3099	Riggisberg
+BE	879	3099	Riggisberg
+BE	880	3088	Rüeggisberg
+BE	880	3088	Rüeggisberg
+BE	880	3089	Rüeggisberg
+BE	880	3089	Rüeggisberg
+BE	880	3155	Rüeggisberg
+BE	880	3155	Rüeggisberg
+BE	883	3662	Seftigen
+BE	884	3125	Toffen
+BE	884	3125	Toffen
+BE	886	3665	Wattenwil
+BE	888	3086	Wald (BE)
+BE	888	3086	Wald (BE)
+BE	901	3536	Eggiwil
+BE	902	3551	Langnau im Emmental
+BE	902	3552	Langnau im Emmental
+BE	902	3553	Langnau im Emmental
+BE	903	3438	Lauperswil
+BE	903	3543	Lauperswil
+BE	904	3538	Röthenbach im Emmental
+BE	905	3437	Rüderswil
+BE	907	3535	Signau
+BE	908	3556	Trub
+BE	908	3557	Trub
+BE	921	3633	Amsoldingen
+BE	923	3615	Buchholterberg
+BE	924	3619	Eriz
+BE	925	3617	Fahrni
+BE	927	3625	Heiligenschwendi
+BE	928	3627	Heimberg
+BE	929	3652	Hilterfingen
+BE	930	3631	Höfen
+BE	931	3622	Homberg
+BE	934	3653	Oberhofen am Thunersee
+BE	938	3654	Sigriswil
+BE	938	3655	Sigriswil
+BE	938	3656	Sigriswil
+BE	938	3657	Sigriswil
+BE	938	3658	Sigriswil
+BE	939	3612	Steffisburg
+BE	939	3613	Steffisburg
+BE	941	3634	Thierachern
+BE	942	3600	Thun
+BE	943	3635	Uebeschi
+BE	944	3661	Uetendorf
+BE	945	3614	Unterlangenegg
+BE	948	3636	Forst-Längenbühl
+BE	951	3416	Affoltern im Emmental
+BE	951	3462	Affoltern im Emmental
+BE	952	3465	Dürrenroth
+BE	955	3435	Lützelflüh
+BE	955	3452	Lützelflüh
+BE	956	3417	Rüegsau
+BE	956	3418	Rüegsau
+BE	957	3454	Sumiswald
+BE	957	3455	Sumiswald
+BE	957	3457	Sumiswald
+BE	958	3453	Trachselwald
+BE	959	3464	Walterswil (BE)
+BE	973	3366	Bettenhausen
+BE	977	3372	Heimenhausen
+BE	977	3373	Heimenhausen
+BE	979	3360	Herzogenbuchsee
+BE	979	3363	Herzogenbuchsee
+BE	980	3375	Inkwil
+BE	982	3362	Niederönz
+BE	988	3365	Seeberg
+BE	991	3377	Walliswil bei Wangen
+BE	993	3374	Wangenried
+UR	1218	8751	Spiringen
+SZ	1301	8840	Einsiedeln
+SZ	1301	8841	Einsiedeln
+SZ	1301	8844	Einsiedeln
+SZ	1301	8846	Einsiedeln
+SZ	1301	8847	Einsiedeln
+SZ	1321	8834	Feusisberg
+SZ	1321	8835	Feusisberg
+SZ	1322	8807	Freienbach
+SZ	1322	8808	Freienbach
+SZ	1341	8852	Altendorf
+SZ	1343	8858	Innerthal
+SZ	1344	8853	Lachen
+SZ	1346	8862	Schübelbach
+SZ	1346	8863	Schübelbach
+SZ	1347	8856	Tuggen
+SZ	1348	8857	Vorderthal
+SZ	1349	8855	Wangen (SZ)
+SZ	1361	8849	Alpthal
+SZ	1375	8845	Unteriberg
+GL	1601	8777	Glarus Süd
+GL	1602	8865	Glarus Nord
+GL	1603	8784	Glarus Süd
+GL	1605	8767	Glarus Süd
+GL	1606	8765	Glarus Süd
+GL	1607	8755	Glarus
+GL	1608	8757	Glarus Nord
+GL	1609	8750	Glarus
+GL	1610	8773	Glarus Süd
+GL	1612	8774	Glarus Süd
+GL	1613	8783	Glarus Süd
+GL	1614	8775	Glarus Süd
+GL	1615	8766	Glarus Süd
+GL	1616	8756	Glarus Süd
+GL	1617	8753	Glarus Nord
+GL	1618	8874	Glarus Nord
+GL	1619	8752	Glarus Nord
+GL	1620	8754	Glarus
+GL	1621	8772	Glarus Süd
+GL	1622	8867	Glarus Nord
+GL	1623	8868	Glarus Nord
+GL	1624	8758	Glarus Nord
+GL	1626	8782	Glarus Süd
+GL	1627	8762	Glarus Süd
+FR	2005	1474	Châbles
+FR	2005	1474	Châbles
+FR	2009	1529	Cheiry
+FR	2009	1529	Cheiry
+FR	2010	1468	Cheyres
+FR	2010	1468	Cheyres
+FR	2011	1482	Cugy (FR)
+FR	2011	1482	Cugy (FR)
+FR	2013	1564	Domdidier
+FR	2013	1564	Domdidier
+FR	2014	1563	Dompierre (FR)
+FR	2014	1563	Dompierre (FR)
+FR	2016	1532	Fétigny
+FR	2016	1532	Fétigny
+FR	2022	1544	Gletterens
+FR	2022	1544	Gletterens
+FR	2027	1533	Ménières
+FR	2027	1533	Ménières
+FR	2029	1774	Montagny (FR)
+FR	2029	1774	Montagny (FR)
+FR	2029	1775	Montagny (FR)
+FR	2029	1775	Montagny (FR)
+FR	2029	1776	Montagny (FR)
+FR	2029	1776	Montagny (FR)
+FR	2034	1489	Murist
+FR	2034	1489	Murist
+FR	2035	1485	Nuvilly
+FR	2035	1485	Nuvilly
+FR	2039	1542	Rueyres-les-Prés
+FR	2039	1542	Rueyres-les-Prés
+FR	2041	1566	Saint-Aubin (FR)
+FR	2041	1566	Saint-Aubin (FR)
+FR	2044	1528	Surpierre
+FR	2044	1528	Surpierre
+FR	2047	1527	Villeneuve (FR)
+FR	2047	1527	Villeneuve (FR)
+FR	2049	1486	Vuissens
+FR	2049	1486	Vuissens
+FR	2050	1484	Les Montets
+FR	2050	1484	Les Montets
+FR	2051	1567	Delley-Portalban
+FR	2051	1567	Delley-Portalban
+FR	2051	1568	Delley-Portalban
+FR	2051	1568	Delley-Portalban
+FR	2052	1475	Vernay
+FR	2052	1475	Vernay
+FR	2063	1681	Billens-Hennens
+FR	2063	1681	Billens-Hennens
+FR	2067	1689	Le Châtelard
+FR	2067	1689	Le Châtelard
+FR	2068	1553	Châtonnaye
+FR	2068	1553	Châtonnaye
+FR	2086	1692	Massonnens
+FR	2086	1692	Massonnens
+FR	2087	1684	Mézières (FR)
+FR	2087	1684	Mézières (FR)
+FR	2099	1676	Siviriez
+FR	2099	1676	Siviriez
+FR	2099	1677	Siviriez
+FR	2099	1677	Siviriez
+FR	2099	1678	Siviriez
+FR	2099	1678	Siviriez
+FR	2099	1679	Siviriez
+FR	2099	1679	Siviriez
+FR	2102	1670	Ursy
+FR	2102	1670	Ursy
+FR	2113	1685	Vuisternens-dev-Romont
+FR	2113	1685	Vuisternens-dev-Romont
+FR	2113	1687	Vuisternens-dev-Romont
+FR	2113	1687	Vuisternens-dev-Romont
+FR	2113	1688	Vuisternens-dev-Romont
+FR	2113	1688	Vuisternens-dev-Romont
+FR	2113	1697	Vuisternens-dev-Romont
+FR	2113	1697	Vuisternens-dev-Romont
+FR	2114	1694	Villorsonnens
+FR	2114	1694	Villorsonnens
+FR	2115	1748	Torny
+FR	2115	1748	Torny
+FR	2115	1749	Torny
+FR	2115	1749	Torny
+FR	2116	1691	La Folliaz
+FR	2116	1691	La Folliaz
+FR	2121	1669	Haut-Intyamon
+FR	2121	1669	Haut-Intyamon
+FR	2122	1643	Pont-en-Ogoz
+FR	2122	1643	Pont-en-Ogoz
+FR	2122	1644	Pont-en-Ogoz
+FR	2122	1644	Pont-en-Ogoz
+FR	2122	1645	Pont-en-Ogoz
+FR	2122	1645	Pont-en-Ogoz
+FR	2123	1652	Botterens
+FR	2123	1652	Botterens
+FR	2124	1636	Broc
+FR	2124	1636	Broc
+FR	2125	1630	Bulle
+FR	2125	1630	Bulle
+FR	2125	1635	Bulle
+FR	2125	1635	Bulle
+FR	2126	1654	Cerniat (FR)
+FR	2126	1654	Cerniat (FR)
+FR	2127	1637	Charmey
+FR	2127	1637	Charmey
+FR	2129	1647	Corbières
+FR	2129	1647	Corbières
+FR	2129	1651	Corbières
+FR	2129	1651	Corbières
+FR	2131	1646	Echarlens
+FR	2131	1646	Echarlens
+FR	2135	1663	Gruyères
+FR	2135	1663	Gruyères
+FR	2137	1648	Hauteville
+FR	2137	1648	Hauteville
+FR	2138	1656	Jaun
+FR	2138	1656	Jaun
+FR	2140	1633	Marsens
+FR	2140	1633	Marsens
+FR	2143	1638	Morlon
+FR	2143	1638	Morlon
+FR	2145	1661	Le Pâquier (FR)
+FR	2145	1661	Le Pâquier (FR)
+FR	2147	1649	Pont-la-Ville
+FR	2147	1649	Pont-la-Ville
+FR	2148	1632	Riaz
+FR	2148	1632	Riaz
+FR	2149	1634	La Roche
+FR	2149	1634	La Roche
+FR	2152	1625	Sâles
+FR	2152	1625	Sâles
+FR	2152	1626	Sâles
+FR	2152	1626	Sâles
+FR	2153	1642	Sorens
+FR	2153	1642	Sorens
+FR	2155	1627	Vaulruz
+FR	2155	1627	Vaulruz
+FR	2160	1628	Vuadens
+FR	2160	1628	Vuadens
+FR	2162	1665	Bas-Intyamon
+FR	2162	1665	Bas-Intyamon
+FR	2162	1667	Bas-Intyamon
+FR	2162	1667	Bas-Intyamon
+FR	2171	1732	Arconciel
+FR	2171	1732	Arconciel
+FR	2173	1742	Autigny
+FR	2173	1742	Autigny
+FR	2174	1754	Avry
+FR	2174	1754	Avry
+FR	2177	1744	Chénens
+FR	2177	1744	Chénens
+FR	2184	1727	Corpataux-Magnedens
+FR	2184	1727	Corpataux-Magnedens
+FR	2185	1747	Corserey
+FR	2185	1747	Corserey
+FR	2186	1741	Cottens (FR)
+FR	2186	1741	Cottens (FR)
+FR	2189	1731	Ependes (FR)
+FR	2189	1731	Ependes (FR)
+FR	2192	1726	Farvagny
+FR	2192	1726	Farvagny
+FR	2197	1762	Givisiez
+FR	2197	1762	Givisiez
+FR	2208	1753	Matran
+FR	2208	1753	Matran
+FR	2211	1740	Neyruz (FR)
+FR	2211	1740	Neyruz (FR)
+FR	2213	1757	Noréaz
+FR	2213	1757	Noréaz
+FR	2221	1746	Prez-vers-Noréaz
+FR	2221	1746	Prez-vers-Noréaz
+FR	2222	1728	Rossens (FR)
+FR	2222	1728	Rossens (FR)
+FR	2223	1695	Le Glèbe
+FR	2223	1695	Le Glèbe
+FR	2226	1733	Treyvaux
+FR	2226	1733	Treyvaux
+FR	2228	1752	Villars-sur-Glâne
+FR	2228	1752	Villars-sur-Glâne
+FR	2231	1696	Vuisternens-en-Ogoz
+FR	2231	1696	Vuisternens-en-Ogoz
+FR	2233	1725	Hauterive (FR)
+FR	2233	1725	Hauterive (FR)
+FR	2233	1730	Hauterive (FR)
+FR	2233	1730	Hauterive (FR)
+FR	2234	1745	La Brillaz
+FR	2234	1745	La Brillaz
+FR	2234	1756	La Brillaz
+FR	2234	1756	La Brillaz
+FR	2250	1796	Courgevaux
+FR	2250	1796	Courgevaux
+FR	2251	1795	Courlevon
+FR	2251	1795	Courlevon
+FR	2254	1791	Courtepin
+FR	2254	1791	Courtepin
+FR	2257	1785	Cressier (FR)
+FR	2257	1785	Cressier (FR)
+FR	2258	3284	Fräschels
+FR	2258	3284	Fräschels
+FR	2259	3285	Galmiz
+FR	2259	3285	Galmiz
+FR	2262	1792	Gurmels
+FR	2262	1792	Gurmels
+FR	2262	3212	Gurmels
+FR	2262	3212	Gurmels
+FR	2264	1793	Jeuss
+FR	2264	1793	Jeuss
+FR	2265	3210	Kerzers
+FR	2265	3210	Kerzers
+FR	2272	1721	Misery-Courtion
+FR	2272	1721	Misery-Courtion
+FR	2274	3286	Muntelier
+FR	2274	3286	Muntelier
+FR	2276	3216	Ried bei Kerzers
+FR	2276	3216	Ried bei Kerzers
+FR	2277	1794	Salvenach
+FR	2277	1794	Salvenach
+FR	2278	3214	Ulmiz
+FR	2278	3214	Ulmiz
+FR	2279	1583	Villarepos
+FR	2279	1583	Villarepos
+FR	2280	1786	Bas-Vully
+FR	2280	1786	Bas-Vully
+FR	2280	1788	Bas-Vully
+FR	2280	1788	Bas-Vully
+FR	2281	1789	Haut-Vully
+FR	2281	1789	Haut-Vully
+FR	2291	1715	Alterswil
+FR	2291	1715	Alterswil
+FR	2293	3186	Düdingen
+FR	2293	3186	Düdingen
+FR	2294	1735	Giffers
+FR	2294	1735	Giffers
+FR	2295	3178	Bösingen
+FR	2295	3178	Bösingen
+FR	2300	1737	Plasselb
+FR	2300	1737	Plasselb
+FR	2301	1718	Rechthalten
+FR	2301	1718	Rechthalten
+FR	2303	1736	St. Silvester
+FR	2303	1736	St. Silvester
+FR	2304	1717	St. Ursen
+FR	2304	1717	St. Ursen
+FR	2307	1734	Tentlingen
+FR	2307	1734	Tentlingen
+FR	2308	3182	Ueberstorf
+FR	2308	3182	Ueberstorf
+FR	2309	3184	Wünnewil-Flamatt
+FR	2309	3184	Wünnewil-Flamatt
+FR	2321	1616	Attalens
+FR	2321	1616	Attalens
+FR	2323	1615	Bossonnens
+FR	2323	1615	Bossonnens
+FR	2325	1618	Châtel-Saint-Denis
+FR	2325	1618	Châtel-Saint-Denis
+FR	2325	1619	Châtel-Saint-Denis
+FR	2325	1619	Châtel-Saint-Denis
+FR	2328	1614	Granges (Veveyse)
+FR	2328	1614	Granges (Veveyse)
+FR	2335	1609	Saint-Martin (FR)
+FR	2335	1609	Saint-Martin (FR)
+FR	2336	1623	Semsales
+FR	2336	1623	Semsales
+FR	2337	1699	Le Flon
+FR	2337	1699	Le Flon
+FR	2338	1611	La Verrerie
+FR	2338	1611	La Verrerie
+FR	2338	1624	La Verrerie
+FR	2338	1624	La Verrerie
+SO	2457	3307	Messen
+SO	2457	3307	Messen
+SO	2461	3253	Schnottwil
+SO	2461	3253	Schnottwil
+SO	2472	4413	Büren (SO)
+SO	2473	4143	Dornach
+SO	2474	4145	Gempen
+SO	2475	4146	Hochwald
+SO	2476	4114	Hofstetten-Flüh
+SO	2477	4115	Metzerlen-Mariastein
+SO	2477	4116	Metzerlen-Mariastein
+SO	2478	4412	Nuglar-St. Pantaleon
+SO	2478	4421	Nuglar-St. Pantaleon
+SO	2479	4118	Rodersdorf
+SO	2480	4206	Seewen
+SO	2481	4108	Witterswil
+SO	2543	2544	Bettlach
+SO	2543	2544	Bettlach
+SO	2546	2540	Grenchen
+SO	2546	2540	Grenchen
+SO	2556	2545	Selzach
+SO	2556	2545	Selzach
+SO	2611	4252	Bärschwil
+SO	2612	4229	Beinwil (SO)
+SO	2613	4226	Breitenbach
+SO	2614	4227	Büsserach
+SO	2615	4228	Erschwil
+SO	2616	4232	Fehren
+SO	2617	4247	Grindel
+SO	2618	4204	Himmelried
+SO	2619	4245	Kleinlützel
+SO	2620	4233	Meltingen
+SO	2621	4208	Nunningen
+BS	2701	4000	Basel
+BS	2701	4000	Basel
+BS	2701	4001	Basel
+BS	2701	4002	Basel
+BS	2701	4003	Basel
+BS	2701	4004	Basel
+BS	2701	4005	Basel
+BS	2701	4006	Basel
+BS	2701	4007	Basel
+BS	2701	4008	Basel
+BS	2701	4009	Basel
+BS	2701	4010	Basel
+BS	2701	4011	Basel
+BS	2701	4012	Basel
+BS	2701	4013	Basel
+BS	2701	4014	Basel
+BS	2701	4015	Basel
+BS	2701	4016	Basel
+BS	2701	4017	Basel
+BS	2701	4018	Basel
+BS	2701	4019	Basel
+BS	2701	4020	Basel
+BS	2701	4021	Basel
+BS	2701	4022	Basel
+BS	2701	4023	Basel
+BS	2701	4024	Basel
+BS	2701	4025	Basel
+BS	2701	4026	Basel
+BS	2701	4027	Basel
+BS	2701	4028	Basel
+BS	2701	4029	Basel
+BS	2701	4030	Basel
+BS	2701	4031	Basel
+BS	2701	4032	Basel
+BS	2701	4033	Basel
+BS	2701	4034	Basel
+BS	2701	4035	Basel
+BS	2701	4036	Basel
+BS	2701	4037	Basel
+BS	2701	4038	Basel
+BS	2701	4039	Basel
+BS	2701	4040	Basel
+BS	2701	4041	Basel
+BS	2701	4042	Basel
+BS	2701	4043	Basel
+BS	2701	4044	Basel
+BS	2701	4045	Basel
+BS	2701	4046	Basel
+BS	2701	4047	Basel
+BS	2701	4048	Basel
+BS	2701	4049	Basel
+BS	2701	4050	Basel
+BS	2701	4051	Basel
+BS	2701	4052	Basel
+BS	2701	4053	Basel
+BS	2701	4054	Basel
+BS	2701	4055	Basel
+BS	2701	4056	Basel
+BS	2701	4057	Basel
+BS	2701	4058	Basel
+BS	2701	4059	Basel
+BS	2702	4126	Bettingen
+BS	2703	4125	Riehen
+BL	2762	4123	Allschwil
+BL	2763	4144	Arlesheim
+BL	2764	4105	Biel-Benken
+BL	2765	4102	Binningen
+BL	2766	4127	Birsfelden
+BL	2767	4103	Bottmingen
+BL	2768	4107	Ettingen
+BL	2769	4142	Münchenstein
+BL	2770	4132	Muttenz
+BL	2771	4104	Oberwil (BL)
+BL	2772	4148	Pfeffingen
+BL	2774	4124	Schönenbuch
+BL	2775	4106	Therwil
+BL	2781	4223	Blauen
+BL	2782	4225	Brislach
+BL	2783	4117	Burg im Leimental
+BL	2784	4243	Dittingen
+BL	2785	4202	Duggingen
+BL	2786	4203	Grellingen
+BL	2787	4242	Laufen
+BL	2788	4253	Liesberg
+BL	2788	4254	Liesberg
+BL	2789	4224	Nenzlingen
+BL	2790	2814	Roggenburg
+BL	2790	2814	Roggenburg
+BL	2791	4244	Röschenz
+BL	2792	4246	Wahlen
+BL	2793	4222	Zwingen
+BL	2821	4422	Arisdorf
+BL	2822	4302	Augst
+BL	2823	4416	Bubendorf
+BL	2824	4402	Frenkendorf
+BL	2825	4414	Füllinsdorf
+BL	2826	4304	Giebenach
+BL	2827	4423	Hersberg
+BL	2828	4415	Lausen
+BL	2829	4410	Liestal
+BL	2830	4419	Lupsingen
+BL	2833	4411	Seltisberg
+BL	2834	4417	Ziefen
+BL	2881	4424	Arboldswil
+BL	2882	4431	Bennwil
+BL	2883	4207	Bretzwil
+BL	2889	4426	Lauwil
+BL	2893	4418	Reigoldswil
+BL	2894	4425	Titterten
+SH	2901	8214	Gächlingen
+SH	2902	8223	Guntmadingen
+SH	2903	8224	Löhningen
+SH	2904	8213	Neunkirch
+SH	2915	8239	Dörflingen
+SH	2917	8235	Lohn (SH)
+SH	2919	8234	Stetten (SH)
+SH	2920	8240	Thayngen
+SH	2920	8241	Thayngen
+SH	2920	8242	Thayngen
+SH	2920	8243	Thayngen
+SH	2931	8233	Bargen (SH)
+SH	2932	8222	Beringen
+SH	2933	8454	Buchberg
+SH	2936	8232	Merishausen
+SH	2938	8455	Rüdlingen
+SH	2939	8200	Schaffhausen
+SH	2939	8203	Schaffhausen
+SH	2939	8207	Schaffhausen
+SH	2939	8231	Schaffhausen
+SH	2951	8228	Beggingen
+SH	2952	8226	Schleitheim
+SH	2953	8225	Siblingen
+SH	2961	8263	Buch (SH)
+SH	2962	8261	Hemishofen
+SH	2963	8262	Ramsen
+SH	2964	8260	Stein am Rhein
+SH	2971	8215	Hallau
+SH	2972	8216	Oberhallau
+SH	2973	8219	Trasadingen
+SH	2974	8217	Wilchingen
+SH	2974	8218	Wilchingen
+AR	3001	9100	Herisau
+AR	3001	9112	Herisau
+AR	3002	9064	Hundwil
+AR	3004	9103	Schwellbrunn
+AR	3005	9063	Stein (AR)
+AR	3007	9104	Waldstatt
+AR	3021	9055	Bühler
+AR	3022	9056	Gais
+AR	3023	9037	Speicher
+AR	3023	9042	Speicher
+AR	3024	9052	Teufen (AR)
+AR	3024	9053	Teufen (AR)
+AR	3024	9062	Teufen (AR)
+AR	3025	9043	Trogen
+AR	3032	9410	Heiden
+AR	3033	9426	Lutzenberg
+AR	3034	9038	Rehetobel
+AR	3035	9411	Reute (AR)
+AR	3035	9414	Reute (AR)
+AR	3036	9044	Wald (AR)
+AI	3102	9108	Gonten
+AI	3104	9054	Schlatt-Haslen
+AI	3111	9413	Oberegg
+SG	3201	9308	Häggenschwil
+SG	3201	9312	Häggenschwil
+SG	3203	9015	St. Gallen
+SG	3204	9300	Wittenbach
+SG	3211	9305	Berg (SG)
+SG	3212	9034	Eggersriet
+SG	3212	9036	Eggersriet
+SG	3213	9403	Goldach
+SG	3214	9402	Mörschwil
+SG	3215	9400	Rorschach
+SG	3216	9404	Rorschacherberg
+SG	3217	9323	Steinach
+SG	3218	9327	Tübach
+SG	3219	9033	Untereggen
+SG	3231	9434	Au (SG)
+SG	3232	9436	Balgach
+SG	3234	9444	Diepoldsau
+SG	3235	9424	Rheineck
+SG	3236	9430	St. Margrethen
+SG	3237	9423	Thal
+SG	3237	9425	Thal
+SG	3238	9443	Widnau
+SG	3252	9453	Eichberg
+SG	3253	9437	Marbach (SG)
+SG	3254	9451	Oberriet (SG)
+SG	3254	9462	Oberriet (SG)
+SG	3254	9463	Oberriet (SG)
+SG	3255	9445	Rebstein
+SG	3272	9473	Gams
+SG	3273	9472	Grabs
+SG	3274	9465	Sennwald
+SG	3274	9466	Sennwald
+SG	3274	9467	Sennwald
+SG	3274	9468	Sennwald
+SG	3274	9469	Sennwald
+SG	3275	9475	Sevelen
+SG	3276	9476	Wartau
+SG	3276	9477	Wartau
+SG	3276	9478	Wartau
+SG	3276	9479	Wartau
+SG	3292	8890	Flums
+SG	3292	8893	Flums
+SG	3292	8894	Flums
+SG	3292	8895	Flums
+SG	3292	8896	Flums
+SG	3292	8897	Flums
+SG	3293	7325	Mels
+SG	3293	7326	Mels
+SG	3293	8886	Mels
+SG	3293	8887	Mels
+SG	3293	8888	Mels
+SG	3293	8889	Mels
+SG	3294	7312	Pfäfers
+SG	3294	7313	Pfäfers
+SG	3294	7314	Pfäfers
+SG	3294	7317	Pfäfers
+SG	3295	8877	Quarten
+SG	3295	8878	Quarten
+SG	3295	8882	Quarten
+SG	3295	8883	Quarten
+SG	3295	8884	Quarten
+SG	3295	8885	Quarten
+SG	3296	7320	Sargans
+SG	3297	7323	Vilters-Wangs
+SG	3297	7324	Vilters-Wangs
+SG	3298	8880	Walenstadt
+SG	3298	8881	Walenstadt
+SG	3298	8892	Walenstadt
+SG	3311	8873	Amden
+SG	3312	8717	Benken (SG)
+SG	3313	8722	Kaltbrunn
+SG	3314	8739	Rieden
+SG	3315	8718	Schänis
+SG	3315	8723	Schänis
+SG	3331	8725	Ernetschwil
+SG	3332	8732	Eschenbach (SG)
+SG	3332	8733	Eschenbach (SG)
+SG	3332	8734	Eschenbach (SG)
+SG	3333	8638	Goldingen
+SG	3334	8737	Gommiswald
+SG	3334	8738	Gommiswald
+SG	3337	8727	St. Gallenkappel
+SG	3337	8735	St. Gallenkappel
+SG	3338	8716	Schmerikon
+SG	3340	8645	Rapperswil-Jona
+SG	3340	8646	Rapperswil-Jona
+SG	3340	8715	Rapperswil-Jona
+SG	3352	9642	Ebnat-Kappel
+SG	3356	9655	Stein (SG)
+SG	3358	9643	Nesslau-Krummenau
+SG	3358	9650	Nesslau-Krummenau
+SG	3358	9651	Nesslau-Krummenau
+SG	3358	9652	Nesslau-Krummenau
+SG	3359	9656	Wildhaus-Alt St. Johann
+SG	3359	9657	Wildhaus-Alt St. Johann
+SG	3359	9658	Wildhaus-Alt St. Johann
+SG	3372	9633	Hemberg
+SG	3373	9622	Krinau
+SG	3375	9621	Oberhelfenschwil
+SG	3377	9631	Wattwil
+SG	3378	9114	Neckertal
+SG	3378	9115	Neckertal
+SG	3378	9122	Neckertal
+SG	3378	9123	Neckertal
+SG	3378	9125	Neckertal
+SG	3378	9127	Neckertal
+SG	3391	9606	Bütschwil
+SG	3391	9615	Bütschwil
+SG	3392	9533	Kirchberg (SG)
+SG	3392	9534	Kirchberg (SG)
+SG	3392	9602	Kirchberg (SG)
+SG	3394	9607	Mosnang
+SG	3394	9612	Mosnang
+SG	3394	9613	Mosnang
+SG	3394	9614	Mosnang
+SG	3401	9113	Degersheim
+SG	3401	9116	Degersheim
+SG	3402	9230	Flawil
+SG	3402	9231	Flawil
+SG	3403	9608	Ganterschwil
+SG	3405	9243	Jonschwil
+SG	3405	9536	Jonschwil
+SG	3407	9242	Oberuzwil
+SG	3407	9248	Oberuzwil
+SG	3408	9244	Uzwil
+SG	3408	9247	Uzwil
+SG	3408	9249	Uzwil
+SG	3421	9512	Bronschhofen
+SG	3421	9552	Bronschhofen
+SG	3422	9246	Niederbüren
+SG	3423	9525	Niederhelfenschwil
+SG	3423	9526	Niederhelfenschwil
+SG	3423	9527	Niederhelfenschwil
+SG	3424	9203	Oberbüren
+SG	3424	9245	Oberbüren
+SG	3425	9500	Wil (SG)
+SG	3426	9523	Zuzwil (SG)
+SG	3441	9204	Andwil (SG)
+SG	3442	9030	Gaiserwald
+SG	3442	9032	Gaiserwald
+SG	3443	9200	Gossau (SG)
+SG	3444	9205	Waldkirch
+SG	3444	9304	Waldkirch
+GR	3501	7451	Alvaschein
+GR	3502	7458	Mon
+GR	3503	7431	Mutten
+GR	3504	7459	Stierva
+GR	3511	7473	Alvaneu
+GR	3511	7492	Alvaneu
+GR	3514	7493	Schmitten (GR)
+GR	3515	7472	Surava
+GR	3521	7482	Bergün/Bravuogn
+GR	3521	7484	Bergün/Bravuogn
+GR	3522	7477	Filisur
+GR	3531	7457	Bivio
+GR	3532	7452	Cunter
+GR	3534	7455	Mulegns
+GR	3536	7463	Riom-Parsonz
+GR	3536	7464	Riom-Parsonz
+GR	3538	7462	Salouf
+GR	3539	7460	Savognin
+GR	3541	7453	Tinizong-Rona
+GR	3541	7454	Tinizong-Rona
+GR	3551	7744	Brusio
+GR	3551	7747	Brusio
+GR	3551	7748	Brusio
+GR	3561	7710	Poschiavo
+GR	3561	7741	Poschiavo
+GR	3561	7742	Poschiavo
+GR	3561	7745	Poschiavo
+GR	3561	7746	Poschiavo
+GR	3572	7153	Falera
+GR	3576	7155	Ladir
+GR	3577	7141	Luven
+GR	3580	7154	Ruschein
+GR	3581	7152	Sagogn
+GR	3582	7151	Schluein
+GR	3592	7142	Cumbel
+GR	3594	7145	Degen
+GR	3594	7146	Degen
+GR	3595	7148	Lumbrein
+GR	3596	7143	Morissen
+GR	3604	7147	Vignogn
+GR	3605	7144	Vella
+GR	3606	7149	Vrin
+GR	3611	7159	Andiast
+GR	3612	7136	Obersaxen
+GR	3615	7157	Siat
+GR	3616	7158	Waltensburg/Vuorz
+GR	3617	7137	Mundaun
+GR	3631	7416	Almens
+GR	3633	7413	Fürstenau
+GR	3633	7414	Fürstenau
+GR	3634	7417	Paspels
+GR	3637	7405	Rothenbrunnen
+GR	3638	7412	Scharans
+GR	3640	7411	Sils im Domleschg
+GR	3661	7408	Cazis
+GR	3661	7421	Cazis
+GR	3661	7422	Cazis
+GR	3661	7423	Cazis
+GR	3661	7424	Cazis
+GR	3662	7426	Flerden
+GR	3663	7425	Masein
+GR	3669	7428	Tschappina
+GR	3670	7427	Urmein
+GR	3671	7404	Tomils
+GR	3671	7407	Tomils
+GR	3671	7418	Tomils
+GR	3671	7419	Tomils
+GR	3681	7446	Avers
+GR	3681	7447	Avers
+GR	3681	7448	Avers
+GR	3691	7438	Hinterrhein
+GR	3693	7437	Nufenen
+GR	3694	7435	Splügen
+GR	3694	7436	Splügen
+GR	3695	7434	Sufers
+GR	3701	7440	Andeer
+GR	3701	7443	Andeer
+GR	3712	7432	Zillis-Reischen
+GR	3713	7444	Ferrera
+GR	3713	7445	Ferrera
+GR	3723	7403	Rhäzüns
+GR	3741	7546	Ardez
+GR	3743	7543	Lavin
+GR	3744	7542	Susch
+GR	3745	7552	Tarasp
+GR	3745	7553	Tarasp
+GR	3746	7527	Zernez
+GR	3751	7556	Ramosch
+GR	3752	7562	Samnaun
+GR	3752	7563	Samnaun
+GR	3753	7559	Tschlin
+GR	3753	7560	Tschlin
+GR	3761	7551	Ftan
+GR	3762	7550	Scuol
+GR	3763	7554	Sent
+GR	3781	7502	Bever
+GR	3782	7505	Celerina/Schlarigna
+GR	3783	7523	Madulain
+GR	3784	7504	Pontresina
+GR	3785	7522	La Punt-Chamues-ch
+GR	3786	7503	Samedan
+GR	3787	7500	St. Moritz
+GR	3788	7525	S-chanf
+GR	3788	7526	S-chanf
+GR	3789	7514	Sils im Engadin/Segl
+GR	3789	7515	Sils im Engadin/Segl
+GR	3789	7517	Sils im Engadin/Segl
+GR	3790	7513	Silvaplana
+GR	3791	7524	Zuoz
+GR	3792	7516	Bregaglia
+GR	3792	7602	Bregaglia
+GR	3792	7603	Bregaglia
+GR	3792	7604	Bregaglia
+GR	3792	7605	Bregaglia
+GR	3792	7606	Bregaglia
+GR	3792	7608	Bregaglia
+GR	3792	7610	Bregaglia
+GR	3847	7532	Val Müstair
+GR	3847	7533	Val Müstair
+GR	3847	7534	Val Müstair
+GR	3847	7535	Val Müstair
+GR	3847	7536	Val Müstair
+GR	3847	7537	Val Müstair
+GR	3851	7260	Davos
+GR	3851	7265	Davos
+GR	3851	7270	Davos
+GR	3851	7272	Davos
+GR	3851	7276	Davos
+GR	3851	7277	Davos
+GR	3851	7278	Davos
+GR	3861	7235	Fideris
+GR	3862	7232	Furna
+GR	3863	7231	Jenaz
+GR	3863	7233	Jenaz
+GR	3871	7249	Klosters-Serneus
+GR	3871	7250	Klosters-Serneus
+GR	3871	7252	Klosters-Serneus
+GR	3881	7241	Conters im Prättigau
+GR	3883	7247	Saas
+GR	3891	7223	Luzein
+GR	3891	7224	Luzein
+GR	3891	7242	Luzein
+GR	3891	7243	Luzein
+GR	3891	7244	Luzein
+GR	3893	7245	St. Antönien
+GR	3893	7246	St. Antönien
+GR	3942	7206	Landquart
+GR	3945	7202	Trimmis
+GR	3945	7203	Trimmis
+GR	3946	7204	Untervaz
+GR	3947	7205	Zizers
+GR	3951	7306	Fläsch
+GR	3952	7307	Jenins
+GR	3954	7208	Malans
+GR	3955	7302	Landquart
+GR	3955	7303	Landquart
+GR	3961	7213	Grüsch
+GR	3961	7214	Grüsch
+GR	3961	7215	Grüsch
+GR	3962	7220	Schiers
+GR	3962	7222	Schiers
+GR	3962	7226	Schiers
+GR	3962	7228	Schiers
+GR	3972	7212	Seewis im Prättigau
+GR	3981	7162	Breil/Brigels
+GR	3981	7163	Breil/Brigels
+GR	3981	7164	Breil/Brigels
+GR	3981	7165	Breil/Brigels
+GR	3982	7180	Disentis/Mustér
+GR	3982	7182	Disentis/Mustér
+GR	3982	7183	Disentis/Mustér
+GR	3982	7186	Disentis/Mustér
+GR	3983	7184	Medel (Lucmagn)
+GR	3985	7172	Sumvitg
+GR	3985	7173	Sumvitg
+GR	3985	7174	Sumvitg
+GR	3985	7175	Sumvitg
+GR	3985	7176	Sumvitg
+GR	3986	7187	Tujetsch
+GR	3986	7188	Tujetsch
+GR	3986	7189	Tujetsch
+GR	3987	7166	Trun
+GR	3987	7167	Trun
+GR	3987	7168	Trun
+AG	4023	8962	Bergdietikon
+AG	4030	8956	Killwangen
+AG	4040	8957	Spreitenbach
+AG	4048	8109	Würenlos
+AG	4071	8916	Jonen
+AG	4073	8917	Oberlunkhofen
+AG	4074	8966	Oberwil-Lieli
+AG	4075	8964	Rudolfstetten-Friedlisb.
+AG	4079	8918	Unterlunkhofen
+AG	4081	8967	Widen
+AG	4172	4333	Münchwilen (AG)
+AG	4177	4334	Sisseln
+AG	4238	8919	Rottenschwil
+AG	4251	4316	Hellikon
+AG	4252	4303	Kaiseraugst
+AG	4253	4312	Magden
+AG	4254	4313	Möhlin
+AG	4255	4322	Mumpf
+AG	4256	4324	Obermumpf
+AG	4258	4310	Rheinfelden
+AG	4259	4325	Schupfart
+AG	4260	4332	Stein (AG)
+AG	4261	4323	Wallbach
+AG	4262	4317	Wegenstetten
+AG	4263	4314	Zeiningen
+AG	4264	4315	Zuzgen
+TG	4406	8582	Dozwil
+TG	4411	9314	Egnach
+TG	4411	9315	Egnach
+TG	4411	9322	Egnach
+TG	4421	9326	Horn
+TG	4426	8593	Kesswil
+TG	4431	9306	Roggwil (TG)
+TG	4431	9325	Roggwil (TG)
+TG	4436	8590	Romanshorn
+TG	4441	8599	Salmsach
+TG	4451	8592	Uttwil
+TG	4461	8581	Amriswil
+TG	4461	8587	Amriswil
+TG	4471	9223	Bischofszell
+TG	4486	9225	Hauptwil-Gottshaus
+TG	4495	9216	Hohentannen
+TG	4501	9215	Kradolf-Schönenberg
+TG	4501	9217	Kradolf-Schönenberg
+TG	4506	8583	Sulgen
+TG	4511	8588	Zihlschlacht-Sitterdorf
+TG	4536	8254	Basadingen-Schlattingen
+TG	4536	8255	Basadingen-Schlattingen
+TG	4545	8253	Diessenhofen
+TG	4546	8252	Schlatt (TG)
+TG	4551	8355	Aadorf
+TG	4551	8356	Aadorf
+TG	4551	8357	Aadorf
+TG	4551	8522	Aadorf
+TG	4551	9547	Aadorf
+TG	4561	8552	Felben-Wellhausen
+TG	4571	8547	Gachnang
+TG	4590	8553	Hüttlingen
+TG	4601	8526	Neunforn
+TG	4606	9507	Stettfurt
+TG	4611	8512	Thundorf
+TG	4616	8524	Uesslingen-Buch
+TG	4621	8532	Warth-Weiningen
+TG	4641	8595	Altnau
+TG	4643	8598	Bottighofen
+TG	4646	8272	Ermatingen
+TG	4646	8273	Ermatingen
+TG	4656	8594	Güttingen
+TG	4666	8565	Kemmental
+TG	4666	8566	Kemmental
+TG	4666	8573	Kemmental
+TG	4671	8280	Kreuzlingen
+TG	4683	8574	Lengwil
+TG	4691	8596	Münsterlingen
+TG	4691	8597	Münsterlingen
+TG	4711	9556	Affeltrangen
+TG	4711	9562	Affeltrangen
+TG	4716	9553	Bettwiesen
+TG	4721	8362	Bichelsee-Balterswil
+TG	4721	8363	Bichelsee-Balterswil
+TG	4723	9502	Braunau
+TG	4726	8374	Fischingen
+TG	4726	8376	Fischingen
+TG	4741	9506	Lommis
+TG	4741	9508	Lommis
+TG	4746	9542	Münchwilen (TG)
+TG	4751	9532	Rickenbach (TG)
+TG	4756	8577	Schönholzerswilen
+TG	4761	8370	Sirnach
+TG	4761	8371	Sirnach
+TG	4761	8372	Sirnach
+TG	4761	9573	Sirnach
+TG	4776	9554	Tobel-Tägerschen
+TG	4776	9555	Tobel-Tägerschen
+TG	4781	9545	Wängi
+TG	4781	9546	Wängi
+TG	4786	9535	Wilen (TG)
+TG	4791	9514	Wuppenau
+TG	4791	9515	Wuppenau
+TG	4801	8267	Berlingen
+TG	4811	8506	Herdern
+TG	4811	8535	Herdern
+TG	4816	8507	Homburg
+TG	4816	8508	Homburg
+TG	4821	8536	Hüttwilen
+TG	4821	8537	Hüttwilen
+TG	4826	8265	Mammern
+TG	4831	8555	Müllheim
+TG	4841	8505	Pfyn
+TG	4851	8268	Salenstein
+TG	4851	8269	Salenstein
+TG	4864	8266	Steckborn
+TG	4871	8259	Wagenhausen
+TG	4891	8572	Berg (TG)
+TG	4891	8576	Berg (TG)
+TG	4911	8575	Bürglen (TG)
+TG	4911	8584	Bürglen (TG)
+TG	4921	9503	Bussnang
+TG	4921	9504	Bussnang
+TG	4921	9517	Bussnang
+TG	4921	9565	Bussnang
+TG	4941	8561	Märstetten
+TG	4951	8556	Wigoltingen
+VD	5401	1860	Aigle
+VD	5401	1860	Aigle
+VD	5402	1880	Bex
+VD	5402	1880	Bex
+VD	5403	1846	Chessel
+VD	5403	1846	Chessel
+VD	5404	1856	Corbeyrier
+VD	5404	1856	Corbeyrier
+VD	5406	1892	Lavey-Morcles
+VD	5406	1892	Lavey-Morcles
+VD	5407	1854	Leysin
+VD	5407	1854	Leysin
+VD	5408	1845	Noville
+VD	5408	1845	Noville
+VD	5409	1867	Ollon
+VD	5409	1867	Ollon
+VD	5409	1884	Ollon
+VD	5409	1884	Ollon
+VD	5409	1885	Ollon
+VD	5409	1885	Ollon
+VD	5410	1862	Ormont-Dessous
+VD	5410	1862	Ormont-Dessous
+VD	5410	1863	Ormont-Dessous
+VD	5410	1863	Ormont-Dessous
+VD	5411	1864	Ormont-Dessus
+VD	5411	1864	Ormont-Dessus
+VD	5411	1865	Ormont-Dessus
+VD	5411	1865	Ormont-Dessus
+VD	5412	1847	Rennaz
+VD	5412	1847	Rennaz
+VD	5414	1844	Villeneuve (VD)
+VD	5414	1844	Villeneuve (VD)
+VD	5415	1853	Yvorne
+VD	5415	1853	Yvorne
+VD	5421	1143	Apples
+VD	5421	1143	Apples
+VD	5422	1170	Aubonne
+VD	5422	1170	Aubonne
+VD	5423	1144	Ballens
+VD	5423	1144	Ballens
+VD	5424	1149	Berolle
+VD	5424	1149	Berolle
+VD	5425	1145	Bière
+VD	5425	1145	Bière
+VD	5426	1172	Bougy-Villars
+VD	5426	1172	Bougy-Villars
+VD	5427	1173	Féchy
+VD	5427	1173	Féchy
+VD	5431	1146	Mollens (VD)
+VD	5431	1146	Mollens (VD)
+VD	5435	1176	Saint-Livres
+VD	5435	1176	Saint-Livres
+VD	5436	1187	Saint-Oyens
+VD	5436	1187	Saint-Oyens
+VD	5437	1189	Saubraz
+VD	5437	1189	Saubraz
+VD	5451	1580	Avenches
+VD	5451	1580	Avenches
+VD	5451	1582	Avenches
+VD	5451	1582	Avenches
+VD	5456	1588	Cudrefin
+VD	5456	1588	Cudrefin
+VD	5463	1584	Vully-les-Lacs
+VD	5463	1584	Vully-les-Lacs
+VD	5463	1585	Vully-les-Lacs
+VD	5463	1585	Vully-les-Lacs
+VD	5463	1586	Vully-les-Lacs
+VD	5463	1586	Vully-les-Lacs
+VD	5463	1587	Vully-les-Lacs
+VD	5463	1587	Vully-les-Lacs
+VD	5463	1589	Vully-les-Lacs
+VD	5463	1589	Vully-les-Lacs
+VD	5472	1035	Bournens
+VD	5472	1035	Bournens
+VD	5473	1034	Boussens
+VD	5473	1034	Boussens
+VD	5474	1308	La Chaux (Cossonay)
+VD	5474	1308	La Chaux (Cossonay)
+VD	5476	1316	Chevilly
+VD	5476	1316	Chevilly
+VD	5478	1116	Cottens (VD)
+VD	5478	1116	Cottens (VD)
+VD	5480	1306	Daillens
+VD	5480	1306	Daillens
+VD	5482	1312	Eclépens
+VD	5482	1312	Eclépens
+VD	5483	1313	Ferreyres
+VD	5483	1313	Ferreyres
+VD	5484	1124	Gollion
+VD	5484	1124	Gollion
+VD	5487	1307	Lussery-Villars
+VD	5487	1307	Lussery-Villars
+VD	5489	1031	Mex (VD)
+VD	5489	1031	Mex (VD)
+VD	5492	1147	Montricher
+VD	5492	1147	Montricher
+VD	5493	1317	Orny
+VD	5493	1317	Orny
+VD	5494	1142	Pampigny
+VD	5494	1142	Pampigny
+VD	5495	1305	Penthalaz
+VD	5495	1305	Penthalaz
+VD	5496	1303	Penthaz
+VD	5496	1303	Penthaz
+VD	5497	1318	Pompaples
+VD	5497	1318	Pompaples
+VD	5498	1315	La Sarraz
+VD	5498	1315	La Sarraz
+VD	5500	1141	Sévery
+VD	5500	1141	Sévery
+VD	5501	1036	Sullens
+VD	5501	1036	Sullens
+VD	5503	1302	Vufflens-la-Ville
+VD	5503	1302	Vufflens-la-Ville
+VD	5512	1038	Bercher
+VD	5512	1038	Bercher
+VD	5519	1376	Goumoëns
+VD	5519	1376	Goumoëns
+VD	5520	1417	Essertines-sur-Yverdon
+VD	5520	1417	Essertines-sur-Yverdon
+VD	5521	1037	Etagnières
+VD	5521	1037	Etagnières
+VD	5522	1044	Fey
+VD	5522	1044	Fey
+VD	5523	1055	Froideville
+VD	5523	1055	Froideville
+VD	5527	1054	Morrens (VD)
+VD	5527	1054	Morrens (VD)
+VD	5529	1377	Oulens-sous-Echallens
+VD	5529	1377	Oulens-sous-Echallens
+VD	5530	1416	Pailly
+VD	5530	1416	Pailly
+VD	5531	1375	Penthéréaz
+VD	5531	1375	Penthéréaz
+VD	5534	1046	Rueyres
+VD	5534	1046	Rueyres
+VD	5536	1043	Montilliez
+VD	5536	1043	Montilliez
+VD	5539	1418	Vuarrens
+VD	5539	1418	Vuarrens
+VD	5551	1427	Bonvillars
+VD	5551	1427	Bonvillars
+VD	5552	1452	Bullet
+VD	5552	1452	Bullet
+VD	5556	1420	Fiez
+VD	5556	1420	Fiez
+VD	5558	1423	Tévenon
+VD	5558	1423	Tévenon
+VD	5559	1429	Giez
+VD	5559	1429	Giez
+VD	5561	1422	Grandson
+VD	5561	1422	Grandson
+VD	5565	1425	Onnens (VD)
+VD	5565	1425	Onnens (VD)
+VD	5568	1450	Sainte-Croix
+VD	5568	1450	Sainte-Croix
+VD	5568	1454	Sainte-Croix
+VD	5568	1454	Sainte-Croix
+VD	5581	1092	Belmont-sur-Lausanne
+VD	5581	1092	Belmont-sur-Lausanne
+VD	5583	1023	Crissier
+VD	5583	1023	Crissier
+VD	5584	1066	Epalinges
+VD	5584	1066	Epalinges
+VD	5586	1000	Lausanne
+VD	5586	1000	Lausanne
+VD	5587	1052	Le Mont-sur-Lausanne
+VD	5587	1052	Le Mont-sur-Lausanne
+VD	5588	1094	Paudex
+VD	5588	1094	Paudex
+VD	5590	1009	Pully
+VD	5590	1009	Pully
+VD	5590	1068	Pully
+VD	5590	1068	Pully
+VD	5591	1020	Renens (VD)
+VD	5591	1020	Renens (VD)
+VD	5604	1072	Forel (Lavaux)
+VD	5604	1072	Forel (Lavaux)
+VD	5606	1090	Lutry
+VD	5606	1090	Lutry
+VD	5606	1093	Lutry
+VD	5606	1093	Lutry
+VD	5606	1095	Lutry
+VD	5606	1095	Lutry
+VD	5607	1070	Puidoux
+VD	5607	1070	Puidoux
+VD	5611	1073	Savigny
+VD	5611	1073	Savigny
+VD	5613	1091	Bourg-en-Lavaux
+VD	5613	1091	Bourg-en-Lavaux
+VD	5613	1097	Bourg-en-Lavaux
+VD	5613	1097	Bourg-en-Lavaux
+VD	5613	1098	Bourg-en-Lavaux
+VD	5613	1098	Bourg-en-Lavaux
+VD	5621	1123	Aclens
+VD	5621	1123	Aclens
+VD	5622	1121	Bremblens
+VD	5622	1121	Bremblens
+VD	5623	1164	Buchillon
+VD	5623	1164	Buchillon
+VD	5624	1030	Bussigny-près-Lausanne
+VD	5624	1030	Bussigny-près-Lausanne
+VD	5625	1136	Bussy-Chardonney
+VD	5625	1136	Bussy-Chardonney
+VD	5627	1022	Chavannes-près-Renens
+VD	5627	1022	Chavannes-près-Renens
+VD	5629	1127	Clarmont
+VD	5629	1127	Clarmont
+VD	5631	1135	Denens
+VD	5631	1135	Denens
+VD	5634	1112	Echichens
+VD	5634	1112	Echichens
+VD	5634	1113	Echichens
+VD	5634	1113	Echichens
+VD	5634	1114	Echichens
+VD	5634	1114	Echichens
+VD	5634	1125	Echichens
+VD	5634	1125	Echichens
+VD	5635	1024	Ecublens (VD)
+VD	5635	1024	Ecublens (VD)
+VD	5636	1163	Etoy
+VD	5636	1163	Etoy
+VD	5637	1175	Lavigny
+VD	5637	1175	Lavigny
+VD	5638	1027	Lonay
+VD	5638	1027	Lonay
+VD	5639	1132	Lully (VD)
+VD	5639	1132	Lully (VD)
+VD	5640	1167	Lussy-sur-Morges
+VD	5640	1167	Lussy-sur-Morges
+VD	5642	1110	Morges
+VD	5642	1110	Morges
+VD	5643	1028	Préverenges
+VD	5643	1028	Préverenges
+VD	5644	1128	Reverolle
+VD	5644	1128	Reverolle
+VD	5645	1122	Romanel-sur-Morges
+VD	5645	1122	Romanel-sur-Morges
+VD	5646	1162	Saint-Prex
+VD	5646	1162	Saint-Prex
+VD	5648	1025	Saint-Sulpice (VD)
+VD	5648	1025	Saint-Sulpice (VD)
+VD	5649	1131	Tolochenaz
+VD	5649	1131	Tolochenaz
+VD	5650	1126	Vaux-sur-Morges
+VD	5650	1126	Vaux-sur-Morges
+VD	5651	1029	Villars-Sainte-Croix
+VD	5651	1029	Villars-Sainte-Croix
+VD	5652	1168	Villars-sous-Yens
+VD	5652	1168	Villars-sous-Yens
+VD	5654	1115	Vullierens
+VD	5654	1115	Vullierens
+VD	5655	1169	Yens
+VD	5655	1169	Yens
+VD	5663	1514	Bussy-sur-Moudon
+VD	5663	1514	Bussy-sur-Moudon
+VD	5665	1512	Chavannes-sur-Moudon
+VD	5665	1512	Chavannes-sur-Moudon
+VD	5669	1521	Curtilles
+VD	5669	1521	Curtilles
+VD	5675	1522	Lucens
+VD	5675	1522	Lucens
+VD	5680	1045	Ogens
+VD	5680	1045	Ogens
+VD	5692	1509	Vucherens
+VD	5692	1509	Vucherens
+VD	5702	1273	Arzier
+VD	5702	1273	Arzier
+VD	5703	1269	Bassins
+VD	5703	1269	Bassins
+VD	5709	1275	Chéserex
+VD	5709	1275	Chéserex
+VD	5711	1291	Commugny
+VD	5711	1291	Commugny
+VD	5712	1296	Coppet
+VD	5712	1296	Coppet
+VD	5713	1299	Crans-près-Céligny
+VD	5713	1299	Crans-près-Céligny
+VD	5714	1263	Crassier
+VD	5714	1263	Crassier
+VD	5715	1266	Duillier
+VD	5715	1266	Duillier
+VD	5716	1262	Eysins
+VD	5716	1262	Eysins
+VD	5717	1297	Founex
+VD	5717	1297	Founex
+VD	5718	1272	Genolier
+VD	5718	1272	Genolier
+VD	5719	1276	Gingins
+VD	5719	1276	Gingins
+VD	5720	1271	Givrins
+VD	5720	1271	Givrins
+VD	5721	1196	Gland
+VD	5721	1196	Gland
+VD	5724	1260	Nyon
+VD	5724	1260	Nyon
+VD	5725	1197	Prangins
+VD	5725	1197	Prangins
+VD	5726	1278	La Rippe
+VD	5726	1278	La Rippe
+VD	5727	1264	Saint-Cergue
+VD	5727	1264	Saint-Cergue
+VD	5727	1265	Saint-Cergue
+VD	5727	1265	Saint-Cergue
+VD	5730	1270	Trélex
+VD	5730	1270	Trélex
+VD	5742	1352	Agiez
+VD	5742	1352	Agiez
+VD	5743	1321	Arnex-sur-Orbe
+VD	5743	1321	Arnex-sur-Orbe
+VD	5744	1338	Ballaigues
+VD	5744	1338	Ballaigues
+VD	5745	1446	Baulmes
+VD	5745	1446	Baulmes
+VD	5746	1372	Bavois
+VD	5746	1372	Bavois
+VD	5747	1353	Bofflens
+VD	5747	1353	Bofflens
+VD	5748	1329	Bretonnières
+VD	5748	1329	Bretonnières
+VD	5749	1373	Chavornay
+VD	5749	1373	Chavornay
+VD	5750	1356	Les Clées
+VD	5750	1356	Les Clées
+VD	5751	1374	Corcelles-sur-Chavornay
+VD	5751	1374	Corcelles-sur-Chavornay
+VD	5752	1322	Croy
+VD	5752	1322	Croy
+VD	5754	1326	Juriens
+VD	5754	1326	Juriens
+VD	5755	1357	Lignerolle
+VD	5755	1357	Lignerolle
+VD	5756	1354	Montcherand
+VD	5756	1354	Montcherand
+VD	5757	1350	Orbe
+VD	5757	1350	Orbe
+VD	5759	1324	Premier
+VD	5759	1324	Premier
+VD	5760	1439	Rances
+VD	5760	1439	Rances
+VD	5761	1323	Romainmôtier-Envy
+VD	5761	1323	Romainmôtier-Envy
+VD	5763	1358	Valeyres-sous-Rances
+VD	5763	1358	Valeyres-sous-Rances
+VD	5764	1337	Vallorbe
+VD	5764	1337	Vallorbe
+VD	5765	1325	Vaulion
+VD	5765	1325	Vaulion
+VD	5766	1445	Vuiteboeuf
+VD	5766	1445	Vuiteboeuf
+VD	5782	1084	Carrouge (VD)
+VD	5782	1084	Carrouge (VD)
+VD	5785	1082	Corcelles-le-Jorat
+VD	5785	1082	Corcelles-le-Jorat
+VD	5788	1078	Essertes
+VD	5788	1078	Essertes
+VD	5789	1076	Ferlens (VD)
+VD	5789	1076	Ferlens (VD)
+VD	5790	1613	Maracon
+VD	5790	1613	Maracon
+VD	5791	1083	Mézières (VD)
+VD	5791	1083	Mézières (VD)
+VD	5792	1081	Montpreveyres
+VD	5792	1081	Montpreveyres
+VD	5798	1088	Ropraz
+VD	5798	1088	Ropraz
+VD	5799	1077	Servion
+VD	5799	1077	Servion
+VD	5799	1080	Servion
+VD	5799	1080	Servion
+VD	5803	1085	Vulliens
+VD	5803	1085	Vulliens
+VD	5804	1058	Jorat-Menthue
+VD	5804	1058	Jorat-Menthue
+VD	5804	1059	Jorat-Menthue
+VD	5804	1059	Jorat-Menthue
+VD	5804	1061	Jorat-Menthue
+VD	5804	1061	Jorat-Menthue
+VD	5804	1062	Jorat-Menthue
+VD	5804	1062	Jorat-Menthue
+VD	5805	1607	Oron
+VD	5805	1607	Oron
+VD	5805	1610	Oron
+VD	5805	1610	Oron
+VD	5805	1612	Oron
+VD	5805	1612	Oron
+VD	5812	1537	Champtauroz
+VD	5812	1537	Champtauroz
+VD	5813	1545	Chevroux
+VD	5813	1545	Chevroux
+VD	5816	1562	Corcelles-près-Payerne
+VD	5816	1562	Corcelles-près-Payerne
+VD	5817	1543	Grandcour
+VD	5817	1543	Grandcour
+VD	5822	1530	Payerne
+VD	5822	1530	Payerne
+VD	5822	1551	Payerne
+VD	5822	1551	Payerne
+VD	5827	1552	Trey
+VD	5827	1552	Trey
+VD	5828	1538	Treytorrens (Payerne)
+VD	5828	1538	Treytorrens (Payerne)
+VD	5830	1554	Villarzel
+VD	5830	1554	Villarzel
+VD	5830	1555	Villarzel
+VD	5830	1555	Villarzel
+VD	5831	1523	Valbroye
+VD	5831	1523	Valbroye
+VD	5831	1524	Valbroye
+VD	5831	1524	Valbroye
+VD	5831	1535	Valbroye
+VD	5831	1535	Valbroye
+VD	5831	1536	Valbroye
+VD	5831	1536	Valbroye
+VD	5841	1660	Château-d'Oex
+VD	5841	1660	Château-d'Oex
+VD	5842	1658	Rossinière
+VD	5842	1658	Rossinière
+VD	5843	1659	Rougemont
+VD	5843	1659	Rougemont
+VD	5851	1165	Allaman
+VD	5851	1165	Allaman
+VD	5853	1183	Bursins
+VD	5853	1183	Bursins
+VD	5856	1186	Essertines-sur-Rolle
+VD	5856	1186	Essertines-sur-Rolle
+VD	5857	1182	Gilly
+VD	5857	1182	Gilly
+VD	5859	1185	Mont-sur-Rolle
+VD	5859	1185	Mont-sur-Rolle
+VD	5860	1166	Perroy
+VD	5860	1166	Perroy
+VD	5871	1342	L'Abbaye
+VD	5871	1342	L'Abbaye
+VD	5871	1344	L'Abbaye
+VD	5871	1344	L'Abbaye
+VD	5871	1346	L'Abbaye
+VD	5871	1346	L'Abbaye
+VD	5872	1341	Le Chenit
+VD	5872	1341	Le Chenit
+VD	5872	1347	Le Chenit
+VD	5872	1347	Le Chenit
+VD	5872	1348	Le Chenit
+VD	5872	1348	Le Chenit
+VD	5873	1343	Le Lieu
+VD	5873	1343	Le Lieu
+VD	5873	1345	Le Lieu
+VD	5873	1345	Le Lieu
+VD	5881	1807	Blonay
+VD	5881	1807	Blonay
+VD	5882	1801	Chardonne
+VD	5882	1801	Chardonne
+VD	5882	1803	Chardonne
+VD	5882	1803	Chardonne
+VD	5883	1802	Corseaux
+VD	5883	1802	Corseaux
+VD	5884	1804	Corsier-sur-Vevey
+VD	5884	1804	Corsier-sur-Vevey
+VD	5884	1808	Corsier-sur-Vevey
+VD	5884	1808	Corsier-sur-Vevey
+VD	5884	1809	Corsier-sur-Vevey
+VD	5884	1809	Corsier-sur-Vevey
+VD	5885	1805	Jongny
+VD	5885	1805	Jongny
+VD	5886	1815	Montreux
+VD	5886	1815	Montreux
+VD	5886	1816	Montreux
+VD	5886	1816	Montreux
+VD	5886	1817	Montreux
+VD	5886	1817	Montreux
+VD	5886	1822	Montreux
+VD	5886	1822	Montreux
+VD	5886	1823	Montreux
+VD	5886	1823	Montreux
+VD	5886	1824	Montreux
+VD	5886	1824	Montreux
+VD	5886	1832	Montreux
+VD	5886	1832	Montreux
+VD	5886	1833	Montreux
+VD	5886	1833	Montreux
+VD	5888	1806	Saint-Légier-La Chiésaz
+VD	5888	1806	Saint-Légier-La Chiésaz
+VD	5889	1814	La Tour-de-Peilz
+VD	5889	1814	La Tour-de-Peilz
+VD	5905	1443	Champvent
+VD	5905	1443	Champvent
+VD	5906	1409	Chanéaz
+VD	5906	1409	Chanéaz
+VD	5910	1406	Cronay
+VD	5910	1406	Cronay
+VD	5913	1408	Donneloye
+VD	5913	1408	Donneloye
+VD	5914	1434	Ependes (VD)
+VD	5914	1434	Ependes (VD)
+VD	5915	1435	Essert-Pittet
+VD	5915	1435	Essert-Pittet
+VD	5919	1438	Mathod
+VD	5919	1438	Mathod
+VD	5922	1442	Montagny-près-Yverdon
+VD	5922	1442	Montagny-près-Yverdon
+VD	5923	1047	Oppens
+VD	5923	1047	Oppens
+VD	5924	1430	Orges
+VD	5924	1430	Orges
+VD	5925	1413	Orzens
+VD	5925	1413	Orzens
+VD	5926	1405	Pomy
+VD	5926	1405	Pomy
+VD	5928	1463	Rovray
+VD	5928	1463	Rovray
+VD	5929	1433	Suchy
+VD	5929	1433	Suchy
+VD	5930	1437	Suscévaz
+VD	5930	1437	Suscévaz
+VD	5933	1441	Valeyres-sous-Montagny
+VD	5933	1441	Valeyres-sous-Montagny
+VD	5939	1462	Yvonand
+VD	5939	1462	Yvonand
+VS	6002	3902	Brig-Glis
+VS	6004	3939	Eggerberg
+VS	6007	3904	Naters
+VS	6007	3914	Naters
+VS	6008	3901	Ried-Brig
+VS	6008	3911	Ried-Brig
+VS	6010	3912	Termen
+VS	6010	3913	Termen
+VS	6021	1957	Ardon
+VS	6021	1957	Ardon
+VS	6022	1955	Chamoson
+VS	6022	1955	Chamoson
+VS	6023	1964	Conthey
+VS	6023	1964	Conthey
+VS	6023	1975	Conthey
+VS	6023	1975	Conthey
+VS	6023	1976	Conthey
+VS	6023	1976	Conthey
+VS	6024	1996	Nendaz
+VS	6024	1996	Nendaz
+VS	6024	1997	Nendaz
+VS	6024	1997	Nendaz
+VS	6025	1963	Vétroz
+VS	6025	1963	Vétroz
+VS	6031	1934	Bagnes
+VS	6031	1934	Bagnes
+VS	6031	1936	Bagnes
+VS	6031	1936	Bagnes
+VS	6031	1947	Bagnes
+VS	6031	1947	Bagnes
+VS	6031	1948	Bagnes
+VS	6031	1948	Bagnes
+VS	6032	1946	Bourg-Saint-Pierre
+VS	6032	1946	Bourg-Saint-Pierre
+VS	6033	1945	Liddes
+VS	6033	1945	Liddes
+VS	6034	1937	Orsières
+VS	6034	1937	Orsières
+VS	6034	1938	Orsières
+VS	6034	1938	Orsières
+VS	6034	1943	Orsières
+VS	6034	1943	Orsières
+VS	6034	1944	Orsières
+VS	6034	1944	Orsières
+VS	6036	1941	Vollèges
+VS	6036	1941	Vollèges
+VS	6036	1942	Vollèges
+VS	6036	1942	Vollèges
+VS	6052	3997	Bellwald
+VS	6054	3996	Binn
+VS	6056	3995	Ernen
+VS	6074	3985	Münster-Geschinen
+VS	6075	3998	Reckingen-Gluringen
+VS	6076	3999	Obergoms
+VS	6082	1966	Ayent
+VS	6082	1966	Ayent
+VS	6082	1972	Ayent
+VS	6082	1972	Ayent
+VS	6083	1983	Evolène
+VS	6083	1983	Evolène
+VS	6083	1984	Evolène
+VS	6083	1984	Evolène
+VS	6083	1985	Evolène
+VS	6083	1985	Evolène
+VS	6083	1986	Evolène
+VS	6083	1986	Evolène
+VS	6084	1987	Hérémence
+VS	6084	1987	Hérémence
+VS	6087	1969	Saint-Martin (VS)
+VS	6087	1969	Saint-Martin (VS)
+VS	6089	1981	Vex
+VS	6089	1981	Vex
+VS	6089	1988	Vex
+VS	6089	1988	Vex
+VS	6090	1961	Mont-Noble
+VS	6090	1961	Mont-Noble
+VS	6090	1968	Mont-Noble
+VS	6090	1968	Mont-Noble
+VS	6090	1973	Mont-Noble
+VS	6090	1973	Mont-Noble
+VS	6102	3955	Albinen
+VS	6104	3947	Ergisch
+VS	6110	3952	Leuk
+VS	6113	3970	Salgesch
+VS	6117	3956	Guttet-Feschel
+VS	6132	1906	Charrat
+VS	6132	1906	Charrat
+VS	6133	1926	Fully
+VS	6133	1926	Fully
+VS	6135	1912	Leytron
+VS	6135	1912	Leytron
+VS	6137	1921	Martigny-Combe
+VS	6137	1921	Martigny-Combe
+VS	6137	1928	Martigny-Combe
+VS	6137	1928	Martigny-Combe
+VS	6139	1908	Riddes
+VS	6139	1908	Riddes
+VS	6139	1918	Riddes
+VS	6139	1918	Riddes
+VS	6140	1913	Saillon
+VS	6140	1913	Saillon
+VS	6141	1907	Saxon
+VS	6141	1907	Saxon
+VS	6142	1929	Trient
+VS	6142	1929	Trient
+VS	6151	1874	Champéry
+VS	6151	1874	Champéry
+VS	6152	1868	Collombey-Muraz
+VS	6152	1868	Collombey-Muraz
+VS	6152	1893	Collombey-Muraz
+VS	6152	1893	Collombey-Muraz
+VS	6153	1870	Monthey
+VS	6153	1870	Monthey
+VS	6154	1897	Port-Valais
+VS	6154	1897	Port-Valais
+VS	6155	1898	Saint-Gingolph
+VS	6155	1898	Saint-Gingolph
+VS	6156	1872	Troistorrents
+VS	6156	1872	Troistorrents
+VS	6156	1875	Troistorrents
+VS	6156	1875	Troistorrents
+VS	6157	1873	Val-d'Illiez
+VS	6157	1873	Val-d'Illiez
+VS	6158	1895	Vionnaz
+VS	6158	1895	Vionnaz
+VS	6158	1899	Vionnaz
+VS	6158	1899	Vionnaz
+VS	6159	1896	Vouvry
+VS	6159	1896	Vouvry
+VS	6171	3991	Betten
+VS	6171	3992	Betten
+VS	6173	3982	Bitsch
+VS	6177	3993	Grengiols
+VS	6181	3986	Riederalp
+VS	6181	3987	Riederalp
+VS	6191	3938	Ausserberg
+VS	6192	3919	Blatten
+VS	6193	3935	Bürchen
+VS	6194	3943	Eischoll
+VS	6195	3916	Ferden
+VS	6201	3944	Unterbäch
+VS	6202	3918	Wiler (Lötschen)
+VS	6204	3940	Steg-Hohtenn
+VS	6204	3949	Steg-Hohtenn
+VS	6211	1903	Collonges
+VS	6211	1903	Collonges
+VS	6212	1905	Dorénaz
+VS	6212	1905	Dorénaz
+VS	6214	1925	Finhaut
+VS	6214	1925	Finhaut
+VS	6215	1869	Massongex
+VS	6215	1869	Massongex
+VS	6218	1922	Salvan
+VS	6218	1922	Salvan
+VS	6218	1923	Salvan
+VS	6218	1923	Salvan
+VS	6232	3966	Chalais
+VS	6232	3967	Chalais
+VS	6234	3971	Chermignon
+VS	6235	3965	Chippis
+VS	6238	3979	Grône
+VS	6239	1977	Icogne
+VS	6239	1977	Icogne
+VS	6240	1978	Lens
+VS	6240	1978	Lens
+VS	6240	3978	Lens
+VS	6242	3974	Mollens (VS)
+VS	6244	3975	Randogne
+VS	6248	3977	Sierre
+VS	6250	3968	Veyras
+VS	6252	3961	Anniviers
+VS	6261	1974	Arbaz
+VS	6261	1974	Arbaz
+VS	6263	1971	Grimisuat
+VS	6263	1971	Grimisuat
+VS	6264	1991	Salins
+VS	6264	1991	Salins
+VS	6265	1965	Savièse
+VS	6265	1965	Savièse
+VS	6266	1967	Sion
+VS	6266	1967	Sion
+VS	6281	3937	Baltschieder
+VS	6283	3926	Embd
+VS	6285	3925	Grächen
+VS	6286	3931	Lalden
+VS	6287	3928	Randa
+VS	6288	3905	Saas-Almagell
+VS	6289	3908	Saas-Balen
+VS	6290	3906	Saas-Fee
+VS	6291	3910	Saas-Grund
+VS	6292	3924	St. Niklaus
+VS	6292	3927	St. Niklaus
+VS	6294	3933	Staldenried
+VS	6295	3929	Täsch
+VS	6296	3923	Törbel
+VS	6297	3930	Visp
+VS	6298	3932	Visperterminen
+VS	6299	3934	Zeneggen
+VS	6300	3920	Zermatt
+NE	6401	2012	Auvernier
+NE	6401	2012	Auvernier
+NE	6402	2022	Bevaix
+NE	6402	2022	Bevaix
+NE	6403	2014	Bôle
+NE	6403	2014	Bôle
+NE	6404	2015	Boudry
+NE	6404	2015	Boudry
+NE	6404	2017	Boudry
+NE	6404	2017	Boudry
+NE	6406	2013	Colombier (NE)
+NE	6406	2013	Colombier (NE)
+NE	6407	2035	Corcelles-Cormondrèche
+NE	6407	2035	Corcelles-Cormondrèche
+NE	6407	2036	Corcelles-Cormondrèche
+NE	6407	2036	Corcelles-Cormondrèche
+NE	6408	2016	Cortaillod
+NE	6408	2016	Cortaillod
+NE	6410	2023	Gorgier
+NE	6410	2023	Gorgier
+NE	6410	2025	Gorgier
+NE	6410	2025	Gorgier
+NE	6412	2034	Peseux
+NE	6412	2034	Peseux
+NE	6414	2024	Saint-Aubin-Sauges
+NE	6414	2024	Saint-Aubin-Sauges
+NE	6415	2028	Vaumarcus
+NE	6415	2028	Vaumarcus
+NE	6421	2300	La Chaux-de-Fonds
+NE	6421	2300	La Chaux-de-Fonds
+NE	6421	2322	La Chaux-de-Fonds
+NE	6421	2322	La Chaux-de-Fonds
+NE	6431	2416	Les Brenets
+NE	6431	2416	Les Brenets
+NE	6432	2406	La Brévine
+NE	6432	2406	La Brévine
+NE	6433	2318	Brot-Plamboz
+NE	6433	2318	Brot-Plamboz
+NE	6434	2414	Le Cerneux-Péquignot
+NE	6434	2414	Le Cerneux-Péquignot
+NE	6435	2405	La Chaux-du-Milieu
+NE	6435	2405	La Chaux-du-Milieu
+NE	6437	2316	Les Ponts-de-Martel
+NE	6437	2316	Les Ponts-de-Martel
+NE	6451	2087	Cornaux
+NE	6451	2087	Cornaux
+NE	6452	2088	Cressier (NE)
+NE	6452	2088	Cressier (NE)
+NE	6453	2073	Enges
+NE	6453	2073	Enges
+NE	6454	2068	Hauterive (NE)
+NE	6454	2068	Hauterive (NE)
+NE	6458	2000	Neuchâtel
+NE	6458	2000	Neuchâtel
+NE	6458	2067	Neuchâtel
+NE	6458	2067	Neuchâtel
+NE	6459	2072	Saint-Blaise
+NE	6459	2072	Saint-Blaise
+NE	6461	2074	La Tène
+NE	6461	2074	La Tène
+NE	6461	2075	La Tène
+NE	6461	2075	La Tène
+NE	6471	2043	Boudevilliers
+NE	6471	2043	Boudevilliers
+NE	6472	2053	Cernier
+NE	6472	2053	Cernier
+NE	6474	2207	Coffrane
+NE	6474	2207	Coffrane
+NE	6475	2056	Dombresson
+NE	6475	2056	Dombresson
+NE	6480	2206	Les Geneveys-s-Coffrane
+NE	6480	2206	Les Geneveys-s-Coffrane
+NE	6481	2208	Les Hauts-Geneveys
+NE	6481	2208	Les Hauts-Geneveys
+NE	6484	2065	Savagnier
+NE	6484	2065	Savagnier
+NE	6485	2042	Valangin
+NE	6485	2042	Valangin
+NE	6486	2057	Villiers
+NE	6486	2057	Villiers
+NE	6504	2117	La Côte-aux-Fées
+NE	6504	2117	La Côte-aux-Fées
+NE	6511	2126	Les Verrières
+NE	6511	2126	Les Verrières
+NE	6512	2103	Val-de-Travers
+NE	6512	2103	Val-de-Travers
+NE	6512	2105	Val-de-Travers
+NE	6512	2105	Val-de-Travers
+NE	6512	2108	Val-de-Travers
+NE	6512	2108	Val-de-Travers
+NE	6512	2112	Val-de-Travers
+NE	6512	2112	Val-de-Travers
+NE	6512	2113	Val-de-Travers
+NE	6512	2113	Val-de-Travers
+NE	6512	2114	Val-de-Travers
+NE	6512	2114	Val-de-Travers
+NE	6512	2116	Val-de-Travers
+NE	6512	2116	Val-de-Travers
+NE	6512	2123	Val-de-Travers
+NE	6512	2123	Val-de-Travers
+NE	6512	2124	Val-de-Travers
+NE	6512	2124	Val-de-Travers
+NE	6512	2127	Val-de-Travers
+NE	6512	2127	Val-de-Travers
+GE	6601	1288	Aire-la-Ville
+GE	6601	1288	Aire-la-Ville
+GE	6602	1247	Anières
+GE	6602	1247	Anières
+GE	6603	1237	Avully
+GE	6603	1237	Avully
+GE	6605	1257	Bardonnex
+GE	6605	1257	Bardonnex
+GE	6606	1293	Bellevue
+GE	6606	1293	Bellevue
+GE	6607	1233	Bernex
+GE	6607	1233	Bernex
+GE	6610	1298	Céligny
+GE	6610	1298	Céligny
+GE	6611	1284	Chancy
+GE	6611	1284	Chancy
+GE	6612	1231	Chêne-Bougeries
+GE	6612	1231	Chêne-Bougeries
+GE	6614	1244	Choulex
+GE	6614	1244	Choulex
+GE	6616	1245	Collonge-Bellerive
+GE	6616	1245	Collonge-Bellerive
+GE	6618	1232	Confignon
+GE	6618	1232	Confignon
+GE	6619	1246	Corsier (GE)
+GE	6619	1246	Corsier (GE)
+GE	6620	1283	Dardagny
+GE	6620	1283	Dardagny
+GE	6621	1200	Genève
+GE	6621	1200	Genève
+GE	6622	1294	Genthod
+GE	6622	1294	Genthod
+GE	6623	1218	Le Grand-Saconnex
+GE	6623	1218	Le Grand-Saconnex
+GE	6625	1248	Hermance
+GE	6625	1248	Hermance
+GE	6626	1254	Jussy
+GE	6626	1254	Jussy
+GE	6627	1287	Laconnex
+GE	6627	1287	Laconnex
+GE	6629	1252	Meinier
+GE	6629	1252	Meinier
+GE	6630	1217	Meyrin
+GE	6630	1217	Meyrin
+GE	6632	1258	Perly-Certoux
+GE	6632	1258	Perly-Certoux
+GE	6633	1228	Plan-les-Ouates
+GE	6633	1228	Plan-les-Ouates
+GE	6634	1292	Pregny-Chambésy
+GE	6634	1292	Pregny-Chambésy
+GE	6635	1243	Presinge
+GE	6635	1243	Presinge
+GE	6637	1281	Russin
+GE	6637	1281	Russin
+GE	6639	1286	Soral
+GE	6639	1286	Soral
+GE	6640	1226	Thônex
+GE	6640	1226	Thônex
+GE	6641	1256	Troinex
+GE	6641	1256	Troinex
+GE	6643	1214	Vernier
+GE	6643	1214	Vernier
+GE	6643	1219	Vernier
+GE	6643	1219	Vernier
+GE	6643	1220	Vernier
+GE	6643	1220	Vernier
+GE	6645	1255	Veyrier
+GE	6645	1255	Veyrier
+JU	6701	2854	Bassecourt
+JU	6701	2854	Bassecourt
+JU	6702	2856	Boécourt
+JU	6702	2856	Boécourt
+JU	6702	2857	Boécourt
+JU	6702	2857	Boécourt
+JU	6703	2803	Bourrignon
+JU	6703	2803	Bourrignon
+JU	6704	2843	Châtillon (JU)
+JU	6704	2843	Châtillon (JU)
+JU	6705	2826	Corban
+JU	6705	2826	Corban
+JU	6706	2825	Courchapoix
+JU	6706	2825	Courchapoix
+JU	6707	2853	Courfaivre
+JU	6707	2853	Courfaivre
+JU	6709	2822	Courroux
+JU	6709	2822	Courroux
+JU	6709	2823	Courroux
+JU	6709	2823	Courroux
+JU	6710	2852	Courtételle
+JU	6710	2852	Courtételle
+JU	6711	2800	Delémont
+JU	6711	2800	Delémont
+JU	6712	2802	Develier
+JU	6712	2802	Develier
+JU	6714	2855	Glovelier
+JU	6714	2855	Glovelier
+JU	6716	2806	Mettembert
+JU	6716	2806	Mettembert
+JU	6717	2828	Montsevelier
+JU	6717	2828	Montsevelier
+JU	6718	2812	Movelier
+JU	6718	2812	Movelier
+JU	6720	2832	Rebeuvelier
+JU	6720	2832	Rebeuvelier
+JU	6721	2842	Rossemaison
+JU	6721	2842	Rossemaison
+JU	6722	2873	Saulcy
+JU	6722	2873	Saulcy
+JU	6723	2864	Soulce
+JU	6723	2864	Soulce
+JU	6725	2863	Undervelier
+JU	6725	2863	Undervelier
+JU	6726	2829	Vermes
+JU	6726	2829	Vermes
+JU	6727	2824	Vicques
+JU	6727	2824	Vicques
+JU	6741	2360	Le Bémont (JU)
+JU	6741	2360	Le Bémont (JU)
+JU	6742	2336	Les Bois
+JU	6742	2336	Les Bois
+JU	6745	2363	Les Enfers
+JU	6745	2363	Les Enfers
+JU	6748	2714	Les Genevez (JU)
+JU	6748	2714	Les Genevez (JU)
+JU	6750	2718	Lajoux (JU)
+JU	6750	2718	Lajoux (JU)
+JU	6751	2362	Montfaucon
+JU	6751	2362	Montfaucon
+JU	6753	2338	Muriaux
+JU	6753	2338	Muriaux
+JU	6754	2340	Le Noirmont
+JU	6754	2340	Le Noirmont
+JU	6757	2350	Saignelégier
+JU	6757	2350	Saignelégier
+JU	6757	2354	Saignelégier
+JU	6757	2354	Saignelégier
+JU	6758	2364	Saint-Brais
+JU	6758	2364	Saint-Brais
+JU	6759	2887	Soubey
+JU	6759	2887	Soubey
+JU	6771	2942	Alle
+JU	6771	2942	Alle
+JU	6773	2935	Beurnevésin
+JU	6773	2935	Beurnevésin
+JU	6774	2926	Boncourt
+JU	6774	2926	Boncourt
+JU	6775	2944	Bonfol
+JU	6775	2944	Bonfol
+JU	6776	2904	Bressaucourt
+JU	6776	2904	Bressaucourt
+JU	6778	2915	Bure
+JU	6778	2915	Bure
+JU	6781	2932	Coeuve
+JU	6781	2932	Coeuve
+JU	6782	2952	Cornol
+JU	6782	2952	Cornol
+JU	6783	2922	Courchavon
+JU	6783	2922	Courchavon
+JU	6785	2905	Courtedoux
+JU	6785	2905	Courtedoux
+JU	6789	2916	Fahy
+JU	6789	2916	Fahy
+JU	6790	2902	Fontenais
+JU	6790	2902	Fontenais
+JU	6790	2903	Fontenais
+JU	6790	2903	Fontenais
+JU	6792	2908	Grandfontaine
+JU	6792	2908	Grandfontaine
+JU	6800	2900	Porrentruy
+JU	6800	2900	Porrentruy
+JU	6803	2907	Rocourt
+JU	6803	2907	Rocourt
+JU	6806	2943	Vendlincourt
+JU	6806	2943	Vendlincourt
+JU	6807	2923	Basse-Allaine
+JU	6807	2923	Basse-Allaine
+JU	6807	2924	Basse-Allaine
+JU	6807	2924	Basse-Allaine
+JU	6807	2925	Basse-Allaine
+JU	6807	2925	Basse-Allaine
+JU	6808	2882	Clos du Doubs
+JU	6808	2882	Clos du Doubs
+JU	6808	2883	Clos du Doubs
+JU	6808	2883	Clos du Doubs
+JU	6808	2884	Clos du Doubs
+JU	6808	2884	Clos du Doubs
+JU	6808	2885	Clos du Doubs
+JU	6808	2885	Clos du Doubs
+JU	6808	2886	Clos du Doubs
+JU	6808	2886	Clos du Doubs
+JU	6808	2888	Clos du Doubs
+JU	6808	2888	Clos du Doubs
+JU	6808	2889	Clos du Doubs
+JU	6808	2889	Clos du Doubs
+JU	6809	2906	Haute-Ajoie
+JU	6809	2906	Haute-Ajoie
+JU	6809	2912	Haute-Ajoie
+JU	6809	2912	Haute-Ajoie
+JU	6809	2914	Haute-Ajoie
+JU	6809	2914	Haute-Ajoie
+JU	6810	2946	La Baroche
+JU	6810	2946	La Baroche
+JU	6810	2947	La Baroche
+JU	6810	2947	La Baroche
+JU	6810	2953	La Baroche
+JU	6810	2953	La Baroche
+JU	6810	2954	La Baroche
+JU	6810	2954	La Baroche
