@@ -103,12 +103,12 @@ function renderOneChart( location,substance ) {
                 point: {
                     events: {
                         click: function() {
-                        	alert(dump_url + '?location=' + location + '&substance=' + substance + '&year=' + year_labels_complete[this.x]);
                         	  Shadowbox.open({
        												 content: dump_url + '?location=' + location + '&substance=' + substance + '&year=' + year_labels_complete[this.x],
+       												 height: 326,
+       												 width: 515,
        												 player: 'iframe'
     												});
-                            //window.open(dump_url + '?location=' + location + '&substance=' + substance + '&year=' + year_labels_complete[this.x]);
                         }
                     }
                 }
