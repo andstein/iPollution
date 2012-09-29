@@ -21,7 +21,9 @@
         var values_url = '{{ url_for('get_values') }}';
         var dump_url = '{{ url_for('dump_image') }}';
         var year_start=1990,year_stop=2012;
+        var raw_data={};
         var all_data={};
+        var locations=[];
         var all_units= {'o3':'hours', 'no2':'μg/m3', 'pm10':'μg/m3'};
         var all_names= {'o3':'Ozone', 'no2':'Nitrogen dioxide', 'pm10':'Particulates'};
         var year_labels=[];

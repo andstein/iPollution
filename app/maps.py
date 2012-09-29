@@ -58,8 +58,8 @@ class mapImage(object):
         img = Image.open(self.fname)
         draw = ImageDraw.Draw(img)
         x,y= self.coord(e,n)
-        draw.line( [x,0,x,self.img.size[1]] ,fill='#FF0000' )
-        draw.line( [0,y,self.img.size[0],y] ,fill='#FF0000' )
+        draw.line( [x,0,x,self.img.size[1]] ,fill='#000000' )
+        draw.line( [0,y,self.img.size[0],y] ,fill='#000000' )
 #        draw.rectangle( [x-5,y-5,x+5,y+5] ,outline='#FF0000' )
         del draw
         img.save(fileobj,format='PNG')
