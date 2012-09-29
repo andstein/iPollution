@@ -86,6 +86,11 @@ function retrieveData() {
         },
         success:function (data) {
 
+            if (typeof(data) === 'string') {
+                alert("could not fetch data : " + data);
+                return;
+            }
+
             locations.push( location );
             raw_data[location]= data;
             all_data[location]= realfake(data);
