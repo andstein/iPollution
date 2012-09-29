@@ -126,7 +126,7 @@ def dump_image():
 if __name__ == '__main__':
     print 'open the following URL in your web browser:'
     app.debug= True
-    app.run( port=os.environ.get('PORT',5000) )
+    app.run( host='0.0.0.0',port=int(os.environ.get('PORT',5000)) )
 #    app.run(port=8888)
 #    app.run(host='0.0.0.0')
 
