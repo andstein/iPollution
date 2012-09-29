@@ -72,7 +72,7 @@ function addTableColumn(location) {
                 formatFloat(totals['no2'] * 12 * 365 / 1e6 / 2.62) + ' l'
                 ).addClass('total').click(function(){ renderOneChart(location,'no2') }));
     $('#row_o3').append($('<td></td>').append(
-                formatHours(totals['o3'])
+                formatHours(Math.round(totals['o3']))
                 ).addClass('total').click(function(){ renderOneChart(location,'o3') }));
 }
 
@@ -123,12 +123,12 @@ function renderOneChart( location,substance ) {
                 point: {
                     events: {
                         click: function() {
-                        	  Shadowbox.open({
-       												 content: dump_url + '?location=' + location + '&substance=' + substance + '&year=' + year_labels_complete[this.x],
-       												 height: 326,
-       												 width: 515,
-       												 player: 'iframe'
-    												});
+                            Shadowbox.open({
+                                content: dump_url + '?location=' + location + '&substance=' + substance + '&year=' + year_labels_complete[this.x],
+                            height: 326,
+                            width: 515,
+                            player: 'iframe'
+                            });
                         }
                     }
                 }
