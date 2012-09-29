@@ -20,6 +20,7 @@ td.total {
     margin-top: 40px;
     background:white;
     border-radius: 15px;
+    opacity: 0.85;
 }
 
 #input-form {
