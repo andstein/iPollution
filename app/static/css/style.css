@@ -109,3 +109,10 @@ form label {
   width: 50%;
   font-size:20px;
 }
+
+#period {
+	padding-top: 3px;
+	padding-bottom: 3px;
+	margin: auto;
+  width: 15%;
+}
