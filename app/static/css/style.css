@@ -35,6 +35,11 @@ td.total {
 	border-top: none !important;
 }
 
-h1, form label {
+h1 {
+	color:lightgray;
+	font-family:Coolsville,Sans-Serif;
+}
+
+form label {
 	color:white;
 }
