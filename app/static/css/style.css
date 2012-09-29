@@ -36,9 +36,22 @@ td.total {
 	border-top: none !important;
 }
 
-h1 {
+h1{
 	color:lightgray;
 	font-family:Coolsville,Sans-Serif;
+}
+
+.subtitle {
+	color: white;
+}
+
+#hiddenDescription {
+	display:none;
+}
+
+#hiddenDescriptionInner {
+	background:white;
+	padding: 50px;
 }
 
 form label {
