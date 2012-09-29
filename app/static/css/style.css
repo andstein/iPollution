@@ -1,6 +1,8 @@
 
 body {
     font-family:Arial,Sans-Serif;
+    margin-top: 15px;
+    margin-bottom:50px
 }
 
 td.total {
