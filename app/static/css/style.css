@@ -9,6 +9,10 @@ td.total {
     cursor:pointer;
 }
 
+td.total:hover {
+	color: red;
+}
+
 .input {
     margin: auto;
     width: 40%;
@@ -43,6 +47,12 @@ h1{
 
 .subtitle {
 	color: white;
+	cursor: pointer;
+}
+
+.subtitle:hover {
+	color: red;
+	text-decoration:none;
 }
 
 #hiddenDescription {
@@ -90,4 +100,12 @@ form label {
 #submit:active {
 	position:relative;
 	top:1px;
+}
+
+
+#charts_description_inner {
+	padding-top: 20px;
+	margin: auto;
+  width: 50%;
+  font-size:20px;
 }
