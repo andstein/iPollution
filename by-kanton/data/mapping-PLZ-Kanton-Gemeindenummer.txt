@@ -1,0 +1,2591 @@
+PLZ4	KTKZ	GDENR	GDENAMK
+1000	VD	5586	Lausanne
+1009	VD	5590	Pully
+1020	VD	5591	Renens (VD)
+1022	VD	5627	Chavannes-près-Renens
+1023	VD	5583	Crissier
+1024	VD	5635	Ecublens (VD)
+1025	VD	5648	Saint-Sulpice (VD)
+1027	VD	5638	Lonay
+1028	VD	5643	Préverenges
+1029	VD	5651	Villars-Sainte-Croix
+1030	VD	5624	Bussigny-près-Lausanne
+1031	VD	5489	Mex (VD)
+1034	VD	5473	Boussens
+1035	VD	5472	Bournens
+1036	VD	5501	Sullens
+1037	VD	5521	Etagnières
+1038	VD	5512	Bercher
+1043	VD	5540	Montilliez
+1044	VD	5522	Fey
+1045	VD	5680	Ogens
+1046	VD	5534	Rueyres
+1047	VD	5923	Oppens
+1052	VD	5587	Le Mont-sur-Lausanne
+1054	VD	5527	Morrens (VD)
+1055	VD	5523	Froideville
+1058	VD	5804	Jorat-Menthue
+1059	VD	5804	Jorat-Menthue
+1061	VD	5804	Jorat-Menthue
+1062	VD	5804	Jorat-Menthue
+1066	VD	5584	Epalinges
+1068	VD	5590	Pully
+1070	VD	5607	Puidoux
+1072	VD	5604	Forel (Lavaux)
+1073	VD	5611	Savigny
+1076	VD	5789	Ferlens (VD)
+1077	VD	5799	Servion
+1078	VD	5788	Essertes
+1080	VD	5799	Servion
+1081	VD	5792	Montpreveyres
+1082	VD	5785	Corcelles-le-Jorat
+1083	VD	5791	Mézières (VD)
+1084	VD	5782	Carrouge (VD)
+1085	VD	5803	Vulliens
+1088	VD	5798	Ropraz
+1090	VD	5606	Lutry
+1091	VD	5613	Bourg-en-Lavaux
+1092	VD	5581	Belmont-sur-Lausanne
+1093	VD	5606	Lutry
+1094	VD	5588	Paudex
+1095	VD	5606	Lutry
+1097	VD	5613	Bourg-en-Lavaux
+1098	VD	5613	Bourg-en-Lavaux
+1110	VD	5642	Morges
+1112	VD	5634	Echichens
+1113	VD	5634	Echichens
+1114	VD	5634	Echichens
+1115	VD	5654	Vullierens
+1116	VD	5478	Cottens (VD)
+1121	VD	5622	Bremblens
+1122	VD	5645	Romanel-sur-Morges
+1123	VD	5621	Aclens
+1124	VD	5484	Gollion
+1125	VD	5634	Echichens
+1126	VD	5650	Vaux-sur-Morges
+1127	VD	5629	Clarmont
+1128	VD	5644	Reverolle
+1131	VD	5649	Tolochenaz
+1132	VD	5639	Lully (VD)
+1135	VD	5631	Denens
+1136	VD	5625	Bussy-Chardonney
+1141	VD	5500	Sévery
+1142	VD	5494	Pampigny
+1143	VD	5421	Apples
+1144	VD	5423	Ballens
+1145	VD	5425	Bière
+1146	VD	5431	Mollens (VD)
+1147	VD	5492	Montricher
+1149	VD	5424	Berolle
+1162	VD	5646	Saint-Prex
+1163	VD	5636	Etoy
+1164	VD	5623	Buchillon
+1165	VD	5851	Allaman
+1166	VD	5860	Perroy
+1167	VD	5640	Lussy-sur-Morges
+1168	VD	5652	Villars-sous-Yens
+1169	VD	5655	Yens
+1170	VD	5422	Aubonne
+1172	VD	5426	Bougy-Villars
+1173	VD	5427	Féchy
+1175	VD	5637	Lavigny
+1176	VD	5435	Saint-Livres
+1182	VD	5857	Gilly
+1183	VD	5853	Bursins
+1185	VD	5859	Mont-sur-Rolle
+1186	VD	5856	Essertines-sur-Rolle
+1187	VD	5436	Saint-Oyens
+1189	VD	5437	Saubraz
+1196	VD	5721	Gland
+1197	VD	5725	Prangins
+1200	GE	6621	Genève
+1214	GE	6643	Vernier
+1217	GE	6630	Meyrin
+1218	GE	6623	Le Grand-Saconnex
+1219	GE	6643	Vernier
+1220	GE	6643	Vernier
+1226	GE	6640	Thônex
+1228	GE	6633	Plan-les-Ouates
+1231	GE	6612	Chêne-Bougeries
+1232	GE	6618	Confignon
+1233	GE	6607	Bernex
+1237	GE	6603	Avully
+1243	GE	6635	Presinge
+1244	GE	6614	Choulex
+1245	GE	6616	Collonge-Bellerive
+1246	GE	6619	Corsier (GE)
+1247	GE	6602	Anières
+1248	GE	6625	Hermance
+1252	GE	6629	Meinier
+1254	GE	6626	Jussy
+1255	GE	6645	Veyrier
+1256	GE	6641	Troinex
+1257	GE	6605	Bardonnex
+1258	GE	6632	Perly-Certoux
+1260	VD	5724	Nyon
+1262	VD	5716	Eysins
+1263	VD	5714	Crassier
+1264	VD	5727	Saint-Cergue
+1265	VD	5727	Saint-Cergue
+1266	VD	5715	Duillier
+1269	VD	5703	Bassins
+1270	VD	5730	Trélex
+1271	VD	5720	Givrins
+1272	VD	5718	Genolier
+1273	VD	5702	Arzier
+1275	VD	5709	Chéserex
+1276	VD	5719	Gingins
+1278	VD	5726	La Rippe
+1281	GE	6637	Russin
+1283	GE	6620	Dardagny
+1284	GE	6611	Chancy
+1286	GE	6639	Soral
+1287	GE	6627	Laconnex
+1288	GE	6601	Aire-la-Ville
+1291	VD	5711	Commugny
+1292	GE	6634	Pregny-Chambésy
+1293	GE	6606	Bellevue
+1294	GE	6622	Genthod
+1296	VD	5712	Coppet
+1297	VD	5717	Founex
+1298	GE	6610	Céligny
+1299	VD	5713	Crans-près-Céligny
+1302	VD	5503	Vufflens-la-Ville
+1303	VD	5496	Penthaz
+1305	VD	5495	Penthalaz
+1306	VD	5480	Daillens
+1307	VD	5487	Lussery-Villars
+1308	VD	5474	La Chaux (Cossonay)
+1312	VD	5482	Eclépens
+1313	VD	5483	Ferreyres
+1315	VD	5498	La Sarraz
+1316	VD	5476	Chevilly
+1317	VD	5493	Orny
+1318	VD	5497	Pompaples
+1321	VD	5743	Arnex-sur-Orbe
+1322	VD	5752	Croy
+1323	VD	5761	Romainmôtier-Envy
+1324	VD	5759	Premier
+1325	VD	5765	Vaulion
+1326	VD	5754	Juriens
+1329	VD	5748	Bretonnières
+1337	VD	5764	Vallorbe
+1338	VD	5744	Ballaigues
+1341	VD	5872	Le Chenit
+1342	VD	5871	L'Abbaye
+1343	VD	5873	Le Lieu
+1344	VD	5871	L'Abbaye
+1345	VD	5873	Le Lieu
+1346	VD	5871	L'Abbaye
+1347	VD	5872	Le Chenit
+1348	VD	5872	Le Chenit
+1350	VD	5757	Orbe
+1352	VD	5742	Agiez
+1353	VD	5747	Bofflens
+1354	VD	5756	Montcherand
+1356	VD	5750	Les Clées
+1357	VD	5755	Lignerolle
+1358	VD	5763	Valeyres-sous-Rances
+1372	VD	5746	Bavois
+1373	VD	5749	Chavornay
+1374	VD	5751	Corcelles-sur-Chavornay
+1375	VD	5531	Penthéréaz
+1376	VD	5541	Goumoëns
+1377	VD	5529	Oulens-sous-Echallens
+1405	VD	5926	Pomy
+1406	VD	5910	Cronay
+1408	VD	5913	Donneloye
+1409	VD	5906	Chanéaz
+1413	VD	5925	Orzens
+1416	VD	5530	Pailly
+1417	VD	5520	Essertines-sur-Yverdon
+1418	VD	5539	Vuarrens
+1420	VD	5556	Fiez
+1422	VD	5561	Grandson
+1423	VD	5571	Tévenon
+1425	VD	5565	Onnens (VD)
+1427	VD	5551	Bonvillars
+1429	VD	5559	Giez
+1430	VD	5924	Orges
+1433	VD	5929	Suchy
+1434	VD	5914	Ependes (VD)
+1435	VD	5915	Essert-Pittet
+1437	VD	5930	Suscévaz
+1438	VD	5919	Mathod
+1439	VD	5760	Rances
+1441	VD	5933	Valeyres-sous-Montagny
+1442	VD	5922	Montagny-près-Yverdon
+1443	VD	5905	Champvent
+1445	VD	5766	Vuiteboeuf
+1446	VD	5745	Baulmes
+1450	VD	5568	Sainte-Croix
+1452	VD	5552	Bullet
+1454	VD	5568	Sainte-Croix
+1462	VD	5939	Yvonand
+1463	VD	5928	Rovray
+1468	FR	2010	Cheyres
+1474	FR	2005	Châbles
+1475	FR	2052	Vernay
+1482	FR	2011	Cugy (FR)
+1484	FR	2050	Les Montets
+1485	FR	2035	Nuvilly
+1486	FR	2049	Vuissens
+1489	FR	2034	Murist
+1509	VD	5692	Vucherens
+1512	VD	5665	Chavannes-sur-Moudon
+1514	VD	5663	Bussy-sur-Moudon
+1521	VD	5669	Curtilles
+1522	VD	5675	Lucens
+1523	VD	5831	Valbroye
+1524	VD	5831	Valbroye
+1527	FR	2047	Villeneuve (FR)
+1528	FR	2044	Surpierre
+1529	FR	2009	Cheiry
+1530	VD	5822	Payerne
+1532	FR	2016	Fétigny
+1533	FR	2027	Ménières
+1535	VD	5831	Valbroye
+1536	VD	5831	Valbroye
+1537	VD	5812	Champtauroz
+1538	VD	5828	Treytorrens (Payerne)
+1542	FR	2039	Rueyres-les-Prés
+1543	VD	5817	Grandcour
+1544	FR	2022	Gletterens
+1545	VD	5813	Chevroux
+1551	VD	5822	Payerne
+1552	VD	5827	Trey
+1553	FR	2068	Châtonnaye
+1554	VD	5830	Villarzel
+1555	VD	5830	Villarzel
+1562	VD	5816	Corcelles-près-Payerne
+1563	FR	2014	Dompierre (FR)
+1564	FR	2013	Domdidier
+1566	FR	2041	Saint-Aubin (FR)
+1567	FR	2051	Delley-Portalban
+1568	FR	2051	Delley-Portalban
+1580	VD	5451	Avenches
+1582	VD	5451	Avenches
+1583	FR	2279	Villarepos
+1584	VD	5464	Vully-les-Lacs
+1585	VD	5464	Vully-les-Lacs
+1586	VD	5464	Vully-les-Lacs
+1587	VD	5464	Vully-les-Lacs
+1588	VD	5456	Cudrefin
+1589	VD	5464	Vully-les-Lacs
+1607	VD	5805	Oron
+1609	FR	2335	Saint-Martin (FR)
+1610	VD	5805	Oron
+1611	FR	2338	La Verrerie
+1612	VD	5805	Oron
+1613	VD	5790	Maracon
+1614	FR	2328	Granges (Veveyse)
+1615	FR	2323	Bossonnens
+1616	FR	2321	Attalens
+1618	FR	2325	Châtel-Saint-Denis
+1619	FR	2325	Châtel-Saint-Denis
+1623	FR	2336	Semsales
+1624	FR	2338	La Verrerie
+1625	FR	2152	Sâles
+1626	FR	2152	Sâles
+1627	FR	2155	Vaulruz
+1628	FR	2160	Vuadens
+1630	FR	2125	Bulle
+1632	FR	2148	Riaz
+1633	FR	2140	Marsens
+1634	FR	2149	La Roche
+1635	FR	2125	Bulle
+1636	FR	2124	Broc
+1637	FR	2127	Charmey
+1638	FR	2143	Morlon
+1642	FR	2153	Sorens
+1643	FR	2122	Pont-en-Ogoz
+1644	FR	2122	Pont-en-Ogoz
+1645	FR	2122	Pont-en-Ogoz
+1646	FR	2131	Echarlens
+1647	FR	2129	Corbières
+1648	FR	2137	Hauteville
+1649	FR	2147	Pont-la-Ville
+1651	FR	2129	Corbières
+1652	FR	2123	Botterens
+1654	FR	2126	Cerniat (FR)
+1656	FR	2138	Jaun
+1657	BE	843	Saanen
+1658	VD	5842	Rossinière
+1659	VD	5843	Rougemont
+1660	VD	5841	Château-d'Oex
+1661	FR	2145	Le Pâquier (FR)
+1663	FR	2135	Gruyères
+1665	FR	2162	Bas-Intyamon
+1667	FR	2162	Bas-Intyamon
+1669	FR	2121	Haut-Intyamon
+1670	FR	2102	Ursy
+1676	FR	2099	Siviriez
+1677	FR	2099	Siviriez
+1678	FR	2099	Siviriez
+1679	FR	2099	Siviriez
+1681	FR	2063	Billens-Hennens
+1684	FR	2087	Mézières (FR)
+1685	FR	2113	Vuisternens-dev-Romont
+1687	FR	2113	Vuisternens-dev-Romont
+1688	FR	2113	Vuisternens-dev-Romont
+1689	FR	2067	Le Châtelard
+1691	FR	2116	La Folliaz
+1692	FR	2086	Massonnens
+1694	FR	2114	Villorsonnens
+1695	FR	2223	Le Glèbe
+1696	FR	2231	Vuisternens-en-Ogoz
+1697	FR	2113	Vuisternens-dev-Romont
+1699	FR	2337	Le Flon
+1715	FR	2291	Alterswil
+1717	FR	2304	St. Ursen
+1718	FR	2301	Rechthalten
+1721	FR	2272	Misery-Courtion
+1725	FR	2233	Hauterive (FR)
+1726	FR	2192	Farvagny
+1727	FR	2184	Corpataux-Magnedens
+1728	FR	2222	Rossens (FR)
+1730	FR	2233	Hauterive (FR)
+1731	FR	2189	Ependes (FR)
+1732	FR	2171	Arconciel
+1733	FR	2226	Treyvaux
+1734	FR	2307	Tentlingen
+1735	FR	2294	Giffers
+1736	FR	2303	St. Silvester
+1737	FR	2300	Plasselb
+1740	FR	2211	Neyruz (FR)
+1741	FR	2186	Cottens (FR)
+1742	FR	2173	Autigny
+1744	FR	2177	Chénens
+1745	FR	2234	La Brillaz
+1746	FR	2221	Prez-vers-Noréaz
+1747	FR	2185	Corserey
+1748	FR	2115	Torny
+1749	FR	2115	Torny
+1752	FR	2228	Villars-sur-Glâne
+1753	FR	2208	Matran
+1754	FR	2174	Avry
+1756	FR	2234	La Brillaz
+1757	FR	2213	Noréaz
+1762	FR	2197	Givisiez
+1774	FR	2029	Montagny (FR)
+1775	FR	2029	Montagny (FR)
+1776	FR	2029	Montagny (FR)
+1785	FR	2257	Cressier (FR)
+1786	FR	2280	Bas-Vully
+1788	FR	2280	Bas-Vully
+1789	FR	2281	Haut-Vully
+1791	FR	2254	Courtepin
+1792	FR	2262	Gurmels
+1793	FR	2264	Jeuss
+1794	FR	2277	Salvenach
+1795	FR	2251	Courlevon
+1796	FR	2250	Courgevaux
+1797	BE	669	Münchenwiler
+1801	VD	5882	Chardonne
+1802	VD	5883	Corseaux
+1803	VD	5882	Chardonne
+1804	VD	5884	Corsier-sur-Vevey
+1805	VD	5885	Jongny
+1806	VD	5888	Saint-Légier-La Chiésaz
+1807	VD	5881	Blonay
+1808	VD	5884	Corsier-sur-Vevey
+1809	VD	5884	Corsier-sur-Vevey
+1814	VD	5889	La Tour-de-Peilz
+1815	VD	5886	Montreux
+1816	VD	5886	Montreux
+1817	VD	5886	Montreux
+1822	VD	5886	Montreux
+1823	VD	5886	Montreux
+1824	VD	5886	Montreux
+1832	VD	5886	Montreux
+1833	VD	5886	Montreux
+1844	VD	5414	Villeneuve (VD)
+1845	VD	5408	Noville
+1846	VD	5403	Chessel
+1847	VD	5412	Rennaz
+1853	VD	5415	Yvorne
+1854	VD	5407	Leysin
+1856	VD	5404	Corbeyrier
+1860	VD	5401	Aigle
+1862	VD	5410	Ormont-Dessous
+1863	VD	5410	Ormont-Dessous
+1864	VD	5411	Ormont-Dessus
+1865	VD	5411	Ormont-Dessus
+1867	VD	5409	Ollon
+1868	VS	6152	Collombey-Muraz
+1869	VS	6215	Massongex
+1870	VS	6153	Monthey
+1872	VS	6156	Troistorrents
+1873	VS	6157	Val-d'Illiez
+1874	VS	6151	Champéry
+1875	VS	6156	Troistorrents
+1880	VD	5402	Bex
+1884	VD	5409	Ollon
+1885	VD	5409	Ollon
+1892	VD	5406	Lavey-Morcles
+1893	VS	6152	Collombey-Muraz
+1895	VS	6158	Vionnaz
+1896	VS	6159	Vouvry
+1897	VS	6154	Port-Valais
+1898	VS	6155	Saint-Gingolph
+1899	VS	6158	Vionnaz
+1903	VS	6211	Collonges
+1905	VS	6212	Dorénaz
+1906	VS	6132	Charrat
+1907	VS	6141	Saxon
+1908	VS	6139	Riddes
+1912	VS	6135	Leytron
+1913	VS	6140	Saillon
+1918	VS	6139	Riddes
+1921	VS	6137	Martigny-Combe
+1922	VS	6218	Salvan
+1923	VS	6218	Salvan
+1925	VS	6214	Finhaut
+1926	VS	6133	Fully
+1928	VS	6137	Martigny-Combe
+1929	VS	6142	Trient
+1934	VS	6031	Bagnes
+1936	VS	6031	Bagnes
+1937	VS	6034	Orsières
+1938	VS	6034	Orsières
+1941	VS	6036	Vollèges
+1942	VS	6036	Vollèges
+1943	VS	6034	Orsières
+1944	VS	6034	Orsières
+1945	VS	6033	Liddes
+1946	VS	6032	Bourg-Saint-Pierre
+1947	VS	6031	Bagnes
+1948	VS	6031	Bagnes
+1955	VS	6022	Chamoson
+1957	VS	6021	Ardon
+1961	VS	6090	Mont-Noble
+1963	VS	6025	Vétroz
+1964	VS	6023	Conthey
+1965	VS	6265	Savièse
+1966	VS	6082	Ayent
+1967	VS	6266	Sion
+1968	VS	6090	Mont-Noble
+1969	VS	6087	Saint-Martin (VS)
+1971	VS	6263	Grimisuat
+1972	VS	6082	Ayent
+1973	VS	6090	Mont-Noble
+1974	VS	6261	Arbaz
+1975	VS	6023	Conthey
+1976	VS	6023	Conthey
+1977	VS	6239	Icogne
+1978	VS	6240	Lens
+1981	VS	6089	Vex
+1983	VS	6083	Evolène
+1984	VS	6083	Evolène
+1985	VS	6083	Evolène
+1986	VS	6083	Evolène
+1987	VS	6084	Hérémence
+1988	VS	6089	Vex
+1991	VS	6264	Salins
+1996	VS	6024	Nendaz
+1997	VS	6024	Nendaz
+2000	NE	6458	Neuchâtel
+2012	NE	6401	Auvernier
+2013	NE	6406	Colombier (NE)
+2014	NE	6403	Bôle
+2015	NE	6404	Boudry
+2016	NE	6408	Cortaillod
+2017	NE	6404	Boudry
+2022	NE	6402	Bevaix
+2023	NE	6410	Gorgier
+2024	NE	6414	Saint-Aubin-Sauges
+2025	NE	6410	Gorgier
+2028	NE	6415	Vaumarcus
+2034	NE	6412	Peseux
+2035	NE	6407	Corcelles-Cormondrèche
+2036	NE	6407	Corcelles-Cormondrèche
+2042	NE	6485	Valangin
+2043	NE	6471	Boudevilliers
+2053	NE	6472	Cernier
+2056	NE	6475	Dombresson
+2057	NE	6486	Villiers
+2065	NE	6484	Savagnier
+2067	NE	6458	Neuchâtel
+2068	NE	6454	Hauterive (NE)
+2072	NE	6459	Saint-Blaise
+2073	NE	6453	Enges
+2074	NE	6461	La Tène
+2075	NE	6461	La Tène
+2087	NE	6451	Cornaux
+2088	NE	6452	Cressier (NE)
+2103	NE	6512	Val-de-Travers
+2105	NE	6512	Val-de-Travers
+2108	NE	6512	Val-de-Travers
+2112	NE	6512	Val-de-Travers
+2113	NE	6512	Val-de-Travers
+2114	NE	6512	Val-de-Travers
+2116	NE	6512	Val-de-Travers
+2117	NE	6504	La Côte-aux-Fées
+2123	NE	6512	Val-de-Travers
+2124	NE	6512	Val-de-Travers
+2126	NE	6511	Les Verrières
+2127	NE	6512	Val-de-Travers
+2206	NE	6480	Les Geneveys-s-Coffrane
+2207	NE	6474	Coffrane
+2208	NE	6481	Les Hauts-Geneveys
+2300	NE	6421	La Chaux-de-Fonds
+2316	NE	6437	Les Ponts-de-Martel
+2318	NE	6433	Brot-Plamboz
+2322	NE	6421	La Chaux-de-Fonds
+2336	JU	6742	Les Bois
+2338	JU	6753	Muriaux
+2340	JU	6754	Le Noirmont
+2350	JU	6757	Saignelégier
+2354	JU	6757	Saignelégier
+2360	JU	6741	Le Bémont (JU)
+2362	JU	6751	Montfaucon
+2363	JU	6745	Les Enfers
+2364	JU	6758	Saint-Brais
+2405	NE	6435	La Chaux-du-Milieu
+2406	NE	6432	La Brévine
+2414	NE	6434	Le Cerneux-Péquignot
+2416	NE	6431	Les Brenets
+2500	BE	371	Biel/Bienne
+2512	BE	756	Twann-Tüscherz
+2513	BE	756	Twann-Tüscherz
+2515	BE	725	Prêles
+2517	BE	721	Diesse
+2518	BE	724	Nods
+2520	BE	723	La Neuveville
+2532	BE	372	Evilard
+2533	BE	372	Evilard
+2534	BE	438	Orvin
+2535	BE	447	Vauffelin
+2537	BE	447	Vauffelin
+2538	BE	442	Romont (BE)
+2540	SO	2546	Grenchen
+2542	BE	392	Pieterlen
+2543	BE	387	Lengnau (BE)
+2544	SO	2543	Bettlach
+2545	SO	2556	Selzach
+2552	BE	744	Orpund
+2553	BE	746	Safnern
+2554	BE	390	Meinisberg
+2555	BE	733	Brügg
+2557	BE	749	Studen (BE)
+2558	BE	731	Aegerten
+2560	BE	743	Nidau
+2562	BE	745	Port
+2563	BE	739	Ipsach
+2564	BE	732	Bellmund
+2565	BE	738	Jens
+2576	BE	497	Lüscherz
+2604	BE	436	La Heutte
+2605	BE	444	Sonceboz-Sombeval
+2606	BE	431	Corgémont
+2607	BE	433	Cortébert
+2612	BE	432	Cormoret
+2613	BE	448	Villeret
+2615	BE	445	Sonvilier
+2616	BE	441	Renan (BE)
+2710	BE	713	Tavannes
+2713	BE	706	Saicourt
+2714	JU	6748	Les Genevez (JU)
+2716	BE	710	Sornetan
+2718	JU	6750	Lajoux (JU)
+2722	BE	446	Tramelan
+2723	BE	437	Mont-Tramelan
+2733	BE	702	Pontenet
+2736	BE	711	Sorvilier
+2738	BE	690	Court
+2742	BE	701	Perrefitte
+2743	BE	692	Eschert
+2744	BE	681	Belprahon
+2745	BE	694	Grandval
+2746	BE	691	Crémines
+2748	BE	712	Souboz
+2762	BE	704	Roches (BE)
+2800	JU	6711	Delémont
+2802	JU	6712	Develier
+2803	JU	6703	Bourrignon
+2806	JU	6716	Mettembert
+2812	JU	6718	Movelier
+2814	BL	2790	Roggenburg
+2822	JU	6709	Courroux
+2823	JU	6709	Courroux
+2824	JU	6727	Vicques
+2825	JU	6706	Courchapoix
+2826	JU	6705	Corban
+2828	JU	6717	Montsevelier
+2829	JU	6726	Vermes
+2832	JU	6720	Rebeuvelier
+2842	JU	6721	Rossemaison
+2843	JU	6704	Châtillon (JU)
+2852	JU	6710	Courtételle
+2853	JU	6707	Courfaivre
+2854	JU	6701	Bassecourt
+2855	JU	6714	Glovelier
+2856	JU	6702	Boécourt
+2857	JU	6702	Boécourt
+2863	JU	6725	Undervelier
+2864	JU	6723	Soulce
+2873	JU	6722	Saulcy
+2882	JU	6808	Clos du Doubs
+2883	JU	6808	Clos du Doubs
+2884	JU	6808	Clos du Doubs
+2885	JU	6808	Clos du Doubs
+2886	JU	6808	Clos du Doubs
+2887	JU	6759	Soubey
+2888	JU	6808	Clos du Doubs
+2889	JU	6808	Clos du Doubs
+2900	JU	6800	Porrentruy
+2902	JU	6790	Fontenais
+2903	JU	6790	Fontenais
+2904	JU	6776	Bressaucourt
+2905	JU	6785	Courtedoux
+2906	JU	6809	Haute-Ajoie
+2907	JU	6803	Rocourt
+2908	JU	6792	Grandfontaine
+2912	JU	6809	Haute-Ajoie
+2914	JU	6809	Haute-Ajoie
+2915	JU	6778	Bure
+2916	JU	6789	Fahy
+2922	JU	6783	Courchavon
+2923	JU	6807	Basse-Allaine
+2924	JU	6807	Basse-Allaine
+2925	JU	6807	Basse-Allaine
+2926	JU	6774	Boncourt
+2932	JU	6781	Coeuve
+2935	JU	6773	Beurnevésin
+2942	JU	6771	Alle
+2943	JU	6806	Vendlincourt
+2944	JU	6775	Bonfol
+2946	JU	6810	La Baroche
+2947	JU	6810	La Baroche
+2952	JU	6782	Cornol
+2953	JU	6810	La Baroche
+2954	JU	6810	La Baroche
+3000	BE	351	Bern
+3032	BE	360	Wohlen bei Bern
+3034	BE	360	Wohlen bei Bern
+3035	BE	312	Seedorf (BE)
+3038	BE	354	Kirchlindach
+3043	BE	360	Wohlen bei Bern
+3044	BE	360	Wohlen bei Bern
+3046	BE	307	Meikirch
+3047	BE	353	Bremgarten bei Bern
+3048	BE	362	Ittigen
+3049	BE	360	Wohlen bei Bern
+3054	BE	311	Schüpfen
+3063	BE	362	Ittigen
+3065	BE	352	Bolligen
+3067	BE	359	Vechigen
+3072	BE	363	Ostermundigen
+3073	BE	356	Muri bei Bern
+3074	BE	356	Muri bei Bern
+3075	BE	627	Worb
+3077	BE	627	Worb
+3078	BE	627	Worb
+3083	BE	631	Trimstein
+3084	BE	355	Köniz
+3086	BE	888	Wald (BE)
+3087	BE	877	Niedermuhlern
+3088	BE	880	Rüeggisberg
+3089	BE	880	Rüeggisberg
+3095	BE	355	Köniz
+3096	BE	357	Oberbalm
+3097	BE	355	Köniz
+3098	BE	355	Köniz
+3099	BE	879	Riggisberg
+3110	BE	616	Münsingen
+3111	BE	625	Tägertschi
+3112	BE	630	Allmendingen
+3113	BE	623	Rubigen
+3114	BE	632	Wichtrach
+3115	BE	866	Gerzensee
+3122	BE	870	Kehrsatz
+3123	BE	861	Belp
+3124	BE	861	Belp
+3125	BE	884	Toffen
+3144	BE	355	Köniz
+3145	BE	355	Köniz
+3148	BE	855	Schwarzenburg
+3150	BE	855	Schwarzenburg
+3152	BE	855	Schwarzenburg
+3153	BE	853	Rüschegg
+3154	BE	853	Rüschegg
+3155	BE	880	Rüeggisberg
+3157	BE	855	Schwarzenburg
+3158	BE	852	Guggisberg
+3159	BE	852	Guggisberg
+3172	BE	355	Köniz
+3173	BE	355	Köniz
+3176	BE	670	Neuenegg
+3177	BE	667	Laupen
+3178	FR	2295	Bösingen
+3179	BE	666	Kriechenwil
+3182	FR	2308	Ueberstorf
+3183	BE	855	Schwarzenburg
+3184	FR	2309	Wünnewil-Flamatt
+3186	FR	2293	Düdingen
+3203	BE	668	Mühleberg
+3210	FR	2265	Kerzers
+3212	FR	2262	Gurmels
+3214	FR	2278	Ulmiz
+3216	FR	2276	Ried bei Kerzers
+3225	BE	498	Müntschemier
+3226	BE	500	Treiten
+3232	BE	496	Ins
+3233	BE	501	Tschugg
+3234	BE	502	Vinelz
+3236	BE	495	Gampelen
+3237	BE	491	Brüttelen
+3238	BE	494	Gals
+3250	BE	306	Lyss
+3252	BE	755	Worben
+3253	SO	2461	Schnottwil
+3255	BE	310	Rapperswil (BE)
+3257	BE	303	Grossaffoltern
+3262	BE	303	Grossaffoltern
+3263	BE	382	Büetigen
+3264	BE	385	Diessbach bei Büren
+3266	BE	312	Seedorf (BE)
+3267	BE	312	Seedorf (BE)
+3268	BE	312	Seedorf (BE)
+3270	BE	301	Aarberg
+3271	BE	309	Radelfingen
+3273	BE	305	Kappelen
+3282	BE	302	Bargen (BE)
+3284	FR	2258	Fräschels
+3285	FR	2259	Galmiz
+3286	FR	2274	Muntelier
+3292	BE	306	Lyss
+3293	BE	386	Dotzigen
+3295	BE	393	Rüti bei Büren
+3296	BE	381	Arch
+3297	BE	388	Leuzigen
+3298	BE	391	Oberwil bei Büren
+3302	BE	544	Moosseedorf
+3306	BE	537	Etzelkofen
+3307	SO	2457	Messen
+3308	BE	539	Grafenried
+3312	BE	538	Fraubrunnen
+3313	BE	534	Büren zum Hof
+3314	BE	549	Schalunen
+3315	BE	533	Bätterkinden
+3323	BE	403	Bäriswil
+3326	BE	414	Krauchthal
+3360	BE	979	Herzogenbuchsee
+3362	BE	982	Niederönz
+3363	BE	979	Herzogenbuchsee
+3365	BE	988	Seeberg
+3366	BE	973	Bettenhausen
+3368	BE	324	Bleienbach
+3372	BE	977	Heimenhausen
+3373	BE	977	Heimenhausen
+3374	BE	993	Wangenried
+3375	BE	980	Inkwil
+3377	BE	991	Walliswil bei Wangen
+3412	BE	407	Heimiswil
+3413	BE	407	Heimiswil
+3416	BE	951	Affoltern im Emmental
+3417	BE	956	Rüegsau
+3418	BE	956	Rüegsau
+3419	BE	406	Hasle bei Burgdorf
+3423	BE	405	Ersigen
+3426	BE	401	Aefligen
+3427	BE	552	Utzenstorf
+3428	BE	554	Wiler bei Utzenstorf
+3434	BE	613	Landiswil
+3435	BE	955	Lützelflüh
+3437	BE	905	Rüderswil
+3438	BE	903	Lauperswil
+3452	BE	955	Lützelflüh
+3453	BE	958	Trachselwald
+3454	BE	957	Sumiswald
+3455	BE	957	Sumiswald
+3457	BE	957	Sumiswald
+3462	BE	951	Affoltern im Emmental
+3464	BE	959	Walterswil (BE)
+3465	BE	952	Dürrenroth
+3473	BE	402	Alchenstorf
+3474	BE	424	Wynigen
+3503	BE	612	Konolfingen
+3507	BE	603	Biglen
+3508	BE	602	Arni (BE)
+3512	BE	626	Walkringen
+3513	BE	626	Walkringen
+3531	BE	620	Oberthal
+3533	BE	605	Bowil
+3535	BE	907	Signau
+3536	BE	901	Eggiwil
+3538	BE	904	Röthenbach im Emmental
+3543	BE	903	Lauperswil
+3551	BE	902	Langnau im Emmental
+3552	BE	902	Langnau im Emmental
+3553	BE	902	Langnau im Emmental
+3556	BE	908	Trub
+3557	BE	908	Trub
+3600	BE	942	Thun
+3612	BE	939	Steffisburg
+3613	BE	939	Steffisburg
+3614	BE	945	Unterlangenegg
+3615	BE	923	Buchholterberg
+3617	BE	925	Fahrni
+3619	BE	924	Eriz
+3622	BE	931	Homberg
+3625	BE	927	Heiligenschwendi
+3627	BE	928	Heimberg
+3631	BE	930	Höfen
+3633	BE	921	Amsoldingen
+3634	BE	941	Thierachern
+3635	BE	943	Uebeschi
+3636	BE	948	Forst-Längenbühl
+3646	BE	768	Spiez
+3647	BE	767	Reutigen
+3652	BE	929	Hilterfingen
+3653	BE	934	Oberhofen am Thunersee
+3654	BE	938	Sigriswil
+3655	BE	938	Sigriswil
+3656	BE	938	Sigriswil
+3657	BE	938	Sigriswil
+3658	BE	938	Sigriswil
+3661	BE	944	Uetendorf
+3662	BE	883	Seftigen
+3663	BE	867	Gurzelen
+3665	BE	886	Wattenwil
+3672	BE	619	Oberdiessbach
+3674	BE	604	Bleiken b. Oberdiessbach
+3700	BE	768	Spiez
+3702	BE	768	Spiez
+3703	BE	562	Aeschi bei Spiez
+3704	BE	566	Krattigen
+3705	BE	768	Spiez
+3706	BE	585	Leissigen
+3707	BE	575	Därligen
+3713	BE	567	Reichenbach im Kandertal
+3715	BE	561	Adelboden
+3716	BE	564	Kandergrund
+3717	BE	564	Kandergrund
+3718	BE	565	Kandersteg
+3722	BE	567	Reichenbach im Kandertal
+3723	BE	567	Reichenbach im Kandertal
+3724	BE	563	Frutigen
+3725	BE	563	Frutigen
+3752	BE	769	Wimmis
+3753	BE	762	Diemtigen
+3754	BE	762	Diemtigen
+3755	BE	762	Diemtigen
+3756	BE	762	Diemtigen
+3757	BE	762	Diemtigen
+3758	BE	763	Erlenbach im Simmental
+3762	BE	763	Erlenbach im Simmental
+3763	BE	761	Därstetten
+3764	BE	761	Därstetten
+3765	BE	766	Oberwil im Simmental
+3766	BE	791	Boltigen
+3770	BE	794	Zweisimmen
+3771	BE	794	Zweisimmen
+3772	BE	793	St. Stephan
+3773	BE	793	St. Stephan
+3775	BE	792	Lenk
+3776	BE	794	Zweisimmen
+3777	BE	843	Saanen
+3778	BE	843	Saanen
+3780	BE	843	Saanen
+3781	BE	843	Saanen
+3782	BE	842	Lauenen
+3783	BE	843	Saanen
+3784	BE	841	Gsteig
+3785	BE	841	Gsteig
+3792	BE	843	Saanen
+3801	BE	584	Lauterbrunnen
+3803	BE	571	Beatenberg
+3804	BE	579	Habkern
+3805	BE	590	Ringgenberg (BE)
+3806	BE	572	Bönigen
+3807	BE	582	Iseltwald
+3812	BE	594	Wilderswil
+3813	BE	591	Saxeten
+3814	BE	577	Gsteigwiler
+3815	BE	578	Gündlischwand
+3818	BE	576	Grindelwald
+3822	BE	584	Lauterbrunnen
+3824	BE	584	Lauterbrunnen
+3825	BE	584	Lauterbrunnen
+3826	BE	584	Lauterbrunnen
+3852	BE	590	Ringgenberg (BE)
+3853	BE	588	Niederried b. Interlaken
+3854	BE	589	Oberried am Brienzersee
+3856	BE	574	Brienzwiler
+3857	BE	785	Meiringen
+3858	BE	580	Hofstetten bei Brienz
+3862	BE	784	Innertkirchen
+3863	BE	781	Gadmen
+3901	VS	6008	Ried-Brig
+3902	VS	6002	Brig-Glis
+3904	VS	6007	Naters
+3905	VS	6288	Saas-Almagell
+3906	VS	6290	Saas-Fee
+3908	VS	6289	Saas-Balen
+3910	VS	6291	Saas-Grund
+3911	VS	6008	Ried-Brig
+3912	VS	6010	Termen
+3913	VS	6010	Termen
+3914	VS	6007	Naters
+3916	VS	6195	Ferden
+3918	VS	6202	Wiler (Lötschen)
+3919	VS	6192	Blatten
+3920	VS	6300	Zermatt
+3923	VS	6296	Törbel
+3924	VS	6292	St. Niklaus
+3925	VS	6285	Grächen
+3926	VS	6283	Embd
+3927	VS	6292	St. Niklaus
+3928	VS	6287	Randa
+3929	VS	6295	Täsch
+3930	VS	6297	Visp
+3931	VS	6286	Lalden
+3932	VS	6298	Visperterminen
+3933	VS	6294	Staldenried
+3934	VS	6299	Zeneggen
+3935	VS	6193	Bürchen
+3937	VS	6281	Baltschieder
+3938	VS	6191	Ausserberg
+3939	VS	6004	Eggerberg
+3940	VS	6204	Steg-Hohtenn
+3943	VS	6194	Eischoll
+3944	VS	6201	Unterbäch
+3947	VS	6104	Ergisch
+3949	VS	6204	Steg-Hohtenn
+3952	VS	6110	Leuk
+3955	VS	6102	Albinen
+3956	VS	6117	Guttet-Feschel
+3961	VS	6252	Anniviers
+3965	VS	6235	Chippis
+3966	VS	6232	Chalais
+3967	VS	6232	Chalais
+3968	VS	6250	Veyras
+3970	VS	6113	Salgesch
+3971	VS	6234	Chermignon
+3974	VS	6242	Mollens (VS)
+3975	VS	6244	Randogne
+3977	VS	6248	Sierre
+3978	VS	6240	Lens
+3979	VS	6238	Grône
+3982	VS	6173	Bitsch
+3985	VS	6074	Münster-Geschinen
+3986	VS	6181	Riederalp
+3987	VS	6181	Riederalp
+3991	VS	6171	Betten
+3992	VS	6171	Betten
+3993	VS	6177	Grengiols
+3995	VS	6056	Ernen
+3996	VS	6054	Binn
+3997	VS	6052	Bellwald
+3998	VS	6075	Reckingen-Gluringen
+3999	VS	6076	Obergoms
+4000	BS	2701	Basel
+4102	BL	2765	Binningen
+4103	BL	2767	Bottmingen
+4104	BL	2771	Oberwil (BL)
+4105	BL	2764	Biel-Benken
+4106	BL	2775	Therwil
+4107	BL	2768	Ettingen
+4108	SO	2481	Witterswil
+4114	SO	2476	Hofstetten-Flüh
+4115	SO	2477	Metzerlen-Mariastein
+4116	SO	2477	Metzerlen-Mariastein
+4117	BL	2783	Burg im Leimental
+4118	SO	2479	Rodersdorf
+4123	BL	2762	Allschwil
+4124	BL	2774	Schönenbuch
+4125	BS	2703	Riehen
+4126	BS	2702	Bettingen
+4127	BL	2766	Birsfelden
+4132	BL	2770	Muttenz
+4142	BL	2769	Münchenstein
+4143	SO	2473	Dornach
+4144	BL	2763	Arlesheim
+4145	SO	2474	Gempen
+4146	SO	2475	Hochwald
+4148	BL	2772	Pfeffingen
+4202	BL	2785	Duggingen
+4203	BL	2786	Grellingen
+4204	SO	2618	Himmelried
+4206	SO	2480	Seewen
+4207	BL	2883	Bretzwil
+4208	SO	2621	Nunningen
+4222	BL	2793	Zwingen
+4223	BL	2781	Blauen
+4224	BL	2789	Nenzlingen
+4225	BL	2782	Brislach
+4226	SO	2613	Breitenbach
+4227	SO	2614	Büsserach
+4228	SO	2615	Erschwil
+4229	SO	2612	Beinwil (SO)
+4232	SO	2616	Fehren
+4233	SO	2620	Meltingen
+4242	BL	2787	Laufen
+4243	BL	2784	Dittingen
+4244	BL	2791	Röschenz
+4245	SO	2619	Kleinlützel
+4246	BL	2792	Wahlen
+4247	SO	2617	Grindel
+4252	SO	2611	Bärschwil
+4253	BL	2788	Liesberg
+4254	BL	2788	Liesberg
+4302	BL	2822	Augst
+4303	AG	4252	Kaiseraugst
+4304	BL	2826	Giebenach
+4310	AG	4258	Rheinfelden
+4312	AG	4253	Magden
+4313	AG	4254	Möhlin
+4314	AG	4263	Zeiningen
+4315	AG	4264	Zuzgen
+4316	AG	4251	Hellikon
+4317	AG	4262	Wegenstetten
+4322	AG	4255	Mumpf
+4323	AG	4261	Wallbach
+4324	AG	4256	Obermumpf
+4325	AG	4259	Schupfart
+4332	AG	4260	Stein (AG)
+4333	AG	4172	Münchwilen (AG)
+4334	AG	4177	Sisseln
+4402	BL	2824	Frenkendorf
+4410	BL	2829	Liestal
+4411	BL	2833	Seltisberg
+4412	SO	2478	Nuglar-St. Pantaleon
+4413	SO	2472	Büren (SO)
+4414	BL	2825	Füllinsdorf
+4415	BL	2828	Lausen
+4416	BL	2823	Bubendorf
+4417	BL	2834	Ziefen
+4418	BL	2893	Reigoldswil
+4419	BL	2830	Lupsingen
+4421	SO	2478	Nuglar-St. Pantaleon
+4422	BL	2821	Arisdorf
+4423	BL	2827	Hersberg
+4424	BL	2881	Arboldswil
+4425	BL	2894	Titterten
+4426	BL	2889	Lauwil
+4431	BL	2882	Bennwil
+4432	BL	2887	Lampenberg
+4433	BL	2832	Ramlinsburg
+4434	BL	2886	Hölstein
+4435	BL	2891	Niederdorf
+4437	BL	2895	Waldenburg
+4438	BL	2888	Langenbruck
+4441	BL	2864	Thürnen
+4442	BL	2845	Diepflingen
+4443	BL	2867	Wittinsburg
+4445	BL	2847	Häfelfingen
+4446	BL	2843	Buckten
+4447	BL	2850	Känerkinden
+4450	BL	2861	Sissach
+4451	BL	2866	Wintersingen
+4452	BL	2849	Itingen
+4453	BL	2854	Nusshof
+4455	BL	2869	Zunzgen
+4456	BL	2863	Tenniken
+4457	BL	2884	Diegten
+4458	BL	2885	Eptingen
+4460	BL	2846	Gelterkinden
+4461	BL	2842	Böckten
+4462	BL	2857	Rickenbach (BL)
+4463	BL	2844	Buus
+4464	BL	2853	Maisprach
+4465	BL	2848	Hemmiken
+4466	BL	2856	Ormalingen
+4467	BL	2858	Rothenfluh
+4468	SO	2492	Kienberg
+4469	BL	2841	Anwil
+4492	BL	2862	Tecknau
+4493	BL	2865	Wenslingen
+4494	BL	2855	Oltingen
+4495	BL	2868	Zeglingen
+4496	BL	2851	Kilchberg (BL)
+4497	BL	2860	Rünenberg
+4500	SO	2601	Solothurn
+4512	SO	2542	Bellach
+4513	SO	2550	Langendorf
+4514	SO	2551	Lommiswil
+4515	SO	2553	Oberdorf (SO)
+4522	SO	2555	Rüttenen
+4523	SO	2554	Riedholz
+4525	SO	2541	Balm bei Günsberg
+4528	SO	2534	Zuchwil
+4532	SO	2544	Feldbrunnen-St. Niklaus
+4533	SO	2554	Riedholz
+4534	SO	2545	Flumenthal
+4536	BE	971	Attiswil
+4537	BE	995	Wiedlisbach
+4538	BE	983	Oberbipp
+4542	SO	2527	Luterbach
+4543	SO	2516	Deitingen
+4552	SO	2517	Derendingen
+4553	SO	2532	Subingen
+4557	SO	2523	Horriwil
+4562	SO	2513	Biberist
+4563	SO	2519	Gerlafingen
+4565	SO	2530	Recherswil
+4571	SO	2455	Lüterkofen-Ichertswil
+4573	SO	2526	Lohn-Ammannsegg
+4576	SO	2462	Tscheppach
+4577	SO	2450	Hessigkofen
+4578	SO	2444	Bibern (SO)
+4579	SO	2449	Gossliwil
+4581	SO	2452	Küttigkofen
+4582	SO	2446	Brügglen
+4584	SO	2456	Lüterswil-Gächliwil
+4585	SO	2445	Biezwil
+4586	SO	2453	Kyburg-Buchegg
+4587	SO	2442	Aetingen
+4600	SO	2581	Olten
+4612	SO	2586	Wangen bei Olten
+4613	SO	2582	Rickenbach (SO)
+4614	SO	2579	Hägendorf
+4615	SO	2579	Hägendorf
+4616	SO	2580	Kappel (SO)
+4617	SO	2578	Gunzgen
+4618	SO	2571	Boningen
+4622	SO	2401	Egerkingen
+4623	SO	2404	Neuendorf
+4624	SO	2402	Härkingen
+4625	SO	2406	Oberbuchsiten
+4626	SO	2405	Niederbuchsiten
+4628	SO	2408	Wolfwil
+4629	SO	2575	Fulenbach
+4632	SO	2500	Trimbach
+4633	SO	2491	Hauenstein-Ifenthal
+4652	SO	2501	Winznau
+4653	SO	2497	Obergösgen
+4654	SO	2493	Lostorf
+4656	SO	2584	Starrkirch-Wil
+4657	SO	2573	Dulliken
+4665	AG	4280	Oftringen
+4702	SO	2407	Oensingen
+4703	SO	2403	Kestenholz
+4710	SO	2422	Balsthal
+4712	SO	2426	Laupersdorf
+4713	SO	2427	Matzendorf
+4714	SO	2421	Aedermannsdorf
+4715	SO	2424	Herbetswil
+4718	SO	2425	Holderbank (SO)
+4719	SO	2428	Mümliswil-Ramiswil
+4800	AG	4289	Zofingen
+4802	AG	4285	Strengelbach
+4803	AG	4287	Vordemwald
+4805	AG	4274	Brittnau
+4806	LU	1147	Wikon
+4813	AG	4286	Uerkheim
+4814	AG	4273	Bottenwil
+4852	AG	4282	Rothrist
+4853	AG	4279	Murgenthal
+4856	AG	4279	Murgenthal
+4900	BE	329	Langenthal
+4911	BE	341	Schwarzhäusern
+4912	BE	321	Aarwangen
+4913	BE	323	Bannwil
+4914	BE	337	Roggwil (BE)
+4915	LU	1139	Pfaffnau
+4916	BE	329	Langenthal
+4919	BE	336	Reisiswil
+4922	BE	342	Thunstetten
+4923	BE	345	Wynau
+4924	BE	334	Obersteckholz
+4933	BE	340	Rütschelen
+4934	BE	332	Madiswil
+4935	BE	332	Madiswil
+4936	BE	332	Madiswil
+4937	BE	344	Ursenbach
+4942	BE	959	Walterswil (BE)
+4944	BE	322	Auswil
+4950	BE	954	Huttwil
+4952	BE	953	Eriswil
+4954	BE	960	Wyssachen
+4955	BE	326	Gondiswil
+5000	AG	4001	Aarau
+5013	SO	2495	Niedergösgen
+5014	SO	2576	Gretzenbach
+5015	SO	2503	Erlinsbach (SO)
+5017	AG	4005	Erlinsbach (AG)
+5018	AG	4005	Erlinsbach (AG)
+5022	AG	4008	Küttigen
+5023	AG	4002	Biberstein
+5024	AG	4008	Küttigen
+5025	AG	4004	Densbüren
+5026	AG	4004	Densbüren
+5027	AG	4166	Herznach
+5028	AG	4179	Ueken
+5032	AG	4001	Aarau
+5033	AG	4003	Buchs (AG)
+5034	AG	4012	Suhr
+5035	AG	4013	Unterentfelden
+5036	AG	4010	Oberentfelden
+5037	AG	4009	Muhen
+5040	AG	4144	Schöftland
+5042	AG	4007	Hirschthal
+5043	AG	4136	Holziken
+5044	AG	4142	Schlossrued
+5046	AG	4143	Schmiedrued
+5053	AG	4284	Staffelbach
+5056	AG	4272	Attelwil
+5057	AG	4281	Reitnau
+5058	AG	4288	Wiliberg
+5062	AG	4173	Oberhof
+5063	AG	4182	Wölflinswil
+5064	AG	4181	Wittnau
+5070	AG	4163	Frick
+5072	AG	4175	Oeschgen
+5073	AG	4165	Gipf-Oberfrick
+5074	AG	4161	Eiken
+5075	AG	4167	Hornussen
+5076	AG	4094	Bözen
+5077	AG	4097	Elfingen
+5078	AG	4096	Effingen
+5079	AG	4183	Zeihen
+5080	AG	4170	Laufenburg
+5082	AG	4169	Kaisten
+5083	AG	4169	Kaisten
+5084	AG	4170	Laufenburg
+5085	AG	4170	Laufenburg
+5102	AG	4206	Rupperswil
+5103	AG	4203	Möriken-Wildegg
+5106	AG	4120	Veltheim (AG)
+5107	AG	4115	Schinznach-Dorf
+5108	AG	4109	Oberflachs
+5112	AG	4117	Thalheim (AG)
+5113	AG	4199	Holderbank (AG)
+5116	AG	4114	Schinznach-Bad
+5212	AG	4100	Hausen (AG)
+5213	AG	4122	Villnachern
+5222	AG	4095	Brugg
+5223	AG	4111	Riniken
+5225	AG	4108	Oberbözberg
+5233	AG	4121	Villigen
+5234	AG	4121	Villigen
+5235	AG	4112	Rüfenach
+5236	AG	4110	Remigen
+5243	AG	4107	Mülligen
+5244	AG	4093	Birrhard
+5245	AG	4099	Habsburg
+5246	AG	4113	Scherz
+5272	AG	4164	Gansingen
+5273	AG	4184	Mettauertal
+5274	AG	4184	Mettauertal
+5275	AG	4184	Mettauertal
+5276	AG	4184	Mettauertal
+5277	AG	4184	Mettauertal
+5303	AG	4047	Würenlingen
+5304	AG	4305	Endingen
+5305	AG	4321	Unterendingen
+5306	AG	4320	Tegerfelden
+5312	AG	4304	Döttingen
+5313	AG	4309	Klingnau
+5314	AG	4303	Böttstein
+5315	AG	4303	Böttstein
+5316	AG	4313	Leuggern
+5317	AG	4313	Leuggern
+5318	AG	4105	Mandach
+5322	AG	4310	Koblenz
+5323	AG	4316	Rietheim
+5324	AG	4307	Full-Reuenthal
+5325	AG	4311	Leibstadt
+5326	AG	4176	Schwaderloch
+5330	AG	4323	Bad Zurzach
+5332	AG	4315	Rekingen (AG)
+5333	AG	4301	Baldingen
+5334	AG	4302	Böbikon
+5400	AG	4021	Baden
+5405	AG	4021	Baden
+5406	AG	4021	Baden
+5408	AG	4026	Ennetbaden
+5412	AG	4029	Gebenstorf
+5413	AG	4024	Birmenstorf (AG)
+5415	AG	4038	Obersiggenthal
+5416	AG	4038	Obersiggenthal
+5417	AG	4044	Untersiggenthal
+5420	AG	4049	Ehrendingen
+5423	AG	4028	Freienwil
+5425	AG	4318	Schneisingen
+5426	AG	4312	Lengnau (AG)
+5430	AG	4045	Wettingen
+5432	AG	4034	Neuenhof
+5436	AG	4048	Würenlos
+5442	AG	4027	Fislisbach
+5443	AG	4035	Niederrohrdorf
+5444	AG	4031	Künten
+5445	AG	4066	Eggenwil
+5452	AG	4037	Oberrohrdorf
+5453	AG	4039	Remetschwil
+5454	AG	4022	Bellikon
+5462	AG	4319	Siglistorf
+5463	AG	4322	Wislikofen
+5464	AG	4317	Rümikon
+5465	AG	4314	Mellikon
+5466	AG	4308	Kaiserstuhl
+5467	AG	4306	Fisibach
+5502	AG	4200	Hunzenschwil
+5503	AG	4207	Schafisheim
+5504	AG	4205	Othmarsingen
+5505	AG	4193	Brunegg
+5506	AG	4032	Mägenwil
+5507	AG	4033	Mellingen
+5512	AG	4046	Wohlenschwil
+5524	AG	4072	Niederwil (AG)
+5525	AG	4067	Fischbach-Göslikon
+5603	AG	4210	Staufen
+5604	AG	4198	Hendschiken
+5605	AG	4065	Dottikon
+5606	AG	4194	Dintikon
+5607	AG	4068	Hägglingen
+5608	AG	4041	Stetten (AG)
+5610	AG	4082	Wohlen (AG)
+5611	AG	4082	Wohlen (AG)
+5612	AG	4080	Villmergen
+5613	AG	4080	Villmergen
+5614	AG	4076	Sarmenstorf
+5615	AG	4196	Fahrwangen
+5616	AG	4202	Meisterschwanden
+5617	AG	4202	Meisterschwanden
+5618	AG	4227	Bettwil
+5620	AG	4063	Bremgarten (AG)
+5621	AG	4083	Zufikon
+5622	AG	4240	Waltenschwil
+5623	AG	4228	Boswil
+5624	AG	4229	Bünzen
+5625	AG	4233	Kallern
+5626	AG	4069	Hermetschwil-Staffeln
+5627	AG	4226	Besenbüren
+5628	AG	4222	Aristau
+5634	AG	4234	Merenschwand
+5642	AG	4235	Mühlau
+5643	AG	4239	Sins
+5644	AG	4223	Auw
+5645	AG	4239	Sins
+5646	AG	4221	Abtwil
+5702	AG	4204	Niederlenz
+5703	AG	4209	Seon
+5704	AG	4195	Egliswil
+5705	AG	4197	Hallwil
+5706	AG	4192	Boniswil
+5707	AG	4208	Seengen
+5708	AG	4132	Birrwil
+5712	AG	4131	Beinwil am See
+5722	AG	4006	Gränichen
+5723	AG	4145	Teufenthal (AG)
+5724	AG	4134	Dürrenäsch
+5725	AG	4138	Leutwil
+5726	AG	4146	Unterkulm
+5727	AG	4140	Oberkulm
+5728	AG	4135	Gontenschwil
+5732	AG	4147	Zetzwil
+5733	AG	4137	Leimbach (AG)
+5734	AG	4141	Reinach (AG)
+5735	LU	1096	Pfeffikon
+5736	AG	4133	Burg (AG)
+5737	AG	4139	Menziken
+5742	AG	4276	Kölliken
+5745	AG	4283	Safenwil
+6000	LU	1061	Luzern
+6005	LU	1058	Horw
+6012	LU	1059	Kriens
+6013	LU	1066	Schwarzenberg
+6014	LU	1061	Luzern
+6015	LU	1061	Luzern
+6016	LU	1093	Neuenkirch
+6017	LU	1098	Ruswil
+6018	LU	1083	Buttisholz
+6019	LU	1098	Ruswil
+6022	LU	1086	Grosswangen
+6023	LU	1040	Rothenburg
+6024	LU	1088	Hildisrieden
+6025	LU	1092	Neudorf
+6026	LU	1037	Rain
+6027	LU	1039	Römerswil
+6028	LU	1039	Römerswil
+6030	LU	1054	Ebikon
+6033	LU	1052	Buchrain
+6036	LU	1053	Dierikon
+6037	LU	1065	Root
+6039	LU	1065	Root
+6042	AG	4231	Dietwil
+6043	LU	1051	Adligenswil
+6044	LU	1067	Udligenswil
+6045	LU	1063	Meggen
+6047	LU	1058	Horw
+6048	LU	1058	Horw
+6052	NW	1507	Hergiswil (NW)
+6053	OW	1401	Alpnach
+6055	OW	1401	Alpnach
+6056	OW	1407	Sarnen
+6060	OW	1407	Sarnen
+6062	OW	1407	Sarnen
+6063	OW	1407	Sarnen
+6064	OW	1404	Kerns
+6066	OW	1404	Kerns
+6067	OW	1404	Kerns
+6068	OW	1404	Kerns
+6072	OW	1406	Sachseln
+6073	OW	1406	Sachseln
+6074	OW	1403	Giswil
+6078	OW	1405	Lungern
+6083	BE	783	Hasliberg
+6084	BE	783	Hasliberg
+6085	BE	783	Hasliberg
+6086	BE	783	Hasliberg
+6102	LU	1062	Malters
+6103	LU	1066	Schwarzenberg
+6105	LU	1009	Werthenstein
+6110	LU	1107	Wolhusen
+6112	LU	1001	Doppleschwand
+6113	LU	1007	Romoos
+6114	LU	1107	Wolhusen
+6122	LU	1136	Menznau
+6123	LU	1136	Menznau
+6125	LU	1136	Menznau
+6126	LU	1151	Willisau
+6130	LU	1151	Willisau
+6132	LU	1151	Willisau
+6142	LU	1130	Gettnau
+6143	LU	1138	Ohmstal
+6144	LU	1150	Zell (LU)
+6145	LU	1129	Fischbach
+6146	LU	1131	Grossdietwil
+6147	LU	1122	Altbüron
+6152	LU	1150	Zell (LU)
+6154	LU	1135	Luthern
+6156	LU	1135	Luthern
+6162	LU	1002	Entlebuch
+6163	LU	1002	Entlebuch
+6166	LU	1005	Hasle (LU)
+6167	LU	1007	Romoos
+6170	LU	1008	Schüpfheim
+6173	LU	1004	Flühli
+6174	LU	1004	Flühli
+6182	LU	1003	Escholzmatt
+6192	LU	1003	Escholzmatt
+6196	LU	1006	Marbach (LU)
+6197	BE	906	Schangnau
+6205	LU	1084	Eich
+6206	LU	1093	Neuenkirch
+6207	LU	1094	Nottwil
+6208	LU	1095	Oberkirch
+6210	LU	1103	Sursee
+6211	LU	1125	Dagmersellen
+6215	LU	1081	Beromünster
+6216	LU	1091	Mauensee
+6217	LU	1128	Ettiswil
+6218	LU	1128	Ettiswil
+6222	LU	1081	Beromünster
+6231	LU	1100	Schlierbach
+6232	LU	1085	Geuensee
+6233	LU	1082	Büron
+6234	LU	1104	Triengen
+6235	LU	1104	Triengen
+6236	LU	1104	Triengen
+6242	LU	1146	Wauwil
+6243	LU	1127	Egolzwil
+6244	LU	1137	Nebikon
+6245	LU	1126	Ebersecken
+6246	LU	1123	Altishofen
+6247	LU	1143	Schötz
+6248	LU	1121	Alberswil
+6252	LU	1125	Dagmersellen
+6253	LU	1125	Dagmersellen
+6262	LU	1140	Reiden
+6263	LU	1140	Reiden
+6264	LU	1139	Pfaffnau
+6265	LU	1142	Roggliswil
+6274	LU	1026	Eschenbach (LU)
+6276	LU	1032	Hohenrain
+6277	LU	1032	Hohenrain
+6280	LU	1031	Hochdorf
+6284	LU	1030	Hitzkirch
+6285	LU	1030	Hitzkirch
+6286	LU	1022	Altwis
+6287	LU	1021	Aesch (LU)
+6288	LU	1041	Schongau
+6289	LU	1030	Hitzkirch
+6294	LU	1025	Ermensee
+6295	LU	1030	Hitzkirch
+6300	ZG	1711	Zug
+6312	ZG	1708	Steinhausen
+6313	ZG	1704	Menzingen
+6315	ZG	1706	Oberägeri
+6317	ZG	1711	Zug
+6318	ZG	1710	Walchwil
+6319	ZG	1701	Baar
+6330	ZG	1702	Cham
+6331	ZG	1703	Hünenberg
+6332	ZG	1702	Cham
+6333	ZG	1703	Hünenberg
+6343	ZG	1707	Risch
+6344	LU	1064	Meierskappel
+6345	ZG	1705	Neuheim
+6353	LU	1069	Weggis
+6354	LU	1068	Vitznau
+6356	LU	1069	Weggis
+6365	NW	1510	Stansstad
+6372	NW	1506	Ennetmoos
+6373	NW	1505	Ennetbürgen
+6374	NW	1502	Buochs
+6375	NW	1501	Beckenried
+6376	NW	1504	Emmetten
+6377	UR	1215	Seelisberg
+6382	NW	1508	Oberdorf (NW)
+6386	NW	1511	Wolfenschiessen
+6387	NW	1511	Wolfenschiessen
+6390	OW	1402	Engelberg
+6402	SZ	1331	Küssnacht (SZ)
+6403	SZ	1331	Küssnacht (SZ)
+6404	LU	1056	Greppen
+6405	SZ	1331	Küssnacht (SZ)
+6414	SZ	1362	Arth
+6415	SZ	1362	Arth
+6416	SZ	1374	Steinerberg
+6417	SZ	1371	Sattel
+6418	SZ	1370	Rothenthurm
+6422	SZ	1373	Steinen
+6423	SZ	1372	Schwyz
+6424	SZ	1365	Lauerz
+6430	SZ	1372	Schwyz
+6432	SZ	1372	Schwyz
+6433	SZ	1366	Morschach
+6434	SZ	1363	Illgau
+6436	SZ	1367	Muotathal
+6438	SZ	1372	Schwyz
+6440	SZ	1364	Ingenbohl
+6441	UR	1215	Seelisberg
+6442	SZ	1311	Gersau
+6443	SZ	1366	Morschach
+6454	UR	1207	Flüelen
+6460	UR	1201	Altdorf (UR)
+6461	UR	1211	Isenthal
+6462	UR	1214	Seedorf (UR)
+6463	UR	1205	Bürglen (UR)
+6464	UR	1218	Spiringen
+6465	UR	1219	Unterschächen
+6466	UR	1204	Bauen
+6467	UR	1213	Schattdorf
+6468	UR	1203	Attinghausen
+6472	UR	1206	Erstfeld
+6473	UR	1216	Silenen
+6474	UR	1216	Silenen
+6475	UR	1216	Silenen
+6482	UR	1209	Gurtnellen
+6484	UR	1220	Wassen
+6485	UR	1220	Wassen
+6487	UR	1208	Göschenen
+6491	UR	1212	Realp
+6493	UR	1210	Hospental
+6500	TI	5002	Bellinzona
+6512	TI	5005	Giubiasco
+6513	TI	5013	Monte Carasso
+6514	TI	5019	Sementina
+6515	TI	5008	Gudo
+6516	TI	5138	Cugnasco-Gerra
+6517	TI	5001	Arbedo-Castione
+6518	TI	5007	Gorduno
+6523	TI	5015	Preonzo
+6524	TI	5012	Moleno
+6525	TI	5006	Gnosca
+6526	TI	5285	Lodrino
+6527	TI	5285	Lodrino
+6528	TI	5004	Camorino
+6532	TI	5001	Arbedo-Castione
+6534	GR	3835	San Vittore
+6535	GR	3834	Roveredo (GR)
+6537	GR	3832	Grono
+6538	GR	3836	Verdabbio
+6540	GR	3805	Castaneda
+6541	GR	3810	Santa Maria in Calanca
+6542	GR	3804	Buseno
+6543	GR	3801	Arvigo
+6544	GR	3803	Braggio
+6547	GR	3808	Rossa
+6548	GR	3808	Rossa
+6549	GR	3834	Roveredo (GR)
+6556	GR	3833	Leggia
+6558	GR	3821	Lostallo
+6562	GR	3823	Soazza
+6563	GR	3822	Mesocco
+6565	GR	3822	Mesocco
+6571	TI	5398	Gambarogno
+6572	TI	5398	Gambarogno
+6573	TI	5398	Gambarogno
+6574	TI	5398	Gambarogno
+6575	TI	5398	Gambarogno
+6576	TI	5398	Gambarogno
+6577	TI	5398	Gambarogno
+6578	TI	5398	Gambarogno
+6579	TI	5398	Gambarogno
+6583	TI	5018	Sant'Antonio
+6584	TI	5018	Sant'Antonio
+6592	TI	5017	Sant'Antonino
+6593	TI	5003	Cadenazzo
+6594	TI	5398	Gambarogno
+6596	TI	5108	Gordola
+6597	TI	5138	Cugnasco-Gerra
+6598	TI	5131	Tenero-Contra
+6599	TI	5003	Cadenazzo
+6605	TI	5113	Locarno
+6612	TI	5091	Ascona
+6613	TI	5125	Ronco sopra Ascona
+6614	TI	5097	Brissago
+6616	TI	5115	Losone
+6618	TI	5115	Losone
+6622	TI	5125	Ronco sopra Ascona
+6631	TI	5102	Corippo
+6632	TI	5135	Vogorno
+6633	TI	5112	Lavertezzo
+6634	TI	5095	Brione (Verzasca)
+6635	TI	5138	Cugnasco-Gerra
+6636	TI	5105	Frasco
+6637	TI	5129	Sonogno
+6644	TI	5121	Orselina
+6645	TI	5096	Brione sopra Minusio
+6646	TI	5131	Tenero-Contra
+6647	TI	5117	Mergoscia
+6648	TI	5118	Minusio
+6653	TI	5133	Verscio
+6654	TI	5099	Cavigliano
+6655	TI	5397	Centovalli
+6656	TI	5397	Centovalli
+6657	TI	5397	Centovalli
+6658	TI	5397	Centovalli
+6659	TI	5397	Centovalli
+6661	TI	5137	Isorno
+6662	TI	5136	Onsernone
+6663	TI	5136	Onsernone
+6664	TI	5132	Vergeletto
+6670	TI	5324	Avegno Gordevio
+6672	TI	5324	Avegno Gordevio
+6673	TI	5317	Maggia
+6674	TI	5317	Maggia
+6675	TI	5310	Cevio
+6676	TI	5310	Cevio
+6677	TI	5317	Maggia
+6678	TI	5317	Maggia
+6682	TI	5315	Linescio
+6684	TI	5307	Campo (Vallemaggia)
+6685	TI	5304	Bosco/Gurin
+6690	TI	5310	Cevio
+6692	TI	5323	Lavizzara
+6693	TI	5323	Lavizzara
+6694	TI	5323	Lavizzara
+6695	TI	5323	Lavizzara
+6696	TI	5323	Lavizzara
+6702	TI	5282	Claro
+6703	TI	5286	Osogna
+6705	TI	5283	Cresciano
+6707	TI	5284	Iragna
+6710	TI	5281	Biasca
+6714	TI	5046	Semione
+6715	TI	5048	Acquarossa
+6716	TI	5048	Acquarossa
+6717	TI	5049	Blenio
+6718	TI	5049	Blenio
+6719	TI	5049	Blenio
+6720	TI	5049	Blenio
+6722	TI	5048	Acquarossa
+6723	TI	5048	Acquarossa
+6724	TI	5048	Acquarossa
+6742	TI	5077	Pollegio
+6743	TI	5064	Bodio
+6744	TI	5076	Personico
+6745	TI	5073	Giornico
+6747	TI	5070	Chironico
+6748	TI	5062	Anzonico
+6764	TI	5072	Faido
+6772	TI	5078	Prato (Leventina)
+6773	TI	5078	Prato (Leventina)
+6774	TI	5071	Dalpe
+6775	TI	5079	Quinto
+6776	TI	5079	Quinto
+6777	TI	5079	Quinto
+6780	TI	5061	Airolo
+6781	TI	5063	Bedretto
+6802	TI	5238	Monteceneri
+6803	TI	5238	Monteceneri
+6804	TI	5238	Monteceneri
+6805	TI	5199	Mezzovico-Vira
+6806	TI	5238	Monteceneri
+6807	TI	5227	Torricella-Taverne
+6808	TI	5227	Torricella-Taverne
+6809	TI	5238	Monteceneri
+6810	TI	5009	Isone
+6815	TI	5198	Melide
+6816	TI	5154	Bissone
+6817	TI	5195	Maroggia
+6818	TI	5197	Melano
+6821	TI	5219	Rovio
+6822	TI	5144	Arogno
+6826	TI	5263	Riva San Vitale
+6830	TI	5250	Chiasso
+6832	TI	5250	Chiasso
+6833	TI	5268	Vacallo
+6834	TI	5257	Morbio Inferiore
+6835	TI	5269	Breggia
+6837	TI	5269	Breggia
+6838	TI	5269	Breggia
+6839	TI	5269	Breggia
+6850	TI	5254	Mendrisio
+6853	TI	5253	Ligornetto
+6854	TI	5266	Stabio
+6855	TI	5266	Stabio
+6862	TI	5254	Mendrisio
+6863	TI	5243	Besazio
+6864	TI	5254	Mendrisio
+6865	TI	5254	Mendrisio
+6866	TI	5255	Meride
+6867	TI	5160	Brusino Arsizio
+6872	TI	5254	Mendrisio
+6873	TI	5249	Castel San Pietro
+6874	TI	5249	Castel San Pietro
+6875	TI	5249	Castel San Pietro
+6877	TI	5251	Coldrerio
+6883	TI	5260	Novazzano
+6912	TI	5192	Lugano
+6913	TI	5192	Lugano
+6914	TI	5170	Carona
+6915	TI	5192	Lugano
+6916	TI	5186	Grancia
+6917	TI	5192	Lugano
+6918	TI	5192	Lugano
+6919	TI	5169	Carabietta
+6921	TI	5233	Vico Morcote
+6924	TI	5225	Sorengo
+6925	TI	5236	Collina d'Oro
+6926	TI	5236	Collina d'Oro
+6927	TI	5236	Collina d'Oro
+6928	TI	5194	Manno
+6929	TI	5187	Gravesano
+6930	TI	5148	Bedano
+6932	TI	5192	Lugano
+6933	TI	5205	Muzzano
+6934	TI	5151	Bioggio
+6935	TI	5151	Bioggio
+6936	TI	5161	Cademario
+6937	TI	5237	Alto Malcantone
+6938	TI	5237	Alto Malcantone
+6939	TI	5237	Alto Malcantone
+6942	TI	5221	Savosa
+6943	TI	5231	Vezia
+6944	TI	5180	Cureglia
+6945	TI	5208	Origlio
+6946	TI	5212	Ponte Capriasca
+6947	TI	5226	Capriasca
+6948	TI	5214	Porza
+6949	TI	5176	Comano
+6952	TI	5167	Canobbio
+6953	TI	5226	Capriasca
+6954	TI	5226	Capriasca
+6955	TI	5226	Capriasca
+6956	TI	5226	Capriasca
+6957	TI	5226	Capriasca
+6958	TI	5226	Capriasca
+6962	TI	5192	Lugano
+6963	TI	5192	Lugano
+6964	TI	5192	Lugano
+6965	TI	5163	Cadro
+6966	TI	5192	Lugano
+6967	TI	5224	Sonvico
+6968	TI	5224	Sonvico
+6974	TI	5192	Lugano
+6976	TI	5192	Lugano
+6977	TI	5192	Lugano
+6978	TI	5192	Lugano
+6979	TI	5192	Lugano
+6980	TI	5178	Croglio
+6982	TI	5141	Agno
+6983	TI	5193	Magliaso
+6984	TI	5216	Pura
+6988	TI	5213	Ponte Tresa
+6989	TI	5178	Croglio
+6990	TI	5141	Agno
+6991	TI	5206	Neggio
+6993	TI	5151	Bioggio
+6994	TI	5143	Aranno
+6996	TI	5202	Monteggio
+6997	TI	5222	Sessa
+6998	TI	5202	Monteggio
+6999	TI	5146	Astano
+7000	GR	3901	Chur
+7012	GR	3731	Felsberg
+7013	GR	3722	Domat/Ems
+7014	GR	3734	Trin
+7015	GR	3733	Tamins
+7016	GR	3734	Trin
+7017	GR	3732	Flims
+7018	GR	3732	Flims
+7019	GR	3732	Flims
+7023	GR	3941	Haldenstein
+7026	GR	3926	Maladers
+7028	GR	3931	St. Peter-Pagig
+7029	GR	3929	Peist
+7031	GR	3575	Laax
+7032	GR	3575	Laax
+7050	GR	3921	Arosa
+7056	GR	3927	Molinis
+7057	GR	3924	Langwies
+7058	GR	3924	Langwies
+7063	GR	3932	Tschiertschen-Praden
+7064	GR	3932	Tschiertschen-Praden
+7074	GR	3911	Churwalden
+7075	GR	3911	Churwalden
+7076	GR	3911	Churwalden
+7077	GR	3506	Vaz/Obervaz
+7078	GR	3506	Vaz/Obervaz
+7082	GR	3506	Vaz/Obervaz
+7083	GR	3513	Lantsch/Lenz
+7084	GR	3512	Brienz/Brinzauls
+7106	GR	3652	Tenna
+7107	GR	3651	Safien
+7109	GR	3651	Safien
+7110	GR	3599	Suraua
+7111	GR	3578	Pitasch
+7113	GR	3599	Suraua
+7114	GR	3599	Suraua
+7115	GR	3599	Suraua
+7122	GR	3586	Valendas
+7126	GR	3571	Castrisch
+7127	GR	3584	Sevgein
+7128	GR	3579	Riein
+7132	GR	3603	Vals
+7133	GR	3612	Obersaxen
+7134	GR	3612	Obersaxen
+7135	GR	3612	Obersaxen
+7136	GR	3612	Obersaxen
+7137	GR	3617	Mundaun
+7141	GR	3577	Luven
+7142	GR	3592	Cumbel
+7143	GR	3596	Morissen
+7144	GR	3605	Vella
+7145	GR	3594	Degen
+7146	GR	3594	Degen
+7147	GR	3604	Vignogn
+7148	GR	3595	Lumbrein
+7149	GR	3606	Vrin
+7151	GR	3582	Schluein
+7152	GR	3581	Sagogn
+7153	GR	3572	Falera
+7154	GR	3580	Ruschein
+7155	GR	3576	Ladir
+7157	GR	3615	Siat
+7158	GR	3616	Waltensburg/Vuorz
+7159	GR	3611	Andiast
+7162	GR	3981	Breil/Brigels
+7163	GR	3981	Breil/Brigels
+7164	GR	3981	Breil/Brigels
+7165	GR	3981	Breil/Brigels
+7166	GR	3987	Trun
+7167	GR	3987	Trun
+7168	GR	3987	Trun
+7172	GR	3985	Sumvitg
+7173	GR	3985	Sumvitg
+7174	GR	3985	Sumvitg
+7175	GR	3985	Sumvitg
+7176	GR	3985	Sumvitg
+7180	GR	3982	Disentis/Mustér
+7182	GR	3982	Disentis/Mustér
+7183	GR	3982	Disentis/Mustér
+7184	GR	3983	Medel (Lucmagn)
+7186	GR	3982	Disentis/Mustér
+7187	GR	3986	Tujetsch
+7188	GR	3986	Tujetsch
+7189	GR	3986	Tujetsch
+7202	GR	3945	Trimmis
+7203	GR	3945	Trimmis
+7204	GR	3946	Untervaz
+7205	GR	3947	Zizers
+7206	GR	3955	Landquart
+7208	GR	3954	Malans
+7212	GR	3972	Seewis im Prättigau
+7213	GR	3961	Grüsch
+7214	GR	3961	Grüsch
+7215	GR	3961	Grüsch
+7220	GR	3962	Schiers
+7222	GR	3962	Schiers
+7223	GR	3891	Luzein
+7224	GR	3891	Luzein
+7226	GR	3962	Schiers
+7228	GR	3962	Schiers
+7231	GR	3863	Jenaz
+7232	GR	3862	Furna
+7233	GR	3863	Jenaz
+7235	GR	3861	Fideris
+7241	GR	3881	Conters im Prättigau
+7242	GR	3891	Luzein
+7243	GR	3891	Luzein
+7244	GR	3891	Luzein
+7245	GR	3893	St. Antönien
+7246	GR	3893	St. Antönien
+7247	GR	3883	Saas
+7249	GR	3871	Klosters-Serneus
+7250	GR	3871	Klosters-Serneus
+7252	GR	3871	Klosters-Serneus
+7260	GR	3851	Davos
+7265	GR	3851	Davos
+7270	GR	3851	Davos
+7272	GR	3851	Davos
+7276	GR	3851	Davos
+7277	GR	3851	Davos
+7278	GR	3851	Davos
+7302	GR	3955	Landquart
+7303	GR	3955	Landquart
+7306	GR	3951	Fläsch
+7307	GR	3952	Jenins
+7312	SG	3294	Pfäfers
+7313	SG	3294	Pfäfers
+7314	SG	3294	Pfäfers
+7317	SG	3294	Pfäfers
+7320	SG	3296	Sargans
+7323	SG	3297	Vilters-Wangs
+7324	SG	3297	Vilters-Wangs
+7325	SG	3293	Mels
+7326	SG	3293	Mels
+7403	GR	3723	Rhäzüns
+7404	GR	3671	Tomils
+7405	GR	3637	Rothenbrunnen
+7407	GR	3671	Tomils
+7408	GR	3661	Cazis
+7411	GR	3640	Sils im Domleschg
+7412	GR	3638	Scharans
+7413	GR	3633	Fürstenau
+7414	GR	3633	Fürstenau
+7416	GR	3631	Almens
+7417	GR	3634	Paspels
+7418	GR	3671	Tomils
+7419	GR	3671	Tomils
+7421	GR	3661	Cazis
+7422	GR	3661	Cazis
+7423	GR	3661	Cazis
+7424	GR	3661	Cazis
+7425	GR	3663	Masein
+7426	GR	3662	Flerden
+7427	GR	3670	Urmein
+7428	GR	3669	Tschappina
+7431	GR	3503	Mutten
+7432	GR	3712	Zillis-Reischen
+7434	GR	3695	Sufers
+7435	GR	3694	Splügen
+7436	GR	3694	Splügen
+7437	GR	3693	Nufenen
+7438	GR	3691	Hinterrhein
+7440	GR	3701	Andeer
+7443	GR	3701	Andeer
+7444	GR	3713	Ferrera
+7445	GR	3713	Ferrera
+7446	GR	3681	Avers
+7447	GR	3681	Avers
+7448	GR	3681	Avers
+7451	GR	3501	Alvaschein
+7452	GR	3532	Cunter
+7453	GR	3541	Tinizong-Rona
+7454	GR	3541	Tinizong-Rona
+7455	GR	3534	Mulegns
+7457	GR	3531	Bivio
+7458	GR	3502	Mon
+7459	GR	3504	Stierva
+7460	GR	3539	Savognin
+7462	GR	3538	Salouf
+7463	GR	3536	Riom-Parsonz
+7464	GR	3536	Riom-Parsonz
+7472	GR	3515	Surava
+7473	GR	3511	Alvaneu
+7477	GR	3522	Filisur
+7482	GR	3521	Bergün/Bravuogn
+7484	GR	3521	Bergün/Bravuogn
+7492	GR	3511	Alvaneu
+7493	GR	3514	Schmitten (GR)
+7500	GR	3787	St. Moritz
+7502	GR	3781	Bever
+7503	GR	3786	Samedan
+7504	GR	3784	Pontresina
+7505	GR	3782	Celerina/Schlarigna
+7513	GR	3790	Silvaplana
+7514	GR	3789	Sils im Engadin/Segl
+7515	GR	3789	Sils im Engadin/Segl
+7516	GR	3792	Bregaglia
+7517	GR	3789	Sils im Engadin/Segl
+7522	GR	3785	La Punt-Chamues-ch
+7523	GR	3783	Madulain
+7524	GR	3791	Zuoz
+7525	GR	3788	S-chanf
+7526	GR	3788	S-chanf
+7527	GR	3746	Zernez
+7532	GR	3847	Val Müstair
+7533	GR	3847	Val Müstair
+7534	GR	3847	Val Müstair
+7535	GR	3847	Val Müstair
+7536	GR	3847	Val Müstair
+7537	GR	3847	Val Müstair
+7542	GR	3744	Susch
+7543	GR	3743	Lavin
+7546	GR	3741	Ardez
+7550	GR	3762	Scuol
+7551	GR	3761	Ftan
+7552	GR	3745	Tarasp
+7553	GR	3745	Tarasp
+7554	GR	3763	Sent
+7556	GR	3751	Ramosch
+7559	GR	3753	Tschlin
+7560	GR	3753	Tschlin
+7562	GR	3752	Samnaun
+7563	GR	3752	Samnaun
+7602	GR	3792	Bregaglia
+7603	GR	3792	Bregaglia
+7604	GR	3792	Bregaglia
+7605	GR	3792	Bregaglia
+7606	GR	3792	Bregaglia
+7608	GR	3792	Bregaglia
+7610	GR	3792	Bregaglia
+7710	GR	3561	Poschiavo
+7741	GR	3561	Poschiavo
+7742	GR	3561	Poschiavo
+7744	GR	3551	Brusio
+7745	GR	3561	Poschiavo
+7746	GR	3561	Poschiavo
+7747	GR	3551	Brusio
+7748	GR	3551	Brusio
+8000	ZH	261	Zürich
+8041	ZH	261	Zürich
+8044	ZH	191	Dübendorf
+8051	ZH	261	Zürich
+8052	ZH	261	Zürich
+8102	ZH	245	Oberengstringen
+8103	ZH	249	Unterengstringen
+8104	ZH	251	Weiningen (ZH)
+8105	ZH	96	Regensdorf
+8106	ZH	96	Regensdorf
+8107	ZH	83	Buchs (ZH)
+8108	ZH	84	Dällikon
+8109	AG	4048	Würenlos
+8112	ZH	94	Otelfingen
+8113	ZH	82	Boppelsen
+8114	ZH	85	Dänikon
+8115	ZH	87	Hüttikon
+8117	ZH	193	Fällanden
+8118	ZH	193	Fällanden
+8121	ZH	193	Fällanden
+8122	ZH	195	Maur
+8123	ZH	195	Maur
+8124	ZH	195	Maur
+8125	ZH	161	Zollikon
+8126	ZH	160	Zumikon
+8132	ZH	192	Egg
+8133	ZH	192	Egg
+8134	ZH	131	Adliswil
+8136	ZH	141	Thalwil
+8142	ZH	248	Uitikon
+8143	ZH	13	Stallikon
+8152	ZH	66	Opfikon
+8153	ZH	97	Rümlang
+8154	ZH	92	Oberglatt
+8155	ZH	90	Niederhasli
+8156	ZH	90	Niederhasli
+8157	ZH	86	Dielsdorf
+8158	ZH	95	Regensberg
+8162	ZH	101	Steinmaur
+8164	ZH	81	Bachs
+8166	ZH	91	Niederweningen
+8172	ZH	89	Niederglatt
+8173	ZH	88	Neerach
+8174	ZH	100	Stadel
+8175	ZH	100	Stadel
+8180	ZH	53	Bülach
+8181	ZH	60	Höri
+8182	ZH	59	Hochfelden
+8184	ZH	51	Bachenbülach
+8185	ZH	72	Winkel
+8187	ZH	102	Weiach
+8192	ZH	58	Glattfelden
+8193	ZH	55	Eglisau
+8194	ZH	61	Hüntwangen
+8195	ZH	70	Wasterkingen
+8196	ZH	71	Wil (ZH)
+8197	ZH	67	Rafz
+8200	SH	2939	Schaffhausen
+8203	SH	2939	Schaffhausen
+8207	SH	2939	Schaffhausen
+8213	SH	2904	Neunkirch
+8214	SH	2901	Gächlingen
+8215	SH	2971	Hallau
+8216	SH	2972	Oberhallau
+8217	SH	2974	Wilchingen
+8218	SH	2974	Wilchingen
+8219	SH	2973	Trasadingen
+8222	SH	2932	Beringen
+8223	SH	2902	Guntmadingen
+8224	SH	2903	Löhningen
+8225	SH	2953	Siblingen
+8226	SH	2952	Schleitheim
+8228	SH	2951	Beggingen
+8231	SH	2939	Schaffhausen
+8232	SH	2936	Merishausen
+8233	SH	2931	Bargen (SH)
+8234	SH	2919	Stetten (SH)
+8235	SH	2917	Lohn (SH)
+8239	SH	2915	Dörflingen
+8240	SH	2920	Thayngen
+8241	SH	2920	Thayngen
+8242	SH	2920	Thayngen
+8243	SH	2920	Thayngen
+8245	ZH	27	Feuerthalen
+8247	ZH	29	Flurlingen
+8248	ZH	34	Laufen-Uhwiesen
+8252	TG	4546	Schlatt (TG)
+8253	TG	4545	Diessenhofen
+8254	TG	4536	Basadingen-Schlattingen
+8255	TG	4536	Basadingen-Schlattingen
+8259	TG	4871	Wagenhausen
+8260	SH	2964	Stein am Rhein
+8261	SH	2962	Hemishofen
+8262	SH	2963	Ramsen
+8263	SH	2961	Buch (SH)
+8265	TG	4826	Mammern
+8266	TG	4864	Steckborn
+8267	TG	4801	Berlingen
+8268	TG	4851	Salenstein
+8269	TG	4851	Salenstein
+8272	TG	4646	Ermatingen
+8273	TG	4646	Ermatingen
+8280	TG	4671	Kreuzlingen
+8302	ZH	62	Kloten
+8303	ZH	52	Bassersdorf
+8305	ZH	54	Dietlikon
+8306	ZH	200	Wangen-Brüttisellen
+8307	ZH	174	Illnau-Effretikon
+8309	ZH	64	Nürensdorf
+8310	ZH	176	Lindau
+8312	ZH	176	Lindau
+8314	ZH	175	Kyburg
+8315	ZH	176	Lindau
+8317	ZH	176	Lindau
+8320	ZH	172	Fehraltorf
+8322	ZH	178	Russikon
+8330	ZH	177	Pfäffikon
+8331	ZH	177	Pfäffikon
+8332	ZH	178	Russikon
+8335	ZH	173	Hittnau
+8340	ZH	117	Hinwil
+8344	ZH	111	Bäretswil
+8345	ZH	111	Bäretswil
+8353	ZH	217	Elgg
+8354	ZH	222	Hofstetten (ZH)
+8355	TG	4551	Aadorf
+8356	TG	4551	Aadorf
+8357	TG	4551	Aadorf
+8362	TG	4721	Bichelsee-Balterswil
+8363	TG	4721	Bichelsee-Balterswil
+8370	TG	4761	Sirnach
+8371	TG	4761	Sirnach
+8372	TG	4761	Sirnach
+8374	TG	4726	Fischingen
+8376	TG	4726	Fischingen
+8400	ZH	230	Winterthur
+8404	ZH	230	Winterthur
+8412	ZH	223	Neftenbach
+8413	ZH	223	Neftenbach
+8414	ZH	24	Buch am Irchel
+8415	ZH	23	Berg am Irchel
+8416	ZH	28	Flaach
+8418	ZH	226	Schlatt (ZH)
+8421	ZH	215	Dättlikon
+8422	ZH	224	Pfungen
+8424	ZH	56	Embrach
+8425	ZH	65	Oberembrach
+8428	ZH	57	Freienstein-Teufen
+8442	ZH	221	Hettlingen
+8444	ZH	31	Henggart
+8447	ZH	25	Dachsen
+8450	ZH	30	Andelfingen
+8451	ZH	33	Kleinandelfingen
+8452	ZH	21	Adlikon
+8453	ZH	33	Kleinandelfingen
+8454	SH	2933	Buchberg
+8455	SH	2938	Rüdlingen
+8457	ZH	32	Humlikon
+8458	ZH	26	Dorf
+8459	ZH	43	Volken
+8460	ZH	35	Marthalen
+8461	ZH	33	Kleinandelfingen
+8462	ZH	38	Rheinau
+8463	ZH	22	Benken (ZH)
+8464	ZH	35	Marthalen
+8465	ZH	40	Trüllikon
+8466	ZH	40	Trüllikon
+8468	ZH	44	Waltalingen
+8471	ZH	214	Dägerlen
+8472	ZH	227	Seuzach
+8474	ZH	216	Dinhard
+8475	ZH	37	Ossingen
+8476	ZH	42	Unterstammheim
+8477	ZH	36	Oberstammheim
+8478	ZH	39	Thalheim an der Thur
+8479	ZH	211	Altikon
+8482	ZH	230	Winterthur
+8484	ZH	180	Weisslingen
+8487	ZH	231	Zell (ZH)
+8488	ZH	228	Turbenthal
+8489	ZH	182	Wildberg
+8493	ZH	171	Bauma
+8494	ZH	171	Bauma
+8495	ZH	228	Turbenthal
+8496	ZH	114	Fischenthal
+8497	ZH	114	Fischenthal
+8499	ZH	179	Sternenberg
+8505	TG	4841	Pfyn
+8506	TG	4811	Herdern
+8507	TG	4816	Homburg
+8508	TG	4816	Homburg
+8512	TG	4611	Thundorf
+8522	TG	4551	Aadorf
+8523	ZH	220	Hagenbuch
+8524	TG	4616	Uesslingen-Buch
+8526	TG	4601	Neunforn
+8532	TG	4621	Warth-Weiningen
+8535	TG	4811	Herdern
+8536	TG	4821	Hüttwilen
+8537	TG	4821	Hüttwilen
+8542	ZH	229	Wiesendangen
+8543	ZH	212	Bertschikon
+8544	ZH	229	Wiesendangen
+8545	ZH	225	Rickenbach (ZH)
+8547	TG	4571	Gachnang
+8548	ZH	218	Ellikon an der Thur
+8552	TG	4561	Felben-Wellhausen
+8553	TG	4590	Hüttlingen
+8555	TG	4831	Müllheim
+8556	TG	4951	Wigoltingen
+8561	TG	4941	Märstetten
+8565	TG	4666	Kemmental
+8566	TG	4666	Kemmental
+8572	TG	4891	Berg (TG)
+8573	TG	4666	Kemmental
+8574	TG	4683	Lengwil
+8575	TG	4911	Bürglen (TG)
+8576	TG	4891	Berg (TG)
+8577	TG	4756	Schönholzerswilen
+8581	TG	4461	Amriswil
+8582	TG	4406	Dozwil
+8583	TG	4506	Sulgen
+8584	TG	4911	Bürglen (TG)
+8587	TG	4461	Amriswil
+8588	TG	4511	Zihlschlacht-Sitterdorf
+8590	TG	4436	Romanshorn
+8592	TG	4451	Uttwil
+8593	TG	4426	Kesswil
+8594	TG	4656	Güttingen
+8595	TG	4641	Altnau
+8596	TG	4691	Münsterlingen
+8597	TG	4691	Münsterlingen
+8598	TG	4643	Bottighofen
+8599	TG	4441	Salmsach
+8600	ZH	191	Dübendorf
+8602	ZH	200	Wangen-Brüttisellen
+8604	ZH	199	Volketswil
+8605	ZH	199	Volketswil
+8608	ZH	112	Bubikon
+8610	ZH	198	Uster
+8615	ZH	198	Uster
+8616	ZH	198	Uster
+8617	ZH	196	Mönchaltorf
+8618	ZH	157	Oetwil am See
+8620	ZH	121	Wetzikon (ZH)
+8623	ZH	121	Wetzikon (ZH)
+8624	ZH	115	Gossau (ZH)
+8625	ZH	115	Gossau (ZH)
+8626	ZH	115	Gossau (ZH)
+8627	ZH	116	Grüningen
+8630	ZH	118	Rüti (ZH)
+8632	ZH	113	Dürnten
+8633	ZH	112	Bubikon
+8634	ZH	153	Hombrechtikon
+8635	ZH	113	Dürnten
+8637	ZH	120	Wald (ZH)
+8638	SG	3333	Goldingen
+8639	ZH	120	Wald (ZH)
+8645	SG	3340	Rapperswil-Jona
+8646	SG	3340	Rapperswil-Jona
+8700	ZH	154	Küsnacht (ZH)
+8702	ZH	161	Zollikon
+8703	ZH	151	Erlenbach (ZH)
+8704	ZH	152	Herrliberg
+8706	ZH	156	Meilen
+8707	ZH	159	Uetikon am See
+8708	ZH	155	Männedorf
+8713	ZH	158	Stäfa
+8714	ZH	153	Hombrechtikon
+8715	SG	3340	Rapperswil-Jona
+8716	SG	3338	Schmerikon
+8717	SG	3312	Benken (SG)
+8718	SG	3315	Schänis
+8722	SG	3313	Kaltbrunn
+8723	SG	3315	Schänis
+8725	SG	3331	Ernetschwil
+8727	SG	3337	St. Gallenkappel
+8732	SG	3332	Eschenbach (SG)
+8733	SG	3332	Eschenbach (SG)
+8734	SG	3332	Eschenbach (SG)
+8735	SG	3337	St. Gallenkappel
+8737	SG	3334	Gommiswald
+8738	SG	3334	Gommiswald
+8739	SG	3314	Rieden
+8750	GL	1632	Glarus
+8751	UR	1218	Spiringen
+8752	GL	1630	Glarus Nord
+8753	GL	1630	Glarus Nord
+8754	GL	1632	Glarus
+8755	GL	1632	Glarus
+8756	GL	1631	Glarus Süd
+8757	GL	1630	Glarus Nord
+8758	GL	1630	Glarus Nord
+8762	GL	1631	Glarus Süd
+8765	GL	1631	Glarus Süd
+8766	GL	1631	Glarus Süd
+8767	GL	1631	Glarus Süd
+8772	GL	1631	Glarus Süd
+8773	GL	1631	Glarus Süd
+8774	GL	1631	Glarus Süd
+8775	GL	1631	Glarus Süd
+8777	GL	1631	Glarus Süd
+8782	GL	1631	Glarus Süd
+8783	GL	1631	Glarus Süd
+8784	GL	1631	Glarus Süd
+8800	ZH	141	Thalwil
+8802	ZH	135	Kilchberg (ZH)
+8803	ZH	139	Rüschlikon
+8804	ZH	142	Wädenswil
+8805	ZH	138	Richterswil
+8807	SZ	1322	Freienbach
+8808	SZ	1322	Freienbach
+8810	ZH	133	Horgen
+8815	ZH	133	Horgen
+8816	ZH	132	Hirzel
+8824	ZH	140	Schönenberg (ZH)
+8825	ZH	134	Hütten
+8833	ZH	138	Richterswil
+8834	SZ	1321	Feusisberg
+8835	SZ	1321	Feusisberg
+8840	SZ	1301	Einsiedeln
+8841	SZ	1301	Einsiedeln
+8844	SZ	1301	Einsiedeln
+8845	SZ	1375	Unteriberg
+8846	SZ	1301	Einsiedeln
+8847	SZ	1301	Einsiedeln
+8849	SZ	1361	Alpthal
+8852	SZ	1341	Altendorf
+8853	SZ	1344	Lachen
+8855	SZ	1349	Wangen (SZ)
+8856	SZ	1347	Tuggen
+8857	SZ	1348	Vorderthal
+8858	SZ	1343	Innerthal
+8862	SZ	1346	Schübelbach
+8863	SZ	1346	Schübelbach
+8865	GL	1630	Glarus Nord
+8867	GL	1630	Glarus Nord
+8868	GL	1630	Glarus Nord
+8873	SG	3311	Amden
+8874	GL	1630	Glarus Nord
+8877	SG	3295	Quarten
+8878	SG	3295	Quarten
+8880	SG	3298	Walenstadt
+8881	SG	3298	Walenstadt
+8882	SG	3295	Quarten
+8883	SG	3295	Quarten
+8884	SG	3295	Quarten
+8885	SG	3295	Quarten
+8886	SG	3293	Mels
+8887	SG	3293	Mels
+8888	SG	3293	Mels
+8889	SG	3293	Mels
+8890	SG	3292	Flums
+8892	SG	3298	Walenstadt
+8893	SG	3292	Flums
+8894	SG	3292	Flums
+8895	SG	3292	Flums
+8896	SG	3292	Flums
+8897	SG	3292	Flums
+8902	ZH	250	Urdorf
+8903	ZH	242	Birmensdorf (ZH)
+8904	ZH	241	Aesch (ZH)
+8906	ZH	3	Bonstetten
+8907	ZH	14	Wettswil am Albis
+8908	ZH	5	Hedingen
+8909	ZH	2	Affoltern am Albis
+8910	ZH	2	Affoltern am Albis
+8911	ZH	12	Rifferswil
+8912	ZH	10	Obfelden
+8913	ZH	11	Ottenbach
+8914	ZH	1	Aeugst am Albis
+8915	ZH	4	Hausen am Albis
+8916	AG	4071	Jonen
+8917	AG	4073	Oberlunkhofen
+8918	AG	4079	Unterlunkhofen
+8919	AG	4238	Rottenschwil
+8925	ZH	4	Hausen am Albis
+8926	ZH	6	Kappel am Albis
+8932	ZH	9	Mettmenstetten
+8933	ZH	8	Maschwanden
+8934	ZH	7	Knonau
+8942	ZH	137	Oberrieden
+8952	ZH	247	Schlieren
+8953	ZH	243	Dietikon
+8954	ZH	244	Geroldswil
+8955	ZH	246	Oetwil an der Limmat
+8956	AG	4030	Killwangen
+8957	AG	4040	Spreitenbach
+8962	AG	4023	Bergdietikon
+8964	AG	4075	Rudolfstetten-Friedlisb.
+8966	AG	4074	Oberwil-Lieli
+8967	AG	4081	Widen
+9015	SG	3203	St. Gallen
+9030	SG	3442	Gaiserwald
+9032	SG	3442	Gaiserwald
+9033	SG	3219	Untereggen
+9034	SG	3212	Eggersriet
+9036	SG	3212	Eggersriet
+9037	AR	3023	Speicher
+9038	AR	3034	Rehetobel
+9042	AR	3023	Speicher
+9043	AR	3025	Trogen
+9044	AR	3036	Wald (AR)
+9052	AR	3024	Teufen (AR)
+9053	AR	3024	Teufen (AR)
+9054	AI	3104	Schlatt-Haslen
+9055	AR	3021	Bühler
+9056	AR	3022	Gais
+9062	AR	3024	Teufen (AR)
+9063	AR	3005	Stein (AR)
+9064	AR	3002	Hundwil
+9100	AR	3001	Herisau
+9103	AR	3004	Schwellbrunn
+9104	AR	3007	Waldstatt
+9108	AI	3102	Gonten
+9112	AR	3001	Herisau
+9113	SG	3401	Degersheim
+9114	SG	3378	Neckertal
+9115	SG	3378	Neckertal
+9116	SG	3401	Degersheim
+9122	SG	3378	Neckertal
+9123	SG	3378	Neckertal
+9125	SG	3378	Neckertal
+9127	SG	3378	Neckertal
+9200	SG	3443	Gossau (SG)
+9203	SG	3424	Oberbüren
+9204	SG	3441	Andwil (SG)
+9205	SG	3444	Waldkirch
+9215	TG	4501	Kradolf-Schönenberg
+9216	TG	4495	Hohentannen
+9217	TG	4501	Kradolf-Schönenberg
+9223	TG	4471	Bischofszell
+9225	TG	4486	Hauptwil-Gottshaus
+9230	SG	3402	Flawil
+9231	SG	3402	Flawil
+9242	SG	3407	Oberuzwil
+9243	SG	3405	Jonschwil
+9244	SG	3408	Uzwil
+9245	SG	3424	Oberbüren
+9246	SG	3422	Niederbüren
+9247	SG	3408	Uzwil
+9248	SG	3407	Oberuzwil
+9249	SG	3408	Uzwil
+9300	SG	3204	Wittenbach
+9304	SG	3444	Waldkirch
+9305	SG	3211	Berg (SG)
+9306	TG	4431	Roggwil (TG)
+9308	SG	3201	Häggenschwil
+9312	SG	3201	Häggenschwil
+9314	TG	4411	Egnach
+9315	TG	4411	Egnach
+9322	TG	4411	Egnach
+9323	SG	3217	Steinach
+9325	TG	4431	Roggwil (TG)
+9326	TG	4421	Horn
+9327	SG	3218	Tübach
+9400	SG	3215	Rorschach
+9402	SG	3214	Mörschwil
+9403	SG	3213	Goldach
+9404	SG	3216	Rorschacherberg
+9410	AR	3032	Heiden
+9411	AR	3035	Reute (AR)
+9413	AI	3111	Oberegg
+9414	AR	3035	Reute (AR)
+9423	SG	3237	Thal
+9424	SG	3235	Rheineck
+9425	SG	3237	Thal
+9426	AR	3033	Lutzenberg
+9430	SG	3236	St. Margrethen
+9434	SG	3231	Au (SG)
+9436	SG	3232	Balgach
+9437	SG	3253	Marbach (SG)
+9443	SG	3238	Widnau
+9444	SG	3234	Diepoldsau
+9445	SG	3255	Rebstein
+9451	SG	3254	Oberriet (SG)
+9453	SG	3252	Eichberg
+9462	SG	3254	Oberriet (SG)
+9463	SG	3254	Oberriet (SG)
+9465	SG	3274	Sennwald
+9466	SG	3274	Sennwald
+9467	SG	3274	Sennwald
+9468	SG	3274	Sennwald
+9469	SG	3274	Sennwald
+9472	SG	3273	Grabs
+9473	SG	3272	Gams
+9475	SG	3275	Sevelen
+9476	SG	3276	Wartau
+9477	SG	3276	Wartau
+9478	SG	3276	Wartau
+9479	SG	3276	Wartau
+9500	SG	3425	Wil (SG)
+9502	TG	4723	Braunau
+9503	TG	4921	Bussnang
+9504	TG	4921	Bussnang
+9506	TG	4741	Lommis
+9507	TG	4606	Stettfurt
+9508	TG	4741	Lommis
+9512	SG	3421	Bronschhofen
+9514	TG	4791	Wuppenau
+9515	TG	4791	Wuppenau
+9517	TG	4921	Bussnang
+9523	SG	3426	Zuzwil (SG)
+9525	SG	3423	Niederhelfenschwil
+9526	SG	3423	Niederhelfenschwil
+9527	SG	3423	Niederhelfenschwil
+9532	TG	4751	Rickenbach (TG)
+9533	SG	3392	Kirchberg (SG)
+9534	SG	3392	Kirchberg (SG)
+9535	TG	4786	Wilen (TG)
+9536	SG	3405	Jonschwil
+9542	TG	4746	Münchwilen (TG)
+9545	TG	4781	Wängi
+9546	TG	4781	Wängi
+9547	TG	4551	Aadorf
+9552	SG	3421	Bronschhofen
+9553	TG	4716	Bettwiesen
+9554	TG	4776	Tobel-Tägerschen
+9555	TG	4776	Tobel-Tägerschen
+9556	TG	4711	Affeltrangen
+9562	TG	4711	Affeltrangen
+9565	TG	4921	Bussnang
+9573	TG	4761	Sirnach
+9602	SG	3392	Kirchberg (SG)
+9606	SG	3391	Bütschwil
+9607	SG	3394	Mosnang
+9608	SG	3403	Ganterschwil
+9612	SG	3394	Mosnang
+9613	SG	3394	Mosnang
+9614	SG	3394	Mosnang
+9615	SG	3391	Bütschwil
+9621	SG	3375	Oberhelfenschwil
+9622	SG	3373	Krinau
+9631	SG	3377	Wattwil
+9633	SG	3372	Hemberg
+9642	SG	3352	Ebnat-Kappel
+9643	SG	3358	Nesslau-Krummenau
+9650	SG	3358	Nesslau-Krummenau
+9651	SG	3358	Nesslau-Krummenau
+9652	SG	3358	Nesslau-Krummenau
+9655	SG	3356	Stein (SG)
+9656	SG	3359	Wildhaus-Alt St. Johann
+9657	SG	3359	Wildhaus-Alt St. Johann
+9658	SG	3359	Wildhaus-Alt St. Johann

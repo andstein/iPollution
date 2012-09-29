@@ -1,0 +1,2584 @@
+1	1820	Aeugst am Albis
+2	10970	Affoltern am Albis
+3	5141	Bonstetten
+4	3350	Hausen am Albis
+5	3403	Hedingen
+6	922	Kappel am Albis
+7	1801	Knonau
+8	610	Maschwanden
+9	4232	Mettmenstetten
+10	4660	Obfelden
+11	2405	Ottenbach
+12	898	Rifferswil
+13	3160	Stallikon
+14	4517	Wettswil am Albis
+21	576	Adlikon
+22	796	Benken (ZH)
+23	599	Berg am Irchel
+24	874	Buch am Irchel
+25	1922	Dachsen
+26	628	Dorf
+27	3450	Feuerthalen
+28	1222	Flaach
+29	1426	Flurlingen
+30	1854	Andelfingen
+31	2206	Henggart
+32	457	Humlikon
+33	2071	Kleinandelfingen
+34	1506	Laufen-Uhwiesen
+35	1935	Marthalen
+36	1084	Oberstammheim
+37	1341	Ossingen
+38	1293	Rheinau
+39	810	Thalheim an der Thur
+40	991	Trüllikon
+41	477	Truttikon
+42	866	Unterstammheim
+43	309	Volken
+44	684	Waltalingen
+51	3864	Bachenbülach
+52	11029	Bassersdorf
+53	17412	Bülach
+54	7019	Dietlikon
+55	4215	Eglisau
+56	8831	Embrach
+57	2288	Freienstein-Teufen
+58	4254	Glattfelden
+59	1986	Hochfelden
+60	2445	Höri
+61	947	Hüntwangen
+62	18025	Kloten
+63	1754	Lufingen
+64	5172	Nürensdorf
+65	972	Oberembrach
+66	15618	Opfikon
+67	4020	Rafz
+68	2335	Rorbas
+69	13589	Wallisellen
+70	559	Wasterkingen
+71	1283	Wil (ZH)
+72	3913	Winkel
+81	570	Bachs
+82	1285	Boppelsen
+83	5507	Buchs (ZH)
+84	3611	Dällikon
+85	1891	Dänikon
+86	5631	Dielsdorf
+87	661	Hüttikon
+88	2969	Neerach
+89	4564	Niederglatt
+90	8522	Niederhasli
+91	2708	Niederweningen
+92	5843	Oberglatt
+93	1740	Oberweningen
+94	2455	Otelfingen
+95	482	Regensberg
+96	16502	Regensdorf
+97	6705	Rümlang
+98	716	Schleinikon
+99	1348	Schöfflisdorf
+100	1969	Stadel
+101	3171	Steinmaur
+102	984	Weiach
+111	4785	Bäretswil
+112	6580	Bubikon
+113	6653	Dürnten
+114	2279	Fischenthal
+115	9529	Gossau (ZH)
+116	3157	Grüningen
+117	10329	Hinwil
+118	11912	Rüti (ZH)
+119	1288	Seegräben
+120	8948	Wald (ZH)
+121	22034	Wetzikon (ZH)
+131	16528	Adliswil
+132	2104	Hirzel
+133	18897	Horgen
+134	890	Hütten
+135	7431	Kilchberg (ZH)
+136	7249	Langnau am Albis
+137	4939	Oberrieden
+138	12326	Richterswil
+139	5265	Rüschlikon
+140	1921	Schönenberg (ZH)
+141	17159	Thalwil
+142	20327	Wädenswil
+151	5262	Erlenbach (ZH)
+152	6047	Herrliberg
+153	7957	Hombrechtikon
+154	13513	Küsnacht (ZH)
+155	10412	Männedorf
+156	12478	Meilen
+157	4368	Oetwil am See
+158	13883	Stäfa
+159	5710	Uetikon am See
+160	5071	Zumikon
+161	12044	Zollikon
+171	4165	Bauma
+172	5873	Fehraltorf
+173	3450	Hittnau
+174	15546	Illnau-Effretikon
+175	413	Kyburg
+176	4996	Lindau
+177	10565	Pfäffikon
+178	4062	Russikon
+179	360	Sternenberg
+180	3207	Weisslingen
+181	1933	Wila
+182	961	Wildberg
+191	24621	Dübendorf
+192	7999	Egg
+193	7959	Fällanden
+194	5075	Greifensee
+195	9510	Maur
+196	3423	Mönchaltorf
+197	4433	Schwerzenbach
+198	32614	Uster
+199	17367	Volketswil
+200	7532	Wangen-Brüttisellen
+211	601	Altikon
+212	1043	Bertschikon
+213	1927	Brütten
+214	1006	Dägerlen
+215	747	Dättlikon
+216	1387	Dinhard
+217	3897	Elgg
+218	876	Ellikon an der Thur
+219	3327	Elsau
+220	1095	Hagenbuch
+221	2946	Hettlingen
+222	447	Hofstetten (ZH)
+223	5213	Neftenbach
+224	2953	Pfungen
+225	2495	Rickenbach (ZH)
+226	729	Schlatt (ZH)
+227	7024	Seuzach
+228	4181	Turbenthal
+229	4781	Wiesendangen
+230	100947	Winterthur
+231	5347	Zell (ZH)
+241	1033	Aesch (ZH)
+242	5871	Birmensdorf (ZH)
+243	23519	Dietikon
+244	4661	Geroldswil
+245	6334	Oberengstringen
+246	2284	Oetwil an der Limmat
+247	16077	Schlieren
+248	3876	Uitikon
+249	3360	Unterengstringen
+250	8979	Urdorf
+251	4257	Weiningen (ZH)
+261	371633	Zürich
+431	1529	Corgémont
+432	506	Cormoret
+433	705	Cortébert
+434	1245	Courtelary
+435	545	La Ferrière
+436	483	La Heutte
+437	121	Mont-Tramelan
+438	1188	Orvin
+439	1352	Péry
+440	360	Plagne
+441	851	Renan (BE)
+442	200	Romont (BE)
+443	4748	Saint-Imier
+444	1765	Sonceboz-Sombeval
+445	1185	Sonvilier
+446	4262	Tramelan
+447	428	Vauffelin
+448	886	Villeret
+681	298	Belprahon
+682	1685	Bévilard
+683	154	Champoz
+684	118	Châtelat
+687	223	Corcelles (BE)
+690	1396	Court
+691	530	Crémines
+692	378	Eschert
+694	354	Grandval
+696	317	Loveresse
+697	1953	Malleray
+699	43	Monible
+700	7446	Moutier
+701	481	Perrefitte
+702	210	Pontenet
+703	2226	Reconvilier
+704	221	Roches (BE)
+706	594	Saicourt
+707	151	Saules (BE)
+708	41	Schelten
+709	69	Seehof
+710	126	Sornetan
+711	264	Sorvilier
+712	132	Souboz
+713	3464	Tavannes
+715	49	Rebévelier
+721	442	Diesse
+722	673	Lamboing
+723	3498	La Neuveville
+724	749	Nods
+725	902	Prêles
+371	50673	Biel/Bienne
+372	2400	Evilard
+387	4589	Lengnau (BE)
+390	1267	Meinisberg
+392	3535	Pieterlen
+731	1717	Aegerten
+732	1461	Bellmund
+733	4135	Brügg
+739	3887	Ipsach
+740	526	Ligerz
+742	876	Mörigen
+743	6782	Nidau
+744	2653	Orpund
+745	3309	Port
+746	1874	Safnern
+747	434	Scheuren
+748	654	Schwadernau
+750	1347	Sutz-Lattrigen
+756	1136	Twann-Tüscherz
+301	4089	Aarberg
+302	986	Bargen (BE)
+303	2793	Grossaffoltern
+304	1543	Kallnach
+305	1257	Kappelen
+306	11816	Lyss
+308	295	Niederried bei Kallnach
+309	1177	Radelfingen
+310	2105	Rapperswil (BE)
+311	3393	Schüpfen
+312	2991	Seedorf (BE)
+381	1535	Arch
+382	790	Büetigen
+383	3256	Büren an der Aare
+384	1897	Busswil bei Büren
+385	889	Diessbach bei Büren
+386	1328	Dotzigen
+388	1191	Leuzigen
+389	54	Meienried
+391	800	Oberwil bei Büren
+393	846	Rüti bei Büren
+394	615	Wengi
+491	571	Brüttelen
+492	1243	Erlach
+493	491	Finsterhennen
+494	719	Gals
+495	767	Gampelen
+496	3206	Ins
+497	532	Lüscherz
+498	1294	Müntschemier
+499	546	Siselen
+500	420	Treiten
+501	447	Tschugg
+502	813	Vinelz
+532	157	Bangerten
+548	261	Ruppoldsried
+734	416	Bühl
+735	333	Epsach
+736	418	Hagneck
+737	242	Hermrigen
+738	680	Jens
+741	405	Merzligen
+749	2812	Studen (BE)
+751	2557	Täuffelen
+754	915	Walperswil
+755	2244	Worben
+321	4204	Aarwangen
+322	459	Auswil
+323	678	Bannwil
+324	654	Bleienbach
+325	201	Busswil bei Melchnau
+326	717	Gondiswil
+328	495	Kleindietwil
+329	15263	Langenthal
+330	398	Leimiswil
+331	2471	Lotzwil
+332	2203	Madiswil
+333	1541	Melchnau
+334	407	Obersteckholz
+335	242	Oeschenbach
+336	195	Reisiswil
+337	3834	Roggwil (BE)
+338	1399	Rohrbach
+339	422	Rohrbachgraben
+340	577	Rütschelen
+341	484	Schwarzhäusern
+342	3044	Thunstetten
+344	926	Ursenbach
+345	1529	Wynau
+953	1369	Eriswil
+954	4703	Huttwil
+959	539	Walterswil (BE)
+960	1169	Wyssachen
+971	1319	Attiswil
+972	48	Berken
+973	476	Bettenhausen
+974	205	Bollodingen
+975	204	Farnern
+976	310	Graben
+977	1004	Heimenhausen
+978	91	Hermiswil
+979	6750	Herzogenbuchsee
+980	634	Inkwil
+981	4085	Niederbipp
+982	1549	Niederönz
+983	1560	Oberbipp
+985	576	Ochlenberg
+987	487	Rumisberg
+988	1367	Seeberg
+989	1025	Thörigen
+990	206	Walliswil bei Niederbipp
+991	588	Walliswil bei Wangen
+992	2046	Wangen an der Aare
+993	396	Wangenried
+995	2152	Wiedlisbach
+996	201	Wolfisberg
+401	1007	Aefligen
+402	570	Alchenstorf
+404	15351	Burgdorf
+405	1573	Ersigen
+406	3122	Hasle bei Burgdorf
+407	1630	Heimiswil
+408	190	Hellsau
+409	2043	Hindelbank
+410	256	Höchstetten
+411	443	Kernenried
+412	5552	Kirchberg (BE)
+413	2064	Koppigen
+414	2298	Krauchthal
+415	1451	Lyssach
+416	138	Mötschwil
+417	242	Niederösch
+418	2862	Oberburg
+419	111	Oberösch
+420	2163	Rüdtligen-Alchenflüh
+421	79	Rumendingen
+422	168	Rüti bei Lyssach
+423	197	Willadingen
+424	2038	Wynigen
+533	3140	Bätterkinden
+552	4065	Utzenstorf
+554	813	Wiler bei Utzenstorf
+556	321	Zielebach
+901	2460	Eggiwil
+902	8945	Langnau im Emmental
+903	2667	Lauperswil
+904	1274	Röthenbach im Emmental
+905	2378	Rüderswil
+906	926	Schangnau
+907	2736	Signau
+908	1393	Trub
+909	1407	Trubschachen
+951	1143	Affoltern im Emmental
+952	1080	Dürrenroth
+955	4076	Lützelflüh
+956	3040	Rüegsau
+957	5023	Sumiswald
+958	1026	Trachselwald
+307	2342	Meikirch
+351	123841	Bern
+352	6117	Bolligen
+353	4196	Bremgarten bei Bern
+354	2822	Kirchlindach
+355	38701	Köniz
+356	12738	Muri bei Bern
+357	875	Oberbalm
+358	2902	Stettlen
+359	4691	Vechigen
+360	8892	Wohlen bei Bern
+361	9745	Zollikofen
+362	10738	Ittigen
+363	15399	Ostermundigen
+403	995	Bäriswil
+534	482	Büren zum Hof
+535	96	Deisswil bei Münchenbuchsee
+536	207	Diemerswil
+537	294	Etzelkofen
+538	1771	Fraubrunnen
+539	971	Grafenried
+540	4675	Jegenstorf
+541	416	Iffwil
+542	341	Limpach
+543	589	Mattstetten
+544	3565	Moosseedorf
+545	226	Mülchi
+546	9715	Münchenbuchsee
+547	590	Münchringen
+549	374	Schalunen
+550	78	Scheunen
+551	5661	Urtenen-Schönbühl
+553	101	Wiggiswil
+555	317	Zauggenried
+557	571	Zuzwil (BE)
+602	948	Arni (BE)
+603	1723	Biglen
+604	382	Bleiken bei Oberdiessbach
+605	1359	Bowil
+606	533	Brenzikofen
+607	426	Freimettigen
+608	3279	Grosshöchstetten
+609	237	Häutligen
+610	552	Herbligen
+611	838	Kiesen
+612	4733	Konolfingen
+613	625	Landiswil
+614	1313	Linden
+615	573	Mirchel
+616	11082	Münsingen
+617	647	Niederhünigen
+619	3108	Oberdiessbach
+620	785	Oberthal
+622	669	Oppligen
+623	2862	Rubigen
+624	661	Schlosswil
+625	411	Tägertschi
+626	1826	Walkringen
+627	11316	Worb
+628	1563	Zäziwil
+629	324	Oberhünigen
+630	515	Allmendingen
+631	500	Trimstein
+632	4001	Wichtrach
+661	49	Clavaleyres
+662	1236	Ferenbalm
+663	1255	Frauenkappelen
+664	291	Golaten
+665	252	Gurbrü
+666	409	Kriechenwil
+667	2799	Laupen
+668	2655	Mühleberg
+669	461	Münchenwiler
+670	4862	Neuenegg
+671	397	Wileroltigen
+851	471	Albligen
+852	1561	Guggisberg
+853	1654	Rüschegg
+854	6240	Wahlern
+861	10159	Belp
+862	406	Belpberg
+865	247	Gelterfingen
+866	1109	Gerzensee
+868	259	Jaberg
+869	1023	Kaufdorf
+870	4170	Kehrsatz
+872	811	Kirchdorf (BE)
+873	273	Kirchenthurnen
+874	223	Lohnstorf
+875	236	Mühledorf (BE)
+876	1359	Mühlethurnen
+877	542	Niedermuhlern
+878	256	Noflen
+879	2396	Riggisberg
+880	1858	Rüeggisberg
+881	447	Rümligen
+884	2491	Toffen
+888	1175	Wald (BE)
+764	253	Niederstocken
+765	285	Oberstocken
+767	954	Reutigen
+863	1030	Burgistein
+867	813	Gurzelen
+871	48	Kienersrüti
+883	2117	Seftigen
+885	1795	Uttigen
+886	2653	Wattenwil
+921	804	Amsoldingen
+922	1169	Blumenstein
+923	1529	Buchholterberg
+924	499	Eriz
+925	746	Fahrni
+927	664	Heiligenschwendi
+928	6272	Heimberg
+929	3989	Hilterfingen
+930	423	Höfen
+931	501	Homberg
+932	258	Horrenbach-Buchen
+934	2299	Oberhofen am Thunersee
+935	489	Oberlangenegg
+936	272	Pohlern
+937	264	Schwendibach
+938	4585	Sigriswil
+939	15389	Steffisburg
+940	172	Teuffenthal (BE)
+941	2289	Thierachern
+942	42726	Thun
+943	696	Uebeschi
+944	5961	Uetendorf
+945	901	Unterlangenegg
+946	230	Wachseldorn
+947	271	Zwieselberg
+948	734	Forst-Längenbühl
+791	1373	Boltigen
+792	2407	Lenk
+793	1368	St. Stephan
+794	2929	Zweisimmen
+841	978	Gsteig
+842	816	Lauenen
+843	6972	Saanen
+561	3566	Adelboden
+562	2065	Aeschi bei Spiez
+563	6703	Frutigen
+564	812	Kandergrund
+565	1198	Kandersteg
+566	977	Krattigen
+567	3461	Reichenbach im Kandertal
+761	847	Därstetten
+762	2156	Diemtigen
+763	1702	Erlenbach im Simmental
+766	803	Oberwil im Simmental
+768	12408	Spiez
+769	2377	Wimmis
+571	1147	Beatenberg
+572	2444	Bönigen
+573	3019	Brienz (BE)
+574	514	Brienzwiler
+575	417	Därligen
+576	3826	Grindelwald
+577	425	Gsteigwiler
+578	285	Gündlischwand
+579	634	Habkern
+580	571	Hofstetten bei Brienz
+581	5382	Interlaken
+582	435	Iseltwald
+584	2501	Lauterbrunnen
+585	932	Leissigen
+586	239	Lütschental
+587	3770	Matten bei Interlaken
+588	331	Niederried bei Interlaken
+589	497	Oberried am Brienzersee
+590	2632	Ringgenberg (BE)
+591	100	Saxeten
+592	613	Schwanden bei Brienz
+593	5568	Unterseen
+594	2502	Wilderswil
+781	231	Gadmen
+782	312	Guttannen
+783	1237	Hasliberg
+784	856	Innertkirchen
+785	4578	Meiringen
+786	596	Schattenhalb
+1001	718	Doppleschwand
+1002	3286	Entlebuch
+1003	3135	Escholzmatt
+1004	1889	Flühli
+1005	1736	Hasle (LU)
+1006	1178	Marbach (LU)
+1007	689	Romoos
+1008	3888	Schüpfheim
+1009	1916	Werthenstein
+1021	966	Aesch (LU)
+1022	383	Altwis
+1023	2515	Ballwil
+1024	27980	Emmen
+1025	864	Ermensee
+1026	3441	Eschenbach (LU)
+1030	4691	Hitzkirch
+1031	8617	Hochdorf
+1032	2345	Hohenrain
+1033	2097	Inwil
+1037	2380	Rain
+1039	1629	Römerswil
+1040	7084	Rothenburg
+1041	864	Schongau
+1051	5482	Adligenswil
+1052	5857	Buchrain
+1053	1451	Dierikon
+1054	12027	Ebikon
+1055	1093	Gisikon
+1056	960	Greppen
+1057	366	Honau
+1058	13524	Horw
+1059	26176	Kriens
+1061	77198	Luzern
+1062	6650	Malters
+1063	6596	Meggen
+1064	1237	Meierskappel
+1065	4518	Root
+1066	1629	Schwarzenberg
+1067	2186	Udligenswil
+1068	1264	Vitznau
+1069	4239	Weggis
+1081	4647	Beromünster
+1082	2193	Büron
+1083	3108	Buttisholz
+1084	1660	Eich
+1085	2413	Geuensee
+1086	2930	Grosswangen
+1088	1905	Hildisrieden
+1089	1965	Knutwil
+1091	1148	Mauensee
+1092	1182	Neudorf
+1093	6110	Neuenkirch
+1094	3363	Nottwil
+1095	3680	Oberkirch
+1096	731	Pfeffikon
+1097	2263	Rickenbach (LU)
+1098	6574	Ruswil
+1099	2534	Schenkon
+1100	689	Schlierbach
+1102	4029	Sempach
+1103	8920	Sursee
+1104	4388	Triengen
+1107	4202	Wolhusen
+1121	570	Alberswil
+1122	917	Altbüron
+1123	1382	Altishofen
+1125	4970	Dagmersellen
+1126	418	Ebersecken
+1127	1283	Egolzwil
+1128	2406	Ettiswil
+1129	737	Fischbach
+1130	1016	Gettnau
+1131	836	Grossdietwil
+1132	1821	Hergiswil bei Willisau
+1135	1366	Luthern
+1136	2827	Menznau
+1137	2326	Nebikon
+1138	312	Ohmstal
+1139	2175	Pfaffnau
+1140	6471	Reiden
+1142	629	Roggliswil
+1143	3446	Schötz
+1145	849	Ufhusen
+1146	1722	Wauwil
+1147	1363	Wikon
+1150	1966	Zell (LU)
+1151	7209	Willisau
+1201	8814	Altdorf (UR)
+1202	1297	Andermatt
+1203	1578	Attinghausen
+1204	184	Bauen
+1205	3953	Bürglen (UR)
+1206	3734	Erstfeld
+1207	1942	Flüelen
+1208	406	Göschenen
+1209	596	Gurtnellen
+1210	179	Hospental
+1211	523	Isenthal
+1212	144	Realp
+1213	4932	Schattdorf
+1214	1735	Seedorf (UR)
+1215	661	Seelisberg
+1216	2217	Silenen
+1217	394	Sisikon
+1218	880	Spiringen
+1219	701	Unterschächen
+1220	431	Wassen
+1301	14364	Einsiedeln
+1311	2087	Gersau
+1321	4755	Feusisberg
+1322	15610	Freienbach
+1323	6953	Wollerau
+1331	12208	Küssnacht (SZ)
+1341	6032	Altendorf
+1342	4635	Galgenen
+1343	199	Innerthal
+1344	7809	Lachen
+1345	3128	Reichenburg
+1346	8383	Schübelbach
+1347	2965	Tuggen
+1348	1017	Vorderthal
+1349	4650	Wangen (SZ)
+1361	562	Alpthal
+1362	10671	Arth
+1363	789	Illgau
+1364	8385	Ingenbohl
+1365	1052	Lauerz
+1366	1026	Morschach
+1367	3544	Muotathal
+1368	810	Oberiberg
+1369	88	Riemenstalden
+1370	2132	Rothenthurm
+1371	1776	Sattel
+1372	14328	Schwyz
+1373	3168	Steinen
+1374	860	Steinerberg
+1375	2299	Unteriberg
+1401	5559	Alpnach
+1402	3909	Engelberg
+1403	3600	Giswil
+1404	5576	Kerns
+1405	2073	Lungern
+1406	4846	Sachseln
+1407	9929	Sarnen
+1501	3297	Beckenried
+1502	5316	Buochs
+1503	1795	Dallenwil
+1504	1244	Emmetten
+1505	4320	Ennetbürgen
+1506	2075	Ennetmoos
+1507	5478	Hergiswil (NW)
+1508	3066	Oberdorf (NW)
+1509	7884	Stans
+1510	4440	Stansstad
+1511	2007	Wolfenschiessen
+1601	183	Betschwanden
+1602	1996	Bilten
+1603	303	Braunwald
+1605	653	Elm
+1606	610	Engi
+1607	2674	Ennenda
+1608	505	Filzbach
+1609	5856	Glarus
+1610	996	Haslen
+1613	1096	Linthal
+1614	1120	Luchsingen
+1615	364	Matt
+1616	993	Mitlödi
+1617	3329	Mollis
+1618	415	Mühlehorn
+1619	4011	Näfels
+1620	2867	Netstal
+1622	3937	Niederurnen
+1623	1957	Oberurnen
+1624	455	Obstalden
+1625	733	Riedern
+1626	332	Rüti (GL)
+1627	2390	Schwanden (GL)
+1628	476	Schwändi
+1629	317	Sool
+1701	21709	Baar
+1702	14776	Cham
+1703	8512	Hünenberg
+1704	4361	Menzingen
+1705	1948	Neuheim
+1706	5427	Oberägeri
+1707	9135	Risch
+1708	9063	Steinhausen
+1709	8000	Unterägeri
+1710	3580	Walchwil
+1711	25726	Zug
+2004	360	Bussy (FR)
+2005	664	Châbles
+2008	354	Châtillon (FR)
+2009	344	Cheiry
+2010	1154	Cheyres
+2011	1419	Cugy (FR)
+2013	2689	Domdidier
+2014	772	Dompierre (FR)
+2015	5164	Estavayer-le-Lac
+2016	841	Fétigny
+2017	342	Font
+2022	785	Gletterens
+2024	623	Léchelles
+2025	922	Lully (FR)
+2027	315	Ménières
+2029	2065	Montagny (FR)
+2033	149	Morens (FR)
+2034	566	Murist
+2035	368	Nuvilly
+2038	65	Prévondavaux
+2039	322	Rueyres-les-Prés
+2040	207	Russy
+2041	1391	Saint-Aubin (FR)
+2043	249	Sévaz
+2044	299	Surpierre
+2045	332	Vallon
+2047	327	Villeneuve (FR)
+2049	178	Vuissens
+2050	1267	Les Montets
+2051	904	Delley-Portalban
+2052	1027	Vernay
+2061	270	Auboranges
+2063	661	Billens-Hennens
+2066	249	Chapelle (Glâne)
+2067	346	Le Châtelard
+2068	732	Châtonnaye
+2072	284	Ecublens (FR)
+2079	176	Grangettes
+2086	437	Massonnens
+2087	1004	Mézières (FR)
+2089	354	Montet (Glâne)
+2096	4523	Romont (FR)
+2097	1218	Rue
+2099	2071	Siviriez
+2102	1808	Ursy
+2111	965	Villaz-Saint-Pierre
+2112	602	Vuarmarens
+2113	1974	Vuisternens-devant-Romont
+2114	1258	Villorsonnens
+2115	813	Torny
+2116	876	La Folliaz
+2121	1416	Haut-Intyamon
+2122	1596	Pont-en-Ogoz
+2123	483	Botterens
+2124	2288	Broc
+2125	18763	Bulle
+2126	334	Cerniat (FR)
+2127	1849	Charmey
+2128	241	Châtel-sur-Montsalvens
+2129	420	Corbières
+2130	295	Crésuz
+2131	712	Echarlens
+2134	699	Grandvillard
+2135	1792	Gruyères
+2137	555	Hauteville
+2138	690	Jaun
+2140	1596	Marsens
+2143	585	Morlon
+2145	1096	Le Pâquier (FR)
+2147	578	Pont-la-Ville
+2148	2156	Riaz
+2149	1400	La Roche
+2152	1397	Sâles
+2153	914	Sorens
+2155	995	Vaulruz
+2159	268	Villarvolard
+2160	1977	Vuadens
+2162	1124	Bas-Intyamon
+2171	765	Arconciel
+2172	71	Autafond
+2173	696	Autigny
+2174	1704	Avry
+2175	2699	Belfaux
+2177	657	Chénens
+2179	120	Chésopelloz
+2183	2120	Corminboeuf
+2184	1160	Corpataux-Magnedens
+2185	335	Corserey
+2186	1327	Cottens (FR)
+2189	1025	Ependes (FR)
+2192	2094	Farvagny
+2194	257	Ferpicloz
+2196	34718	Fribourg
+2197	3012	Givisiez
+2198	2605	Granges-Paccot
+2200	1697	Grolley
+2206	7577	Marly
+2208	1556	Matran
+2211	2135	Neyruz (FR)
+2213	563	Noréaz
+2216	146	Pierrafortscha
+2217	639	Ponthaux
+2220	2920	Le Mouret
+2221	889	Prez-vers-Noréaz
+2222	1210	Rossens (FR)
+2223	1121	Le Glèbe
+2225	123	Senèdes
+2226	1437	Treyvaux
+2228	11313	Villars-sur-Glâne
+2230	87	Villarsel-sur-Marly
+2231	849	Vuisternens-en-Ogoz
+2233	2202	Hauterive (FR)
+2234	1750	La Brillaz
+2235	1011	La Sonnaz
+2243	514	Barberêche
+2244	175	Büchslen
+2250	1276	Courgevaux
+2251	308	Courlevon
+2254	3233	Courtepin
+2257	836	Cressier (FR)
+2258	482	Fräschels
+2259	610	Galmiz
+2260	286	Gempenach
+2261	168	Greng
+2262	3861	Gurmels
+2264	422	Jeuss
+2265	4586	Kerzers
+2266	586	Kleinbösingen
+2270	185	Lurtigen
+2271	593	Meyriez
+2272	1498	Misery-Courtion
+2274	929	Muntelier
+2275	6157	Murten
+2276	998	Ried bei Kerzers
+2277	487	Salvenach
+2278	420	Ulmiz
+2279	545	Villarepos
+2280	1962	Bas-Vully
+2281	1365	Haut-Vully
+2283	435	Wallenried
+2291	1916	Alterswil
+2292	645	Brünisried
+2293	7302	Düdingen
+2294	1418	Giffers
+2295	3281	Bösingen
+2296	1294	Heitenried
+2298	1143	Oberschrot
+2299	1910	Plaffeien
+2300	993	Plasselb
+2301	1082	Rechthalten
+2302	1919	St. Antoni
+2303	918	St. Silvester
+2304	1254	St. Ursen
+2305	3775	Schmitten (FR)
+2306	2840	Tafers
+2307	1211	Tentlingen
+2308	2371	Ueberstorf
+2309	5327	Wünnewil-Flamatt
+2310	412	Zumholz
+2321	2907	Attalens
+2323	1354	Bossonnens
+2325	5737	Châtel-Saint-Denis
+2328	821	Granges (Veveyse)
+2333	910	Remaufens
+2335	948	Saint-Martin (FR)
+2336	1206	Semsales
+2337	1022	Le Flon
+2338	1097	La Verrerie
+2401	3029	Egerkingen
+2402	1335	Härkingen
+2403	1665	Kestenholz
+2404	1896	Neuendorf
+2405	952	Niederbuchsiten
+2406	1897	Oberbuchsiten
+2407	5222	Oensingen
+2408	2016	Wolfwil
+2421	560	Aedermannsdorf
+2422	5752	Balsthal
+2423	95	Gänsbrunnen
+2424	535	Herbetswil
+2425	616	Holderbank (SO)
+2426	1684	Laupersdorf
+2427	1276	Matzendorf
+2428	2514	Mümliswil-Ramiswil
+2429	1125	Welschenrohr
+2441	173	Aetigkofen
+2442	301	Aetingen
+2444	246	Bibern (SO)
+2445	322	Biezwil
+2446	204	Brügglen
+2449	192	Gossliwil
+2450	262	Hessigkofen
+2452	255	Küttigkofen
+2453	341	Kyburg-Buchegg
+2454	510	Lüsslingen
+2455	725	Lüterkofen-Ichertswil
+2456	335	Lüterswil-Gächliwil
+2457	1402	Messen
+2458	322	Mühledorf (SO)
+2459	484	Nennigkofen
+2461	1017	Schnottwil
+2462	198	Tscheppach
+2463	210	Unterramsern
+2471	1183	Bättwil
+2472	938	Büren (SO)
+2473	6194	Dornach
+2474	802	Gempen
+2475	1225	Hochwald
+2476	3015	Hofstetten-Flüh
+2477	901	Metzerlen-Mariastein
+2478	1466	Nuglar-St.Pantaleon
+2479	1296	Rodersdorf
+2480	1006	Seewen
+2481	1377	Witterswil
+2491	310	Hauenstein-Ifenthal
+2492	505	Kienberg
+2493	3818	Lostorf
+2495	3764	Niedergösgen
+2497	2108	Obergösgen
+2498	90	Rohr (SO)
+2499	998	Stüsslingen
+2500	6307	Trimbach
+2501	1649	Winznau
+2502	416	Wisen (SO)
+2503	3194	Erlinsbach (SO)
+2511	1016	Aeschi (SO)
+2513	7921	Biberist
+2514	541	Bolken
+2516	2155	Deitingen
+2517	6023	Derendingen
+2518	751	Etziken
+2519	4805	Gerlafingen
+2520	824	Halten
+2521	558	Heinrichswil-Winistorf
+2522	182	Hersiwil
+2523	796	Horriwil
+2524	92	Hüniken
+2525	1227	Kriegstetten
+2526	2591	Lohn-Ammannsegg
+2527	3276	Luterbach
+2528	1094	Obergerlafingen
+2529	748	Oekingen
+2530	1683	Recherswil
+2531	142	Steinhof
+2532	2916	Subingen
+2534	8740	Zuchwil
+2541	185	Balm bei Günsberg
+2542	5149	Bellach
+2543	4825	Bettlach
+2544	937	Feldbrunnen-St.Niklaus
+2545	975	Flumenthal
+2546	15881	Grenchen
+2547	1139	Günsberg
+2548	707	Hubersdorf
+2549	39	Kammersrohr
+2550	3601	Langendorf
+2551	1427	Lommiswil
+2552	395	Niederwil (SO)
+2553	1643	Oberdorf (SO)
+2554	1711	Riedholz
+2555	1445	Rüttenen
+2556	3094	Selzach
+2571	703	Boningen
+2572	2674	Däniken
+2573	4698	Dulliken
+2574	304	Eppenberg-Wöschnau
+2575	1637	Fulenbach
+2576	2437	Gretzenbach
+2578	1633	Gunzgen
+2579	4603	Hägendorf
+2580	2914	Kappel (SO)
+2581	16982	Olten
+2582	904	Rickenbach (SO)
+2583	4667	Schönenwerd
+2584	1590	Starrkirch-Wil
+2585	716	Walterswil (SO)
+2586	4777	Wangen bei Olten
+2601	16139	Solothurn
+2611	866	Bärschwil
+2612	299	Beinwil (SO)
+2613	3502	Breitenbach
+2614	1995	Büsserach
+2615	903	Erschwil
+2616	616	Fehren
+2617	488	Grindel
+2618	921	Himmelried
+2619	1250	Kleinlützel
+2620	630	Meltingen
+2621	1842	Nunningen
+2622	604	Zullwil
+2701	167458	Basel
+2702	1173	Bettingen
+2703	20800	Riehen
+2761	10186	Aesch (BL)
+2762	19283	Allschwil
+2763	9005	Arlesheim
+2764	3099	Biel-Benken
+2765	14749	Binningen
+2766	10298	Birsfelden
+2767	6120	Bottmingen
+2768	4817	Ettingen
+2769	11708	Münchenstein
+2770	17241	Muttenz
+2771	10515	Oberwil (BL)
+2772	2174	Pfeffingen
+2773	18641	Reinach (BL)
+2774	1428	Schönenbuch
+2775	9605	Therwil
+2781	687	Blauen
+2782	1599	Brislach
+2783	244	Burg im Leimental
+2784	739	Dittingen
+2785	1447	Duggingen
+2786	1726	Grellingen
+2787	5192	Laufen
+2788	1194	Liesberg
+2789	432	Nenzlingen
+2790	287	Roggenburg
+2791	1809	Röschenz
+2792	1328	Wahlen
+2793	2172	Zwingen
+2821	1563	Arisdorf
+2822	862	Augst
+2823	4348	Bubendorf
+2824	6131	Frenkendorf
+2825	4275	Füllinsdorf
+2826	985	Giebenach
+2827	306	Hersberg
+2828	4842	Lausen
+2829	13543	Liestal
+2830	1352	Lupsingen
+2831	15286	Pratteln
+2832	692	Ramlinsburg
+2833	1282	Seltisberg
+2834	1573	Ziefen
+2841	591	Anwil
+2842	779	Böckten
+2843	692	Buckten
+2844	941	Buus
+2845	573	Diepflingen
+2846	5688	Gelterkinden
+2847	259	Häfelfingen
+2848	269	Hemmiken
+2849	1952	Itingen
+2850	495	Känerkinden
+2851	139	Kilchberg (BL)
+2852	1262	Läufelfingen
+2853	947	Maisprach
+2854	216	Nusshof
+2855	440	Oltingen
+2856	1939	Ormalingen
+2857	546	Rickenbach (BL)
+2858	746	Rothenfluh
+2859	365	Rümlingen
+2860	783	Rünenberg
+2861	6241	Sissach
+2862	822	Tecknau
+2863	869	Tenniken
+2864	1365	Thürnen
+2865	685	Wenslingen
+2866	630	Wintersingen
+2867	410	Wittinsburg
+2868	455	Zeglingen
+2869	2523	Zunzgen
+2881	515	Arboldswil
+2882	630	Bennwil
+2883	787	Bretzwil
+2884	1548	Diegten
+2885	530	Eptingen
+2886	2300	Hölstein
+2887	518	Lampenberg
+2888	982	Langenbruck
+2889	333	Lauwil
+2890	159	Liedertswil
+2891	1746	Niederdorf
+2892	2261	Oberdorf (BL)
+2893	1554	Reigoldswil
+2894	416	Titterten
+2895	1221	Waldenburg
+2901	778	Gächlingen
+2902	237	Guntmadingen
+2903	1312	Löhningen
+2904	1945	Neunkirch
+2914	353	Büttenhardt
+2915	856	Dörflingen
+2917	671	Lohn (SH)
+2919	1152	Stetten (SH)
+2920	4893	Thayngen
+2931	263	Bargen (SH)
+2932	3489	Beringen
+2933	851	Buchberg
+2936	801	Merishausen
+2937	10180	Neuhausen am Rheinfall
+2938	714	Rüdlingen
+2939	34922	Schaffhausen
+2951	519	Beggingen
+2952	1670	Schleitheim
+2953	758	Siblingen
+2961	309	Buch (SH)
+2962	415	Hemishofen
+2963	1279	Ramsen
+2964	3251	Stein am Rhein
+2971	2026	Hallau
+2972	416	Oberhallau
+2973	592	Trasadingen
+2974	1693	Wilchingen
+3001	15213	Herisau
+3002	962	Hundwil
+3003	494	Schönengrund
+3004	1474	Schwellbrunn
+3005	1362	Stein (AR)
+3006	2261	Urnäsch
+3007	1789	Waldstatt
+3021	1660	Bühler
+3022	3056	Gais
+3023	4002	Speicher
+3024	5749	Teufen (AR)
+3025	1683	Trogen
+3031	1015	Grub (AR)
+3032	3991	Heiden
+3033	1253	Lutzenberg
+3034	1701	Rehetobel
+3035	660	Reute (AR)
+3036	835	Wald (AR)
+3037	2069	Walzenhausen
+3038	1709	Wolfhalden
+3101	5719	Appenzell
+3102	1439	Gonten
+3103	3349	Rüte
+3104	1134	Schlatt-Haslen
+3105	2122	Schwende
+3111	1892	Oberegg
+3201	1187	Häggenschwil
+3202	1153	Muolen
+3203	72855	St. Gallen
+3204	9265	Wittenbach
+3212	2152	Eggersriet
+3441	1870	Andwil (SG)
+3442	8094	Gaiserwald
+3443	17720	Gossau (SG)
+3444	3330	Waldkirch
+3211	844	Berg (SG)
+3213	9036	Goldach
+3214	3506	Mörschwil
+3215	8835	Rorschach
+3216	6919	Rorschacherberg
+3217	3289	Steinach
+3218	1238	Tübach
+3219	999	Untereggen
+3237	6261	Thal
+3231	6964	Au (SG)
+3232	4397	Balgach
+3233	3679	Berneck
+3234	5838	Diepoldsau
+3235	3315	Rheineck
+3236	5558	St. Margrethen
+3238	8737	Widnau
+3251	10789	Altstätten
+3252	1429	Eichberg
+3253	2010	Marbach (SG)
+3254	8271	Oberriet (SG)
+3255	4270	Rebstein
+3256	2050	Rüthi (SG)
+3271	11158	Buchs (SG)
+3272	3101	Gams
+3273	6807	Grabs
+3274	4833	Sennwald
+3275	4551	Sevelen
+3276	5034	Wartau
+3291	5389	Bad Ragaz
+3292	4819	Flums
+3293	8330	Mels
+3294	1564	Pfäfers
+3295	2748	Quarten
+3296	5299	Sargans
+3297	4322	Vilters-Wangs
+3298	5270	Walenstadt
+3311	1662	Amden
+3312	2562	Benken (SG)
+3313	4163	Kaltbrunn
+3314	700	Rieden
+3315	3528	Schänis
+3316	1527	Weesen
+3331	1428	Ernetschwil
+3332	5573	Eschenbach (SG)
+3333	1117	Goldingen
+3334	2781	Gommiswald
+3337	1804	St. Gallenkappel
+3338	3518	Schmerikon
+3339	5810	Uznach
+3340	26267	Rapperswil-Jona
+3352	4895	Ebnat-Kappel
+3356	383	Stein (SG)
+3358	3326	Nesslau-Krummenau
+3359	2644	Wildhaus-Alt St. Johann
+3372	936	Hemberg
+3373	252	Krinau
+3374	1913	Lichtensteig
+3375	1338	Oberhelfenschwil
+3377	8107	Wattwil
+3378	4105	Neckertal
+3391	3397	Bütschwil
+3392	8103	Kirchberg (SG)
+3393	1386	Lütisburg
+3394	2871	Mosnang
+3403	1195	Ganterschwil
+3401	3903	Degersheim
+3402	9949	Flawil
+3405	3566	Jonschwil
+3407	5824	Oberuzwil
+3408	12625	Uzwil
+3421	4548	Bronschhofen
+3422	1422	Niederbüren
+3423	2892	Niederhelfenschwil
+3424	4124	Oberbüren
+3425	17945	Wil (SG)
+3426	4572	Zuzwil (SG)
+3501	145	Alvaschein
+3502	97	Mon
+3503	80	Mutten
+3504	140	Stierva
+3505	273	Tiefencastel
+3506	2600	Vaz/Obervaz
+3511	396	Alvaneu
+3512	113	Brienz/Brinzauls
+3513	533	Lantsch/Lenz
+3514	256	Schmitten (GR)
+3515	204	Surava
+3521	487	Bergün/Bravuogn
+3522	459	Filisur
+3531	202	Bivio
+3532	241	Cunter
+3533	42	Marmorera
+3534	30	Mulegns
+3536	309	Riom-Parsonz
+3538	219	Salouf
+3539	962	Savognin
+3540	100	Sur
+3541	336	Tinizong-Rona
+3551	1122	Brusio
+3561	3573	Poschiavo
+3631	215	Almens
+3633	354	Fürstenau
+3634	455	Paspels
+3635	239	Pratval
+3636	275	Rodels
+3637	314	Rothenbrunnen
+3638	817	Scharans
+3640	875	Sils im Domleschg
+3661	1996	Cazis
+3662	229	Flerden
+3663	410	Masein
+3668	2827	Thusis
+3669	143	Tschappina
+3670	111	Urmein
+3671	724	Tomils
+3681	172	Avers
+3691	71	Hinterrhein
+3693	157	Nufenen
+3694	411	Splügen
+3695	135	Sufers
+3701	862	Andeer
+3703	59	Casti-Wergenstein
+3705	210	Donat
+3707	46	Lohn (GR)
+3708	49	Mathon
+3711	38	Rongellen
+3712	438	Zillis-Reischen
+3713	83	Ferrera
+3721	2743	Bonaduz
+3722	7336	Domat/Ems
+3723	1298	Rhäzüns
+3731	2282	Felsberg
+3732	2656	Flims
+3733	1184	Tamins
+3734	1236	Trin
+3741	435	Ardez
+3742	177	Guarda
+3743	218	Lavin
+3744	213	Susch
+3745	351	Tarasp
+3746	1148	Zernez
+3751	480	Ramosch
+3752	808	Samnaun
+3753	447	Tschlin
+3761	513	Ftan
+3762	2376	Scuol
+3763	913	Sent
+3847	1589	Val Müstair
+3941	1004	Haldenstein
+3942	7859	Igis
+3943	542	Mastrils
+3945	3017	Trimmis
+3946	2374	Untervaz
+3947	3194	Zizers
+3951	593	Fläsch
+3952	849	Jenins
+3953	2555	Maienfeld
+3954	2218	Malans
+3781	664	Bever
+3782	1529	Celerina/Schlarigna
+3783	194	Madulain
+3784	1985	Pontresina
+3785	739	La Punt-Chamues-ch
+3786	2972	Samedan
+3787	5215	St. Moritz
+3788	707	S-chanf
+3789	754	Sils im Engadin/Segl
+3790	978	Silvaplana
+3791	1310	Zuoz
+3792	1616	Bregaglia
+3801	99	Arvigo
+3803	58	Braggio
+3804	101	Buseno
+3805	233	Castaneda
+3806	36	Cauco
+3808	116	Rossa
+3810	116	Santa Maria in Calanca
+3811	37	Selma
+3821	714	Lostallo
+3822	1232	Mesocco
+3823	352	Soazza
+3831	511	Cama
+3832	953	Grono
+3833	139	Leggia
+3834	2435	Roveredo (GR)
+3835	725	San Vittore
+3836	157	Verdabbio
+3901	33551	Chur
+3911	2117	Churwalden
+3921	2237	Arosa
+3922	56	Calfreisen
+3923	129	Castiel
+3924	293	Langwies
+3925	85	Lüen
+3926	498	Maladers
+3927	135	Molinis
+3929	215	Peist
+3931	218	St. Peter-Pagig
+3932	309	Tschiertschen-Praden
+3851	11237	Davos
+3861	613	Fideris
+3862	200	Furna
+3863	1144	Jenaz
+3871	3899	Klosters-Serneus
+3881	239	Conters im Prättigau
+3882	819	Küblis
+3883	756	Saas
+3891	1187	Luzein
+3893	376	St. Antönien
+3961	1325	Grüsch
+3962	2502	Schiers
+3971	401	Fanas
+3972	1391	Seewis im Prättigau
+3973	129	Valzeina
+3571	395	Castrisch
+3572	579	Falera
+3574	2300	Ilanz
+3575	1335	Laax
+3576	123	Ladir
+3577	201	Luven
+3578	109	Pitasch
+3579	67	Riein
+3580	352	Ruschein
+3581	672	Sagogn
+3582	498	Schluein
+3583	128	Schnaus
+3584	201	Sevgein
+3586	298	Valendas
+3587	234	Versam
+3592	246	Cumbel
+3593	88	Duvin
+3594	241	Degen
+3595	373	Lumbrein
+3596	241	Morissen
+3598	37	St. Martin
+3599	256	Suraua
+3603	1024	Vals
+3604	179	Vignogn
+3605	435	Vella
+3606	247	Vrin
+3611	225	Andiast
+3612	833	Obersaxen
+3613	29	Pigniu
+3614	412	Rueun
+3615	175	Siat
+3616	366	Waltensburg/Vuorz
+3617	311	Mundaun
+3651	314	Safien
+3652	107	Tenna
+3981	1297	Breil/Brigels
+3982	2112	Disentis/Mustér
+3983	435	Medel (Lucmagn)
+3984	82	Schlans
+3985	1285	Sumvitg
+3986	1725	Tujetsch
+3987	1155	Trun
+4001	19461	Aarau
+4002	1397	Biberstein
+4003	6969	Buchs (AG)
+4004	705	Densbüren
+4005	3567	Erlinsbach (AG)
+4006	6672	Gränichen
+4007	1436	Hirschthal
+4008	5564	Küttigen
+4009	3569	Muhen
+4010	7366	Oberentfelden
+4012	9640	Suhr
+4013	3863	Unterentfelden
+4021	17828	Baden
+4022	1569	Bellikon
+4023	2361	Bergdietikon
+4024	2569	Birmenstorf (AG)
+4026	3030	Ennetbaden
+4027	5229	Fislisbach
+4028	911	Freienwil
+4029	4639	Gebenstorf
+4030	1801	Killwangen
+4031	1580	Künten
+4032	1946	Mägenwil
+4033	4633	Mellingen
+4034	8078	Neuenhof
+4035	3456	Niederrohrdorf
+4037	3873	Oberrohrdorf
+4038	8126	Obersiggenthal
+4039	1989	Remetschwil
+4040	10831	Spreitenbach
+4041	1625	Stetten (AG)
+4042	2824	Turgi
+4044	6674	Untersiggenthal
+4045	19813	Wettingen
+4046	1417	Wohlenschwil
+4047	4220	Würenlingen
+4048	5642	Würenlos
+4049	4152	Ehrendingen
+4061	1741	Arni (AG)
+4062	4551	Berikon
+4063	6340	Bremgarten (AG)
+4064	921	Büttikon
+4065	3260	Dottikon
+4066	875	Eggenwil
+4067	1426	Fischbach-Göslikon
+4068	2260	Hägglingen
+4069	1092	Hermetschwil-Staffeln
+4071	1871	Jonen
+4072	2343	Niederwil (AG)
+4073	1915	Oberlunkhofen
+4074	2146	Oberwil-Lieli
+4075	4212	Rudolfstetten-Friedlisberg
+4076	2467	Sarmenstorf
+4077	1357	Tägerig
+4078	418	Uezwil
+4079	1280	Unterlunkhofen
+4080	5883	Villmergen
+4081	3525	Widen
+4082	14416	Wohlen (AG)
+4083	4147	Zufikon
+4084	543	Islisberg
+4091	1509	Auenstein
+4092	4117	Birr
+4093	631	Birrhard
+4094	697	Bözen
+4095	10305	Brugg
+4096	589	Effingen
+4097	260	Elfingen
+4098	133	Gallenkirch
+4099	424	Habsburg
+4100	2939	Hausen (AG)
+4103	137	Linn
+4104	2170	Lupfig
+4105	302	Mandach
+4106	410	Mönthal
+4107	944	Mülligen
+4108	492	Oberbözberg
+4109	497	Oberflachs
+4110	1043	Remigen
+4111	1440	Riniken
+4112	858	Rüfenach
+4113	638	Scherz
+4114	1214	Schinznach-Bad
+4115	1690	Schinznach-Dorf
+4117	735	Thalheim (AG)
+4119	727	Unterbözberg
+4120	1381	Veltheim (AG)
+4121	1993	Villigen
+4122	1495	Villnachern
+4123	6592	Windisch
+4131	2829	Beinwil am See
+4132	946	Birrwil
+4133	987	Burg (AG)
+4134	1137	Dürrenäsch
+4135	2063	Gontenschwil
+4136	1218	Holziken
+4137	445	Leimbach (AG)
+4138	731	Leutwil
+4139	5580	Menziken
+4140	2438	Oberkulm
+4141	7956	Reinach (AG)
+4142	829	Schlossrued
+4143	1181	Schmiedrued
+4144	3708	Schöftland
+4145	1571	Teufenthal (AG)
+4146	2890	Unterkulm
+4147	1232	Zetzwil
+4161	2001	Eiken
+4163	4811	Frick
+4164	963	Gansingen
+4165	3244	Gipf-Oberfrick
+4166	1324	Herznach
+4167	881	Hornussen
+4169	2553	Kaisten
+4170	3176	Laufenburg
+4172	745	Münchwilen (AG)
+4173	571	Oberhof
+4175	897	Oeschgen
+4176	673	Schwaderloch
+4177	1415	Sisseln
+4179	855	Ueken
+4181	1151	Wittnau
+4182	987	Wölflinswil
+4183	975	Zeihen
+4184	1927	Mettauertal
+4191	680	Ammerswil
+4192	1404	Boniswil
+4193	672	Brunegg
+4194	1943	Dintikon
+4195	1308	Egliswil
+4196	1869	Fahrwangen
+4197	764	Hallwil
+4198	960	Hendschiken
+4199	904	Holderbank (AG)
+4200	3216	Hunzenschwil
+4201	8296	Lenzburg
+4202	2626	Meisterschwanden
+4203	3988	Möriken-Wildegg
+4204	4198	Niederlenz
+4205	2354	Othmarsingen
+4206	4382	Rupperswil
+4207	2781	Schafisheim
+4208	3396	Seengen
+4209	4715	Seon
+4210	2575	Staufen
+4221	911	Abtwil
+4222	1295	Aristau
+4223	1679	Auw
+4224	1022	Beinwil (Freiamt)
+4225	550	Benzenschwil
+4226	593	Besenbüren
+4227	553	Bettwil
+4228	2495	Boswil
+4229	1004	Bünzen
+4230	1160	Buttwil
+4231	1212	Dietwil
+4232	184	Geltwil
+4233	319	Kallern
+4234	2600	Merenschwand
+4235	1008	Mühlau
+4236	6948	Muri (AG)
+4237	1341	Oberrüti
+4238	827	Rottenschwil
+4239	4038	Sins
+4240	2494	Waltenschwil
+4251	778	Hellikon
+4252	5119	Kaiseraugst
+4253	3609	Magden
+4254	9922	Möhlin
+4255	1296	Mumpf
+4256	1010	Obermumpf
+4257	367	Olsberg
+4258	11872	Rheinfelden
+4259	767	Schupfart
+4260	2797	Stein (AG)
+4261	1817	Wallbach
+4262	1067	Wegenstetten
+4263	2197	Zeiningen
+4264	845	Zuzgen
+4271	6956	Aarburg
+4272	299	Attelwil
+4273	790	Bottenwil
+4274	3647	Brittnau
+4275	755	Kirchleerau
+4276	4095	Kölliken
+4277	850	Moosleerau
+4279	2793	Murgenthal
+4280	12221	Oftringen
+4281	1218	Reitnau
+4282	7762	Rothrist
+4283	3487	Safenwil
+4284	1036	Staffelbach
+4285	4523	Strengelbach
+4286	1259	Uerkheim
+4287	1697	Vordemwald
+4288	155	Wiliberg
+4289	10774	Zofingen
+4301	289	Baldingen
+4302	166	Böbikon
+4303	3660	Böttstein
+4304	3731	Döttingen
+4305	1999	Endingen
+4306	378	Fisibach
+4307	798	Full-Reuenthal
+4308	397	Kaiserstuhl
+4309	3074	Klingnau
+4310	1582	Koblenz
+4311	1307	Leibstadt
+4312	2527	Lengnau (AG)
+4313	2107	Leuggern
+4314	233	Mellikon
+4315	966	Rekingen (AG)
+4316	715	Rietheim
+4317	238	Rümikon
+4318	1323	Schneisingen
+4319	632	Siglistorf
+4320	1051	Tegerfelden
+4321	370	Unterendingen
+4322	326	Wislikofen
+4323	4120	Bad Zurzach
+4401	13589	Arbon
+4406	640	Dozwil
+4411	4306	Egnach
+4416	1189	Hefenhofen
+4421	2603	Horn
+4426	996	Kesswil
+4431	2886	Roggwil (TG)
+4436	9747	Romanshorn
+4441	1306	Salmsach
+4446	513	Sommeri
+4451	1753	Uttwil
+4461	12196	Amriswil
+4471	5484	Bischofszell
+4476	3178	Erlen
+4486	1829	Hauptwil-Gottshaus
+4495	607	Hohentannen
+4501	3306	Kradolf-Schönenberg
+4506	3413	Sulgen
+4511	2073	Zihlschlacht-Sitterdorf
+4536	1693	Basadingen-Schlattingen
+4545	3433	Diessenhofen
+4546	1606	Schlatt (TG)
+4551	8067	Aadorf
+4561	2468	Felben-Wellhausen
+4566	23197	Frauenfeld
+4571	3433	Gachnang
+4590	816	Hüttlingen
+4591	2545	Matzingen
+4601	969	Neunforn
+4606	1113	Stettfurt
+4611	1304	Thundorf
+4616	1064	Uesslingen-Buch
+4621	1231	Warth-Weiningen
+4641	1977	Altnau
+4643	2095	Bottighofen
+4646	2879	Ermatingen
+4651	301	Gottlieben
+4656	1440	Güttingen
+4666	2280	Kemmental
+4671	19519	Kreuzlingen
+4681	1121	Langrickenbach
+4683	1365	Lengwil
+4691	2867	Münsterlingen
+4696	3950	Tägerwilen
+4701	991	Wäldi
+4711	2330	Affeltrangen
+4716	1054	Bettwiesen
+4721	2615	Bichelsee-Balterswil
+4723	685	Braunau
+4724	3845	Eschlikon
+4726	2587	Fischingen
+4741	1100	Lommis
+4746	4779	Münchwilen (TG)
+4751	2489	Rickenbach (TG)
+4756	767	Schönholzerswilen
+4761	7057	Sirnach
+4776	1382	Tobel-Tägerschen
+4781	4165	Wängi
+4786	2074	Wilen (TG)
+4791	1039	Wuppenau
+4801	849	Berlingen
+4806	1665	Eschenz
+4811	951	Herdern
+4816	1480	Homburg
+4821	1489	Hüttwilen
+4826	589	Mammern
+4831	2681	Müllheim
+4841	1934	Pfyn
+4846	399	Raperswilen
+4851	1276	Salenstein
+4864	3473	Steckborn
+4871	1617	Wagenhausen
+4881	1261	Amlikon-Bissegg
+4891	3100	Berg (TG)
+4901	1305	Birwinken
+4911	3266	Bürglen (TG)
+4921	2120	Bussnang
+4941	2488	Märstetten
+4946	10366	Weinfelden
+4951	2166	Wigoltingen
+5001	4288	Arbedo-Castione
+5002	17463	Bellinzona
+5003	2356	Cadenazzo
+5004	2735	Camorino
+5005	8418	Giubiasco
+5006	694	Gnosca
+5007	733	Gorduno
+5008	819	Gudo
+5009	373	Isone
+5010	1348	Lumino
+5012	117	Moleno
+5013	2645	Monte Carasso
+5014	565	Pianezzo
+5015	575	Preonzo
+5017	2287	Sant'Antonino
+5018	211	Sant'Antonio
+5019	3131	Sementina
+5040	366	Ludiano
+5041	1320	Malvaglia
+5046	353	Semione
+5048	1841	Acquarossa
+5049	1748	Blenio
+5061	1574	Airolo
+5062	102	Anzonico
+5063	61	Bedretto
+5064	983	Bodio
+5066	47	Calpiogna
+5067	61	Campello
+5068	84	Cavagnago
+5070	405	Chironico
+5071	174	Dalpe
+5072	1973	Faido
+5073	869	Giornico
+5074	589	Mairengo
+5075	134	Osco
+5076	352	Personico
+5077	869	Pollegio
+5078	442	Prato (Leventina)
+5079	1062	Quinto
+5081	81	Sobrio
+5091	5551	Ascona
+5095	204	Brione (Verzasca)
+5096	562	Brione sopra Minusio
+5097	1847	Brissago
+5099	725	Cavigliano
+5102	15	Corippo
+5105	111	Frasco
+5108	4403	Gordola
+5109	29	Gresso
+5112	1207	Lavertezzo
+5113	15361	Locarno
+5115	6470	Losone
+5117	223	Mergoscia
+5118	7011	Minusio
+5119	58	Mosogno
+5120	2802	Muralto
+5121	769	Orselina
+5125	677	Ronco sopra Ascona
+5129	92	Sonogno
+5130	738	Tegna
+5131	2683	Tenero-Contra
+5132	63	Vergeletto
+5133	1114	Verscio
+5135	286	Vogorno
+5136	291	Onsernone
+5137	354	Isorno
+5138	2918	Cugnasco-Gerra
+5397	1151	Centovalli
+5398	4948	Gambarogno
+5141	4110	Agno
+5143	319	Aranno
+5144	981	Arogno
+5146	309	Astano
+5148	1472	Bedano
+5149	653	Bedigliora
+5151	2428	Bioggio
+5154	842	Bissone
+5155	143	Bogno
+5160	481	Brusino Arsizio
+5161	713	Cademario
+5162	1483	Cadempino
+5163	2016	Cadro
+5167	1968	Canobbio
+5169	125	Carabietta
+5170	789	Carona
+5171	4058	Caslano
+5173	61	Certara
+5174	132	Cimadera
+5176	1979	Comano
+5178	849	Croglio
+5180	1333	Cureglia
+5181	533	Curio
+5186	489	Grancia
+5187	1203	Gravesano
+5189	1652	Lamone
+5192	55942	Lugano
+5193	1486	Magliaso
+5194	1274	Manno
+5195	600	Maroggia
+5196	5923	Massagno
+5197	1329	Melano
+5198	1659	Melide
+5199	1209	Mezzovico-Vira
+5200	287	Miglieglia
+5202	887	Monteggio
+5203	761	Morcote
+5205	877	Muzzano
+5206	333	Neggio
+5207	820	Novaggio
+5208	1379	Origlio
+5210	3819	Paradiso
+5212	1665	Ponte Capriasca
+5213	811	Ponte Tresa
+5214	1517	Porza
+5216	1335	Pura
+5219	755	Rovio
+5221	2155	Savosa
+5222	664	Sessa
+5224	1873	Sonvico
+5225	1817	Sorengo
+5226	6345	Capriasca
+5227	2994	Torricella-Taverne
+5229	634	Valcolla
+5230	581	Vernate
+5231	1951	Vezia
+5233	364	Vico Morcote
+5236	4513	Collina d'Oro
+5237	1313	Alto Malcantone
+5238	4215	Monteceneri
+5242	3422	Balerna
+5243	622	Besazio
+5249	2065	Castel San Pietro
+5250	7887	Chiasso
+5251	2687	Coldrerio
+5253	1739	Ligornetto
+5254	11663	Mendrisio
+5255	332	Meride
+5257	4547	Morbio Inferiore
+5260	2444	Novazzano
+5263	2535	Riva San Vitale
+5266	4332	Stabio
+5268	3053	Vacallo
+5269	1951	Breggia
+5281	6097	Biasca
+5282	2613	Claro
+5283	637	Cresciano
+5284	566	Iragna
+5285	1686	Lodrino
+5286	1038	Osogna
+5304	56	Bosco/Gurin
+5307	53	Campo (Vallemaggia)
+5309	59	Cerentino
+5310	1224	Cevio
+5315	47	Linescio
+5317	2487	Maggia
+5323	573	Lavizzara
+5324	1412	Avegno Gordevio
+5401	9097	Aigle
+5402	6422	Bex
+5403	346	Chessel
+5404	391	Corbeyrier
+5405	1196	Gryon
+5406	864	Lavey-Morcles
+5407	3748	Leysin
+5408	690	Noville
+5409	6990	Ollon
+5410	1020	Ormont-Dessous
+5411	1459	Ormont-Dessus
+5412	664	Rennaz
+5413	1002	Roche (VD)
+5414	4805	Villeneuve (VD)
+5415	990	Yvorne
+5451	3096	Avenches
+5452	632	Bellerive (VD)
+5453	270	Chabrey
+5455	329	Constantine
+5456	1294	Cudrefin
+5458	741	Faoug
+5459	182	Montmagny
+5460	203	Mur (VD)
+5461	234	Oleyres
+5462	394	Vallamand
+5463	281	Villars-le-Grand
+5662	167	Brenles
+5663	179	Bussy-sur-Moudon
+5665	210	Chavannes-sur-Moudon
+5666	163	Chesalles-sur-Moudon
+5668	49	Cremin
+5669	309	Curtilles
+5671	251	Dompierre (VD)
+5672	165	Forel-sur-Lucens
+5673	352	Hermenches
+5674	137	Lovatens
+5675	2585	Lucens
+5678	4894	Moudon
+5681	50	Oulens-sur-Lucens
+5683	139	Prévonloup
+5684	57	Rossenges
+5686	85	Sarzens
+5688	120	Syens
+5690	151	Villars-le-Comte
+5692	535	Vucherens
+5782	903	Carrouge (VD)
+5785	415	Corcelles-le-Jorat
+5798	368	Ropraz
+5803	429	Vulliens
+5811	54	Cerniaz (VD)
+5812	123	Champtauroz
+5813	407	Chevroux
+5814	310	Combremont-le-Grand
+5815	381	Combremont-le-Petit
+5816	1901	Corcelles-près-Payerne
+5817	794	Grandcour
+5818	1221	Granges-près-Marnand
+5819	247	Henniez
+5820	166	Marnand
+5821	312	Missy
+5822	8680	Payerne
+5824	152	Sassel
+5826	280	Seigneux
+5827	258	Trey
+5828	123	Treytorrens (Payerne)
+5829	121	Villars-Bramard
+5830	363	Villarzel
+5471	345	Bettens
+5472	285	Bournens
+5473	867	Boussens
+5480	898	Daillens
+5487	351	Lussery-Villars
+5489	670	Mex (VD)
+5495	2913	Penthalaz
+5496	1595	Penthaz
+5501	861	Sullens
+5503	1144	Vufflens-la-Ville
+5511	1003	Assens
+5512	1131	Bercher
+5513	439	Bioley-Orjulaz
+5514	1105	Bottens
+5515	729	Bretigny-sur-Morrens
+5516	2257	Cugy (VD)
+5517	274	Dommartin
+5518	5152	Echallens
+5519	144	Eclagnens
+5520	862	Essertines-sur-Yverdon
+5521	953	Etagnières
+5522	561	Fey
+5523	1762	Froideville
+5524	665	Goumoens-la-Ville
+5525	43	Goumoens-le-Jux
+5527	983	Morrens (VD)
+5528	137	Naz
+5529	489	Oulens-sous-Echallens
+5530	471	Pailly
+5531	357	Penthéréaz
+5532	718	Poliez-le-Grand
+5533	686	Poliez-Pittet
+5534	238	Rueyres
+5535	749	Saint-Barthélemy (VD)
+5536	313	Sugnens
+5537	783	Villars-le-Terroir
+5538	413	Villars-Tiercelin
+5539	780	Vuarrens
+5661	283	Boulens
+5664	390	Chapelle-sur-Moudon
+5667	106	Correvon
+5670	144	Denezy
+5676	74	Martherenges
+5677	69	Montaubion-Chardonney
+5679	140	Neyruz-sur-Moudon
+5680	271	Ogens
+5682	153	Peyres-Possens
+5685	462	Saint-Cierges
+5687	251	Sottens
+5689	676	Thierrens
+5691	194	Villars-Mendraz
+5796	382	Peney-le-Jorat
+5923	169	Oppens
+5551	506	Bonvillars
+5552	584	Bullet
+5553	808	Champagne
+5554	793	Concise
+5555	273	Corcelles-près-Concise
+5556	408	Fiez
+5557	146	Fontaines-sur-Grandson
+5558	58	Fontanezier
+5559	349	Giez
+5560	211	Grandevent
+5561	3034	Grandson
+5562	93	Mauborget
+5563	134	Mutrux
+5564	99	Novalles
+5565	475	Onnens (VD)
+5566	349	Provence
+5567	32	Romairon
+5568	4492	Sainte-Croix
+5569	32	Vaugondry
+5570	574	Villars-Burquin
+5741	251	L'Abergement
+5742	254	Agiez
+5743	587	Arnex-sur-Orbe
+5744	928	Ballaigues
+5745	986	Baulmes
+5746	767	Bavois
+5747	187	Bofflens
+5748	224	Bretonnières
+5749	3597	Chavornay
+5750	164	Les Clées
+5751	319	Corcelles-sur-Chavornay
+5752	324	Croy
+5754	270	Juriens
+5755	386	Lignerolle
+5756	436	Montcherand
+5757	6140	Orbe
+5758	166	La Praz
+5759	190	Premier
+5760	432	Rances
+5761	471	Romainmôtier-Envy
+5762	143	Sergey
+5763	519	Valeyres-sous-Rances
+5764	3293	Vallorbe
+5765	455	Vaulion
+5766	492	Vuiteboeuf
+5871	1312	L'Abbaye
+5872	4283	Le Chenit
+5873	869	Le Lieu
+5902	290	Belmont-sur-Yverdon
+5903	166	Bioley-Magnoux
+5904	563	Chamblon
+5905	376	Champvent
+5906	106	Chanéaz
+5907	254	Chavannes-le-Chêne
+5908	117	Chêne-Pâquier
+5909	625	Cheseaux-Noréaz
+5910	321	Cronay
+5911	171	Cuarny
+5912	129	Démoret
+5913	595	Donneloye
+5914	324	Ependes (VD)
+5915	135	Essert-Pittet
+5916	148	Essert-sous-Champvent
+5918	164	Gressy
+5919	554	Mathod
+5921	208	Molondin
+5922	708	Montagny-près-Yverdon
+5924	263	Orges
+5925	200	Orzens
+5926	669	Pomy
+5927	125	Prahins
+5928	143	Rovray
+5929	428	Suchy
+5930	183	Suscévaz
+5931	462	Treycovagnes
+5932	197	Ursins
+5933	651	Valeyres-sous-Montagny
+5934	232	Valeyres-sous-Ursins
+5935	77	Villars-Epeney
+5936	59	Villars-sous-Champvent
+5937	126	Vugelles-La Mothe
+5938	27101	Yverdon-les-Bains
+5939	2513	Yvonand
+5582	3896	Cheseaux-sur-Lausanne
+5584	8486	Epalinges
+5585	1341	Jouxtens-Mézery
+5586	126998	Lausanne
+5587	5551	Le Mont-sur-Lausanne
+5592	3271	Romanel-sur-Lausanne
+5581	3360	Belmont-sur-Lausanne
+5588	1383	Paudex
+5590	17235	Pully
+5601	2046	Chexbres
+5602	1763	Cully
+5603	330	Epesses
+5604	1932	Forel (Lavaux)
+5605	1995	Grandvaux
+5606	9330	Lutry
+5607	2650	Puidoux
+5608	286	Riex
+5609	360	Rivaz
+5610	359	Saint-Saphorin (Lavaux)
+5611	3413	Savigny
+5612	586	Villette (Lavaux)
+5781	77	Bussigny-sur-Oron
+5783	485	Châtillens
+5784	195	Chesalles-sur-Oron
+5786	694	Les Cullayes
+5787	353	Ecoteaux
+5788	305	Essertes
+5789	331	Ferlens (VD)
+5790	457	Maracon
+5791	1071	Mézières (VD)
+5792	530	Montpreveyres
+5793	1413	Oron-la-Ville
+5794	297	Oron-le-Châtel
+5795	1325	Palézieux
+5799	1082	Servion
+5800	129	Les Tavernes
+5801	214	Les Thioleyres
+5802	124	Vuibroye
+5421	1257	Apples
+5422	2865	Aubonne
+5423	436	Ballens
+5424	282	Berolle
+5425	1479	Bière
+5426	444	Bougy-Villars
+5427	773	Féchy
+5428	1761	Gimel
+5431	278	Mollens (VD)
+5432	541	Montherod
+5433	76	Pizy
+5435	603	Saint-Livres
+5436	311	Saint-Oyens
+5437	352	Saubraz
+5474	420	La Chaux (Cossonay)
+5475	120	Chavannes-le-Veyron
+5476	247	Chevilly
+5477	3326	Cossonay
+5478	436	Cottens (VD)
+5479	378	Cuarnens
+5481	218	Dizy
+5482	996	Eclépens
+5483	295	Ferreyres
+5484	627	Gollion
+5485	387	Grancy
+5486	975	L'Isle
+5488	54	Mauraz
+5490	261	Moiry
+5491	343	Mont-la-Ville
+5492	821	Montricher
+5493	368	Orny
+5494	993	Pampigny
+5497	766	Pompaples
+5498	2169	La Sarraz
+5499	399	Senarclens
+5500	217	Sévery
+5621	473	Aclens
+5622	479	Bremblens
+5623	616	Buchillon
+5625	375	Bussy-Chardonney
+5628	322	Chigny
+5629	138	Clarmont
+5630	520	Colombier (VD)
+5631	659	Denens
+5632	1585	Denges
+5633	2191	Echandens
+5634	1032	Echichens
+5636	2813	Etoy
+5637	820	Lavigny
+5638	2450	Lonay
+5639	785	Lully (VD)
+5640	593	Lussy-sur-Morges
+5641	370	Monnaz
+5642	14525	Morges
+5643	4935	Préverenges
+5644	346	Reverolle
+5645	469	Romanel-sur-Morges
+5646	5118	Saint-Prex
+5647	464	Saint-Saphorin-sur-Morges
+5649	1718	Tolochenaz
+5650	169	Vaux-sur-Morges
+5652	584	Villars-sous-Yens
+5653	780	Vufflens-le-Château
+5654	415	Vullierens
+5655	1065	Yens
+5851	399	Allaman
+5429	423	Longirod
+5430	419	Marchissy
+5434	949	Saint-George
+5701	140	Arnex-sur-Nyon
+5702	2275	Arzier
+5703	1137	Bassins
+5704	1660	Begnins
+5705	947	Bogis-Bossey
+5706	873	Borex
+5707	1060	Chavannes-de-Bogis
+5708	566	Chavannes-des-Bois
+5709	1231	Chéserex
+5710	391	Coinsins
+5711	2703	Commugny
+5712	3142	Coppet
+5713	2094	Crans-près-Céligny
+5714	1126	Crassier
+5715	1084	Duillier
+5716	1257	Eysins
+5717	3275	Founex
+5718	1838	Genolier
+5719	1145	Gingins
+5720	956	Givrins
+5721	11696	Gland
+5722	372	Grens
+5723	1862	Mies
+5724	18727	Nyon
+5725	3922	Prangins
+5726	1054	La Rippe
+5727	2069	Saint-Cergue
+5728	445	Signy-Avenex
+5729	1547	Tannay
+5730	1391	Trélex
+5731	1240	Le Vaud
+5732	764	Vich
+5852	488	Bursinel
+5853	745	Bursins
+5854	339	Burtigny
+5855	564	Dully
+5856	667	Essertines-sur-Rolle
+5857	938	Gilly
+5858	533	Luins
+5859	2457	Mont-sur-Rolle
+5860	1339	Perroy
+5861	5806	Rolle
+5862	226	Tartegnin
+5863	352	Vinzel
+5583	7099	Crissier
+5589	11266	Prilly
+5591	19483	Renens (VD)
+5624	8023	Bussigny-près-Lausanne
+5627	6821	Chavannes-près-Renens
+5635	11063	Ecublens (VD)
+5648	3226	Saint-Sulpice (VD)
+5651	671	Villars-Sainte-Croix
+5841	3215	Château-d'Oex
+5842	509	Rossinière
+5843	903	Rougemont
+5881	5851	Blonay
+5882	2738	Chardonne
+5883	2134	Corseaux
+5884	3212	Corsier-sur-Vevey
+5885	1437	Jongny
+5886	24919	Montreux
+5888	4946	Saint-Légier-La Chiésaz
+5889	10750	La Tour-de-Peilz
+5890	18247	Vevey
+5891	822	Veytaux
+6001	229	Birgisch
+6002	12312	Brig-Glis
+6004	337	Eggerberg
+6006	531	Mund
+6007	8158	Naters
+6008	1792	Ried-Brig
+6009	344	Simplon
+6010	866	Termen
+6011	102	Zwischbergen
+6021	2589	Ardon
+6022	3078	Chamoson
+6023	7686	Conthey
+6024	6079	Nendaz
+6025	4642	Vétroz
+6031	7787	Bagnes
+6032	175	Bourg-Saint-Pierre
+6033	738	Liddes
+6034	2983	Orsières
+6035	856	Sembrancher
+6036	1581	Vollèges
+6052	464	Bellwald
+6054	146	Binn
+6055	75	Blitzingen
+6056	536	Ernen
+6057	959	Fiesch
+6058	304	Fieschertal
+6061	298	Lax
+6064	41	Niederwald
+6073	193	Grafschaft
+6074	493	Münster-Geschinen
+6075	493	Reckingen-Gluringen
+6076	716	Obergoms
+6081	336	Les Agettes
+6082	3529	Ayent
+6083	1661	Evolène
+6084	1331	Hérémence
+6085	248	Mase
+6086	456	Nax
+6087	921	Saint-Martin (VS)
+6088	191	Vernamiège
+6089	1670	Vex
+6101	765	Agarn
+6102	276	Albinen
+6104	186	Ergisch
+6105	278	Erschmatt
+6109	114	Inden
+6110	3515	Leuk
+6111	1622	Leukerbad
+6112	132	Oberems
+6113	1364	Salgesch
+6114	963	Turtmann
+6115	162	Unterems
+6116	609	Varen
+6117	449	Guttet-Feschel
+6118	1853	Gampel-Bratsch
+6131	786	Bovernier
+6132	1401	Charrat
+6133	7652	Fully
+6134	879	Isérables
+6135	2710	Leytron
+6136	15987	Martigny
+6137	2173	Martigny-Combe
+6139	2726	Riddes
+6140	2138	Saillon
+6141	4519	Saxon
+6142	150	Trient
+6151	1291	Champéry
+6152	7153	Collombey-Muraz
+6153	16753	Monthey
+6154	3330	Port-Valais
+6155	858	Saint-Gingolph
+6156	4194	Troistorrents
+6157	1730	Val-d'Illiez
+6158	2217	Vionnaz
+6159	3675	Vouvry
+6171	426	Betten
+6172	31	Bister
+6173	842	Bitsch
+6177	464	Grengiols
+6178	21	Martisberg
+6181	527	Riederalp
+6191	645	Ausserberg
+6192	307	Blatten
+6193	703	Bürchen
+6194	483	Eischoll
+6195	262	Ferden
+6197	381	Kippel
+6198	699	Niedergesteln
+6199	1781	Raron
+6201	398	Unterbäch
+6202	563	Wiler (Lötschen)
+6203	686	Mörel-Filet
+6204	1541	Steg-Hohtenn
+6211	542	Collonges
+6212	757	Dorénaz
+6213	1102	Evionnaz
+6214	375	Finhaut
+6215	1554	Massongex
+6216	152	Mex (VS)
+6217	4153	Saint-Maurice
+6218	1130	Salvan
+6219	1773	Vernayaz
+6220	582	Vérossaz
+6232	3157	Chalais
+6234	2982	Chermignon
+6235	1599	Chippis
+6238	2206	Grône
+6239	509	Icogne
+6240	3795	Lens
+6241	1225	Miège
+6242	907	Mollens (VS)
+6243	2329	Montana
+6244	4211	Randogne
+6246	2119	Saint-Léonard
+6248	15969	Sierre
+6249	1185	Venthône
+6250	1763	Veyras
+6252	2578	Anniviers
+6261	1086	Arbaz
+6263	2816	Grimisuat
+6264	985	Salins
+6265	6564	Savièse
+6266	30092	Sion
+6267	557	Veysonnaz
+6281	1222	Baltschieder
+6282	207	Eisten
+6283	323	Embd
+6285	1379	Grächen
+6286	656	Lalden
+6287	411	Randa
+6288	395	Saas-Almagell
+6289	416	Saas-Balen
+6290	1769	Saas-Fee
+6291	1121	Saas-Grund
+6292	2291	St. Niklaus
+6293	1105	Stalden (VS)
+6294	573	Staldenried
+6295	1140	Täsch
+6296	479	Törbel
+6297	6998	Visp
+6298	1385	Visperterminen
+6299	264	Zeneggen
+6300	5801	Zermatt
+6401	1599	Auvernier
+6402	3839	Bevaix
+6403	1759	Bôle
+6404	5000	Boudry
+6405	97	Brot-Dessous
+6406	5591	Colombier (NE)
+6407	4615	Corcelles-Cormondrèche
+6408	4539	Cortaillod
+6409	215	Fresens
+6410	1928	Gorgier
+6411	235	Montalchez
+6412	5726	Peseux
+6413	1066	Rochefort
+6414	2432	Saint-Aubin-Sauges
+6415	264	Vaumarcus
+6421	37351	La Chaux-de-Fonds
+6422	225	Les Planchettes
+6423	957	La Sagne
+6431	1086	Les Brenets
+6432	656	La Brévine
+6433	254	Brot-Plamboz
+6434	324	Le Cerneux-Péquignot
+6435	464	La Chaux-du-Milieu
+6436	10024	Le Locle
+6437	1263	Les Ponts-de-Martel
+6451	1533	Cornaux
+6452	1901	Cressier (NE)
+6453	269	Enges
+6454	2543	Hauterive (NE)
+6455	4468	Le Landeron
+6456	959	Lignières
+6458	33016	Neuchâtel
+6459	3147	Saint-Blaise
+6461	4826	La Tène
+6471	786	Boudevilliers
+6472	2227	Cernier
+6473	1795	Chézard-Saint-Martin
+6474	678	Coffrane
+6475	1581	Dombresson
+6476	99	Engollon
+6477	823	Fenin-Vilars-Saules
+6478	1643	Fontainemelon
+6479	1107	Fontaines (NE)
+6480	1472	Les Geneveys-sur-Coffrane
+6481	859	Les Hauts-Geneveys
+6482	545	Montmollin
+6483	208	Le Pâquier (NE)
+6484	1166	Savagnier
+6485	412	Valangin
+6486	433	Villiers
+6504	453	La Côte-aux-Fées
+6511	665	Les Verrières
+6512	10781	Val-de-Travers
+6601	1161	Aire-la-Ville
+6602	2272	Anières
+6603	1748	Avully
+6604	1383	Avusy
+6605	2212	Bardonnex
+6606	3231	Bellevue
+6607	9650	Bernex
+6608	20262	Carouge (GE)
+6609	863	Cartigny
+6610	670	Céligny
+6611	1150	Chancy
+6612	10485	Chêne-Bougeries
+6613	8052	Chêne-Bourg
+6614	961	Choulex
+6615	1652	Collex-Bossy
+6616	7688	Collonge-Bellerive
+6617	4935	Cologny
+6618	4175	Confignon
+6619	1846	Corsier (GE)
+6620	1470	Dardagny
+6621	187295	Genève
+6622	2722	Genthod
+6623	11538	Le Grand-Saconnex
+6624	454	Gy
+6625	939	Hermance
+6626	1151	Jussy
+6627	610	Laconnex
+6628	28916	Lancy
+6629	1911	Meinier
+6630	21624	Meyrin
+6631	17366	Onex
+6632	2903	Perly-Certoux
+6633	9974	Plan-les-Ouates
+6634	3588	Pregny-Chambésy
+6635	605	Presinge
+6636	2032	Puplinge
+6637	470	Russin
+6638	3586	Satigny
+6639	734	Soral
+6640	13578	Thônex
+6641	2237	Troinex
+6642	2620	Vandoeuvres
+6643	32758	Vernier
+6644	13046	Versoix
+6645	10036	Veyrier
+6701	3391	Bassecourt
+6702	863	Boécourt
+6703	273	Bourrignon
+6704	432	Châtillon (JU)
+6705	482	Corban
+6706	426	Courchapoix
+6707	1612	Courfaivre
+6708	2504	Courrendlin
+6709	3041	Courroux
+6710	2382	Courtételle
+6711	11593	Delémont
+6712	1365	Develier
+6713	117	Ederswiler
+6714	1205	Glovelier
+6715	550	Mervelier
+6716	124	Mettembert
+6717	498	Montsevelier
+6718	373	Movelier
+6719	388	Pleigne
+6720	393	Rebeuvelier
+6721	561	Rossemaison
+6722	258	Saulcy
+6723	241	Soulce
+6724	478	Soyhières
+6725	302	Undervelier
+6726	328	Vermes
+6727	1767	Vicques
+6728	73	Vellerat
+6741	328	Le Bémont (JU)
+6742	1164	Les Bois
+6743	1397	Les Breuleux
+6744	80	La Chaux-des-Breuleux
+6745	167	Les Enfers
+6748	535	Les Genevez (JU)
+6750	684	Lajoux (JU)
+6751	594	Montfaucon
+6753	489	Muriaux
+6754	1671	Le Noirmont
+6757	2502	Saignelégier
+6758	221	Saint-Brais
+6759	148	Soubey
+6771	1701	Alle
+6773	137	Beurnevésin
+6774	1295	Boncourt
+6775	684	Bonfol
+6776	428	Bressaucourt
+6778	670	Bure
+6781	681	Coeuve
+6782	917	Cornol
+6783	305	Courchavon
+6784	2159	Courgenay
+6785	721	Courtedoux
+6787	168	Damphreux
+6789	349	Fahy
+6790	1232	Fontenais
+6792	364	Grandfontaine
+6793	202	Lugnez
+6800	6695	Porrentruy
+6803	158	Rocourt
+6806	545	Vendlincourt
+6807	1301	Basse-Allaine
+6808	1269	Clos du Doubs
+6809	998	Haute-Ajoie
+6810	1185	La Baroche
