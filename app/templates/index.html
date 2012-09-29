@@ -29,6 +29,14 @@
         Shadowbox.init({
    		  	players:  ['html', 'iframe'] 
 				});
+				
+				
+				$('document').ready(function(){
+					$('#input-form').submit(function(){
+						retrieveData();
+						return false;
+					})
+				});
     </script>
 
 </head>
@@ -39,9 +47,11 @@
 
 <div class="demo">
     <div class="ui-widget">
+    	<form id="input-form" action="">
         <label for="location">Please enter a location in Switzerland:</label>
         <input id="location" class="ui-autocomplete-input ui-corner-all" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-        <button id="submit" onclick="retrieveData()">Fetch data!</button>
+        <button id="submit">Fetch data!</button>
+      </form>
     </div>
 </div>
 
