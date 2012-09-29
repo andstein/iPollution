@@ -13,6 +13,12 @@
         var search_url = '{{ url_for('search') }}';
         var values_url = '{{ url_for('get_values') }}';
         var year_start=1990,year_stop=2012;
+        var all_data={};
+        var all_units= {'o3':'hours', 'no2':'μg/m3', 'pm10':'μg/m3'};
+        var all_names= {'o3':'Ozone', 'no2':'Nitrogen dioxide', 'pm10':'Particulates'};
+        var year_labels=[];
+        for(var y=year_start; y<=year_stop; y++)
+            year_labels.push( String(y).substr(2) );
     </script>
 
 </head>

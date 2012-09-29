@@ -118,7 +118,7 @@ def dump_image():
 
             return Response( response=content, mimetype='image/png' )
 
-        print img.substance + '--' + img.year
+########        print img.substance + '--' + str(img.year)
 
     return redirect(url_for('static',filename='img/not_found.png'))
 

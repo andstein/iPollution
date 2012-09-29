@@ -84,7 +84,7 @@ class mapImage(object):
         if x>=self.img.size[0] or x<0 or y>=self.img.size[1] or y<0:
             raise MapException('indexes {e}/{n} (mapping to {x},{y}) out of bounds'.format(
                 e=e,n=n,x=x,y=y))
-        r,g,b= self.pixels[int(x),int(y)] #TODO bound checks, interpolate
+        r,g,b= self.pixels[int(x),int(y)]
         return (r/256.,g/256.,b/256.)
 
     def hue(self,e,n):
