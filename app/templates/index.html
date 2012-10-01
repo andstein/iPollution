@@ -15,12 +15,12 @@
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='js/shadowbox/shadowbox.css') }}" />
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}" />
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}" />
-		
+
     <script type="text/javascript">
         var search_url = '{{ url_for('search') }}';
         var values_url = '{{ url_for('get_values') }}';
         var dump_url = '{{ url_for('dump_image') }}';
-        var year_start=1990,year_stop=2012;
+        var year_start=1990,year_stop=(new Date()).getFullYear();
         var raw_data={};
         var all_data={};
         var locations=[];
@@ -32,29 +32,33 @@
             year_labels.push( String(y).substr(2) );
             year_labels_complete.push(String(y));
         }
-        Shadowbox.init({
-   		  	players:  ['html', 'iframe'] 
-				});
-				
-				
-				$('document').ready(function(){
-					$('#input-form').submit(function(){
-						retrieveData();
-						return false;
-					})
-				});
+
+
+        $('document').ready(function(){
+                Shadowbox.init({
+                    players:  ['html', 'iframe'] 
+                });
+
+                $('#input-form').submit(function(){
+                    retrieveData();
+                    return false;
+                    })
+
+                $('#period').text('Period: ' + year_start + ' - ' + year_stop);
+                });
     </script>
+
+<style type="text/css">
+
+body { 
+    background: url({{ url_for('static', filename='img/airpollution.jpg') }}) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
     
-    <style type="text/css">
-    	body { 
-				background: url({{ url_for('static', filename='img/airpollution.jpg') }}) no-repeat center center fixed; 
-				-webkit-background-size: cover;
-				-moz-background-size: cover;
-				-o-background-size: cover;
-				background-size: cover;
-			}
-        
-    </style>
+</style>
 
 </head>
 
@@ -67,21 +71,21 @@
 
 
 <div id="hiddenDescription">
-	<div id="hiddenDescriptionInner">
-	<strong>iPollution</strong> lets you check the quality of the air you breathe in all of Switzerland. Just enter the place you live and the timespan you're interested in (data is available from 1990 onwards). iPollution gives you the total amount of particulates, nitrogen dioxide and ozone.<br/><br/>
+    <div id="hiddenDescriptionInner">
+        <strong>iPollution</strong> lets you check the quality of the air you breathe in all of Switzerland. Just enter the place you live and the timespan you're interested in (data is available from 1990 onwards). iPollution gives you the total amount of particulates, nitrogen dioxide and ozone.<br/><br/>
 
-iPollution also lets you compare your city with any other place in Switzerland and allows you to see how pollution values have changed for a specific place over the years.  <br/><br/>
+        iPollution also lets you compare your city with any other place in Switzerland and allows you to see how pollution values have changed for a specific place over the years.  <br/><br/>
 
-The data we use are annual values published by the <a target="_new" href="http://www.bafu.admin.ch/luft/luftbelastung/schadstoffkarten/index.html?lang=en">Swiss Federal Office for the Environment</a>. Since the data is not available in raw form but only as colored pollution maps, we extract the color values from those maps to create the data set for iPollution.<br/><br/>
+        The data we use are annual values published by the <a target="_blank" href="http://www.bafu.admin.ch/luft/luftbelastung/schadstoffkarten/index.html?lang=en">Swiss Federal Office for the Environment</a>. Since the data is not available in raw form but only as colored pollution maps, we extract the color values from those maps to create the data set for iPollution.<br/><br/>
 
-iPollution was developed by Andreas Steiner, Christian Studer and Nicolai Kilian during the Opendata Hackdays in Basel on September 28-29 2012. You can find out more about the project on <a target="_new" href="http://make.opendata.ch/doku.php?id=project:health:ipollution">Opendata.ch</a> and you can <a target="_new" href="https://github.com/andstein/iPollution">fork iPollution on Github</a>.
+        iPollution was developed by Andreas Steiner, Christian Studer and Nicolai Kilian during the Opendata Hackdays in Basel on September 28-29 2012. You can find out more about the project on <a target="_blank" href="http://make.opendata.ch/doku.php?id=project:health:ipollution">Opendata.ch</a> and you can <a target="_blank" href="https://github.com/andstein/iPollution">fork iPollution on Github</a>.
 </div>
 </div>
 
 
 <div class="input">
     <div class="ui-widget">
-    	<form id="input-form" action="">
+        <form id="input-form" action="">
         <label for="location">Please enter a location in Switzerland:</label>
         <input id="location" class="ui-autocomplete-input ui-corner-all" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
         <button id="submit">Fetch data!</button>
@@ -90,18 +94,18 @@ iPollution was developed by Andreas Steiner, Christian Studer and Nicolai Kilian
 </div>
 
 <div id="results_container">
-	<div id="period">Period: 1990 - 2007</div>
+    <div id="period"></div>
 <div id="table_container">
     <table class="table">
         <tr id="row_head"><th style="color:black">Pollutant</th></tr>
-        <tr id="row_pm10"><td><a href="http://en.wikipedia.org/wiki/Particulates#Health_effects" target="_new">Particulates</a></td></tr>
-        <tr id="row_no2"><td><a href="http://en.wikipedia.org/wiki/Nitrogen_dioxide#Safety_and_pollution_considerations" target="_new">Nitrogen dioxide</a></td></tr>
-        <tr id="row_o3"><td><a href="http://en.wikipedia.org/wiki/Ozone#Ozone_air_pollution" target="_new">Ozone</a></td></tr>
+        <tr id="row_pm10"><td><a href="http://en.wikipedia.org/wiki/Particulates#Health_effects" target="_blank">Particulates</a></td></tr>
+        <tr id="row_no2"><td><a href="http://en.wikipedia.org/wiki/Nitrogen_dioxide#Safety_and_pollution_considerations" target="_blank">Nitrogen dioxide</a></td></tr>
+        <tr id="row_o3"><td><a href="http://en.wikipedia.org/wiki/Ozone#Ozone_air_pollution" target="_blank">Ozone</a></td></tr>
     </table>
 </div>
 
 <div id="charts_container" style="min-width: 400px; height: 400px; margin: 0 auto">
-	<div id="charts_description_inner">A graph will appear here when you click on the different values below your target location in the table.</div>
+    <div id="charts_description_inner">A graph will appear here when you click on the different values below your target location in the table.</div>
 </div>
 </div>
 
